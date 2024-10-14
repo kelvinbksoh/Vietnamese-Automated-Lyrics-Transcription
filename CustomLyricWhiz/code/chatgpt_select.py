@@ -103,7 +103,10 @@ def main():
             print(response)
             best_transcription_idx = int(response['closest_prediction'].split('_')[-1])
             with open(output_dir + '/' + audio_json, 'w') as f:
-                json.dump(data[best_transcription_idx], f, indent=4, ensure_ascii=False)        
+                data_dict = data[best_transcription_idx]
+                chatgpt_dict = {"chatgpt_response": response}
+                data_dict.update(chatgpt_dict)
+                json.dump(data_dict, f, indent=4, ensure_ascii=False)        
         
 if __name__ == '__main__':
     main()

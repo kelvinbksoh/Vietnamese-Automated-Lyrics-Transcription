@@ -19,9 +19,9 @@
                 50717
             ],
             "temperature": 0.5,
-            "avg_logprob": -0.22768778800964357,
+            "avg_logprob": -0.22750616073608398,
             "compression_ratio": 0.7419354838709677,
-            "no_speech_prob": 0.14164139330387115
+            "no_speech_prob": 0.1415635049343109
         }
     ],
     "language": "vi",
@@ -66,5 +66,10 @@
             "tag": "Male speech, man speaking",
             "prob": 0.013376723974943161
         }
-    ]
+    ],
+    "chatgpt_response": {
+        "reasons": "All predictions are identical and coherent, suggesting they likely match the true lyrics.",
+        "closest_prediction": "prediction_0",
+        "output": "Shall we go for a walk?"
+    }
 }
