@@ -1,0 +1,5 @@
+tqdm
+librosa
+numpy
+panns_inference
+git+https://github.com/openai/whisper.git 
