@@ -1,70 +1,240 @@
-{
-    "text": " Shall we go for a walk?",
-    "segments": [
-        {
-            "id": 0,
-            "seek": 0,
-            "start": 0.0,
-            "end": 7.04,
-            "text": " Shall we go for a walk?",
-            "tokens": [
-                50365,
-                12128,
-                321,
-                352,
-                337,
-                257,
-                1792,
-                30,
-                50717
-            ],
-            "temperature": 0.0,
-            "avg_logprob": -0.22767419815063478,
-            "compression_ratio": 0.7419354838709677,
-            "no_speech_prob": 0.1425161361694336
-        }
-    ],
-    "language": "vi",
-    "tags_with_probs": [
-        {
-            "tag": "Speech",
-            "prob": 0.6546998023986816
-        },
-        {
-            "tag": "Speech synthesizer",
-            "prob": 0.2002938985824585
-        },
-        {
-            "tag": "Sigh",
-            "prob": 0.08639565110206604
-        },
-        {
-            "tag": "Inside, small room",
-            "prob": 0.0830187201499939
-        },
-        {
-            "tag": "Narration, monologue",
-            "prob": 0.05175396054983139
-        },
-        {
-            "tag": "Clicking",
-            "prob": 0.05094735324382782
-        },
-        {
-            "tag": "Silence",
-            "prob": 0.03486515209078789
-        },
-        {
-            "tag": "Music",
-            "prob": 0.020715773105621338
-        },
-        {
-            "tag": "Conversation",
-            "prob": 0.013896790333092213
-        },
-        {
-            "tag": "Male speech, man speaking",
-            "prob": 0.013376723974943161
-        }
-    ]
-}
+[
+    {
+        "text": " Shall we go for a walk?",
+        "segments": [
+            {
+                "id": 0,
+                "seek": 0,
+                "start": 0.0,
+                "end": 7.0600000000000005,
+                "text": " Shall we go for a walk?",
+                "tokens": [
+                    50365,
+                    12128,
+                    321,
+                    352,
+                    337,
+                    257,
+                    1792,
+                    30,
+                    50718
+                ],
+                "temperature": 0.5,
+                "avg_logprob": -0.2969939947128296,
+                "compression_ratio": 0.7419354838709677,
+                "no_speech_prob": 0.1425127536058426
+            }
+        ],
+        "language": "vi",
+        "tags_with_probs": [
+            {
+                "tag": "Speech",
+                "prob": 0.6546998023986816
+            },
+            {
+                "tag": "Speech synthesizer",
+                "prob": 0.2002938985824585
+            },
+            {
+                "tag": "Sigh",
+                "prob": 0.08639565110206604
+            },
+            {
+                "tag": "Inside, small room",
+                "prob": 0.0830187201499939
+            },
+            {
+                "tag": "Narration, monologue",
+                "prob": 0.05175396054983139
+            },
+            {
+                "tag": "Clicking",
+                "prob": 0.05094735324382782
+            },
+            {
+                "tag": "Silence",
+                "prob": 0.03486515209078789
+            },
+            {
+                "tag": "Music",
+                "prob": 0.020715773105621338
+            },
+            {
+                "tag": "Conversation",
+                "prob": 0.013896790333092213
+            },
+            {
+                "tag": "Male speech, man speaking",
+                "prob": 0.013376723974943161
+            }
+        ]
+    },
+    {
+        "text": " Shall we go for a walk? Cảm ơn các bạn đã theo dõi.",
+        "segments": [
+            {
+                "id": 0,
+                "seek": 0,
+                "start": 0.0,
+                "end": 7.04,
+                "text": " Shall we go for a walk?",
+                "tokens": [
+                    50365,
+                    12128,
+                    321,
+                    352,
+                    337,
+                    257,
+                    1792,
+                    30,
+                    50717
+                ],
+                "temperature": 0.6,
+                "avg_logprob": -0.5215575478293679,
+                "compression_ratio": 0.7419354838709677,
+                "no_speech_prob": 0.14162857830524445
+            },
+            {
+                "id": 1,
+                "seek": 704,
+                "start": 7.04,
+                "end": 37.02,
+                "text": " Cảm ơn các bạn đã theo dõi.",
+                "tokens": [
+                    50365,
+                    383,
+                    7398,
+                    76,
+                    220,
+                    23513,
+                    13250,
+                    14647,
+                    17283,
+                    40594,
+                    274,
+                    5536,
+                    72,
+                    13,
+                    51864
+                ],
+                "temperature": 0.6,
+                "avg_logprob": -0.24652807414531708,
+                "compression_ratio": 0.8181818181818182,
+                "no_speech_prob": 0.9404179453849792
+            }
+        ],
+        "language": "vi",
+        "tags_with_probs": [
+            {
+                "tag": "Speech",
+                "prob": 0.6546998023986816
+            },
+            {
+                "tag": "Speech synthesizer",
+                "prob": 0.2002938985824585
+            },
+            {
+                "tag": "Sigh",
+                "prob": 0.08639565110206604
+            },
+            {
+                "tag": "Inside, small room",
+                "prob": 0.0830187201499939
+            },
+            {
+                "tag": "Narration, monologue",
+                "prob": 0.05175396054983139
+            },
+            {
+                "tag": "Clicking",
+                "prob": 0.05094735324382782
+            },
+            {
+                "tag": "Silence",
+                "prob": 0.03486515209078789
+            },
+            {
+                "tag": "Music",
+                "prob": 0.020715773105621338
+            },
+            {
+                "tag": "Conversation",
+                "prob": 0.013896790333092213
+            },
+            {
+                "tag": "Male speech, man speaking",
+                "prob": 0.013376723974943161
+            }
+        ]
+    },
+    {
+        "text": " Shall we go for a walk?",
+        "segments": [
+            {
+                "id": 0,
+                "seek": 0,
+                "start": 0.0,
+                "end": 7.04,
+                "text": " Shall we go for a walk?",
+                "tokens": [
+                    50365,
+                    12128,
+                    321,
+                    352,
+                    337,
+                    257,
+                    1792,
+                    30,
+                    50717
+                ],
+                "temperature": 0.7,
+                "avg_logprob": -0.2276132583618164,
+                "compression_ratio": 0.7419354838709677,
+                "no_speech_prob": 0.14253495633602142
+            }
+        ],
+        "language": "vi",
+        "tags_with_probs": [
+            {
+                "tag": "Speech",
+                "prob": 0.6546998023986816
+            },
+            {
+                "tag": "Speech synthesizer",
+                "prob": 0.2002938985824585
+            },
+            {
+                "tag": "Sigh",
+                "prob": 0.08639565110206604
+            },
+            {
+                "tag": "Inside, small room",
+                "prob": 0.0830187201499939
+            },
+            {
+                "tag": "Narration, monologue",
+                "prob": 0.05175396054983139
+            },
+            {
+                "tag": "Clicking",
+                "prob": 0.05094735324382782
+            },
+            {
+                "tag": "Silence",
+                "prob": 0.03486515209078789
+            },
+            {
+                "tag": "Music",
+                "prob": 0.020715773105621338
+            },
+            {
+                "tag": "Conversation",
+                "prob": 0.013896790333092213
+            },
+            {
+                "tag": "Male speech, man speaking",
+                "prob": 0.013376723974943161
+            }
+        ]
+    }
+]
