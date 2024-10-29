@@ -1,5 +1,77 @@
 [
     {
-        "text": "sẽ lấy gâu pha lúa sẽ lấy gâu pha lúa."
+        "text": "sẽ lấy gâu pha lúa sẽ lấy gâu pha lúa.",
+        "chunks": [
+            {
+                "text": "sẽ",
+                "timestamp": [
+                    0.0,
+                    0.8
+                ]
+            },
+            {
+                "text": " lấy",
+                "timestamp": [
+                    0.8,
+                    0.94
+                ]
+            },
+            {
+                "text": " gâu",
+                "timestamp": [
+                    0.94,
+                    1.2
+                ]
+            },
+            {
+                "text": " pha",
+                "timestamp": [
+                    1.2,
+                    1.44
+                ]
+            },
+            {
+                "text": " lúa",
+                "timestamp": [
+                    1.44,
+                    1.78
+                ]
+            },
+            {
+                "text": " sẽ",
+                "timestamp": [
+                    1.78,
+                    3.78
+                ]
+            },
+            {
+                "text": " lấy",
+                "timestamp": [
+                    3.78,
+                    4.24
+                ]
+            },
+            {
+                "text": " gâu",
+                "timestamp": [
+                    4.24,
+                    4.46
+                ]
+            },
+            {
+                "text": " pha",
+                "timestamp": [
+                    4.46,
+                    4.7
+                ]
+            },
+            {
+                "text": " lúa.",
+                "timestamp": [
+                    4.7,
+                    5.86
+                ]
+            }
+        ]
     }
 ]

@@ -1,5 +1,2422 @@
 [
     {
-        "text": "nhẹ nhàng caoôi sao lòng ta luôn nặng chiều bàn tay ngày ấy đã níu giữ lấy sao lại buông có phải tình cảmtình cảm đã nhát rằng hãy nói đi đừng ngại ngần tại sao hai người nhắn thân lấy nước mắt của tôi tại sao hai người khóc đi những tháng ngày hạnh phúc giờ trong tôi là bấm đêm đang vây quanh những nỗi đau lòng tôi thấy ân hận đôi mình sưng sưng lúc không giờ hài phút đến bên tôi vui đùa rồi xem tôi chỉ là một kẻ sư thường trái tim tôi đã lầm khi hiểu dáng đẹp sắc đẹp những người đau khổ điều thức cùng nước mắt ngon sốc trong thâm tâm này không thể thao nỗi yêu thương cho nhiều giờ đây anh hiểu ra bao nhiêu điều suốt đến nay dễ dàng đè đến đừng phơi lại những người hạnh phúc đều thật yên giấc còn mối riêng anh nơithăm lấy nước mắt của tôi tại sao hai người khớp đi những tháng ngày hạnh phúc giờ trong tôi là bóng đem đang vây quanh những nỗi đau lòng tôi thấy ân hận đôi mi rừng rưng lúc không giờ hạnh phúc đến đêm tôi vui ưa rồi xem tôi chỉ là một ghế sư thường trái tim tôi đã lòng ý nghĩa rằng em sắp yêu những người đau khổ điều thức cùng nước mắt ngọn sốc trong thâm tâm này hông thểtàn nỗi yêu thương cho nhiều giờ đây anh hiếu xa bao nhiêu điều suốt đến anh dễ dàng đến anh không bung phẳng ai những người hạnh phúc đều thật yên giấc còn mỗi giấc anh nơi này không chợp mãi lại một đêm nữa khi mà cả thế giới đã thắt ngọn đèn còn xương anh ngồi đẹp hợp sáng giờ đây đã kết thúc hết tất cả những chuyện đã qua em bước tiếp con đường hạnh phúc đi đừng nhìn lại.ngoài ra còn mở cửa để sử dụng kiến nghị của vũ khí trong thời gian tới."
+        "text": "nhẹ nhàng caoôi sao lòng ta luôn nặng chiều bàn tay ngày ấy đã níu giữ lấy sao lại buông có phải tìnhình cảm đã nhát rằng hãy nói đi đừng ngại ngần tại sao hai người nhắn thân lấy nước mắt của tôi tại sao hai người khóc đi những tháng ngày hạnh phúc giờ trong tôi là bấm đêm đang vây quanh những nỗi đau lòng tôi thấy ân hận đôi mình sưng sưng lúc không giờ hài phút đến bên tôi vui đùa rồi xem tôi chỉ là một kẻ sư thường trái tim tôi đã lầm khi hiểu dáng đẹp sắc đẹp những người đau khổ điều thức cùng nước mắt ngon sốc trong thâm tâm này không thể thao nỗi yêu thương cho nhiều giờ đây anh hiểu ra bao nhiêu điều suốt đến nay dễ dàng đè đến đừng phơi lại những người hạnh phúc đều thật yên giấc còn mối riêng anh nơithăm lấy nước mắt của tôi tại sao hai người khớp đi những tháng ngày hạnh phúc giờ trong tôi là bóng đem đang vây quanh những nỗi đau lòng tôi thấy ân hận đôi mi rừng rưng lúc không giờ hạnh phúc đến đêm tôi vui ưa rồi xem tôi chỉ là một ghế sư thường trái tim tôi đã lòng ý nghĩa rằng em sắp yêu những người đau khổ điều thức cùng nước mắt ngọn sốc trong thâm tâm này hông thểtàn nỗi yêu thương cho nhiều giờ đây anh hiếu xa bao nhiêu điều suốt đến anh dễ dàng đến anh không bung phẳng ai những người hạnh phúc đều thật yên giấc còn mỗi giấc anh nơi này không chợp mãi lại một đêm nữa khi mà cả thế giới đã thắt ngọn đèn còn xương anh ngồi đẹp hợp sáng giờ đây đã kết thúc hết tất cả những chuyện đã qua em bước tiếp con đường hạnh phúc đi đừng nhìn lại.ngoài ra còn mở cửa để sử dụng kiến nghị của vũ khí trong thời gian tới.",
+        "chunks": [
+            {
+                "text": "nhẹ",
+                "timestamp": [
+                    0.0,
+                    1.14
+                ]
+            },
+            {
+                "text": " nhàng",
+                "timestamp": [
+                    1.14,
+                    2.64
+                ]
+            },
+            {
+                "text": " caoôi",
+                "timestamp": [
+                    2.64,
+                    32.18
+                ]
+            },
+            {
+                "text": " sao",
+                "timestamp": [
+                    32.18,
+                    32.58
+                ]
+            },
+            {
+                "text": " lòng",
+                "timestamp": [
+                    32.58,
+                    32.86
+                ]
+            },
+            {
+                "text": " ta",
+                "timestamp": [
+                    32.86,
+                    33.22
+                ]
+            },
+            {
+                "text": " luôn",
+                "timestamp": [
+                    33.22,
+                    33.44
+                ]
+            },
+            {
+                "text": " nặng",
+                "timestamp": [
+                    33.44,
+                    34.04
+                ]
+            },
+            {
+                "text": " chiều",
+                "timestamp": [
+                    34.04,
+                    35.0
+                ]
+            },
+            {
+                "text": " bàn",
+                "timestamp": [
+                    35.0,
+                    38.36
+                ]
+            },
+            {
+                "text": " tay",
+                "timestamp": [
+                    38.36,
+                    38.7
+                ]
+            },
+            {
+                "text": " ngày",
+                "timestamp": [
+                    38.7,
+                    39.0
+                ]
+            },
+            {
+                "text": " ấy",
+                "timestamp": [
+                    39.0,
+                    39.4
+                ]
+            },
+            {
+                "text": " đã",
+                "timestamp": [
+                    39.4,
+                    39.68
+                ]
+            },
+            {
+                "text": " níu",
+                "timestamp": [
+                    39.68,
+                    40.02
+                ]
+            },
+            {
+                "text": " giữ",
+                "timestamp": [
+                    40.02,
+                    40.36
+                ]
+            },
+            {
+                "text": " lấy",
+                "timestamp": [
+                    40.36,
+                    40.68
+                ]
+            },
+            {
+                "text": " sao",
+                "timestamp": [
+                    40.68,
+                    41.18
+                ]
+            },
+            {
+                "text": " lại",
+                "timestamp": [
+                    41.18,
+                    41.74
+                ]
+            },
+            {
+                "text": " buông",
+                "timestamp": [
+                    41.74,
+                    43.12
+                ]
+            },
+            {
+                "text": " có",
+                "timestamp": [
+                    43.12,
+                    43.54
+                ]
+            },
+            {
+                "text": " phải",
+                "timestamp": [
+                    43.54,
+                    43.88
+                ]
+            },
+            {
+                "text": " tìnhình",
+                "timestamp": [
+                    43.88,
+                    44.18
+                ]
+            },
+            {
+                "text": " cảm",
+                "timestamp": [
+                    44.18,
+                    44.52
+                ]
+            },
+            {
+                "text": " đã",
+                "timestamp": [
+                    44.52,
+                    44.82
+                ]
+            },
+            {
+                "text": " nhát",
+                "timestamp": [
+                    44.82,
+                    45.12
+                ]
+            },
+            {
+                "text": " rằng",
+                "timestamp": [
+                    45.12,
+                    45.68
+                ]
+            },
+            {
+                "text": " hãy",
+                "timestamp": [
+                    45.68,
+                    46.78
+                ]
+            },
+            {
+                "text": " nói",
+                "timestamp": [
+                    46.78,
+                    47.16
+                ]
+            },
+            {
+                "text": " đi",
+                "timestamp": [
+                    47.16,
+                    48.12
+                ]
+            },
+            {
+                "text": " đừng",
+                "timestamp": [
+                    48.12,
+                    49.38
+                ]
+            },
+            {
+                "text": " ngại",
+                "timestamp": [
+                    49.38,
+                    49.88
+                ]
+            },
+            {
+                "text": " ngần",
+                "timestamp": [
+                    49.88,
+                    51.2
+                ]
+            },
+            {
+                "text": " tại",
+                "timestamp": [
+                    51.2,
+                    53.54
+                ]
+            },
+            {
+                "text": " sao",
+                "timestamp": [
+                    53.54,
+                    53.84
+                ]
+            },
+            {
+                "text": " hai",
+                "timestamp": [
+                    53.84,
+                    54.24
+                ]
+            },
+            {
+                "text": " người",
+                "timestamp": [
+                    54.24,
+                    54.48
+                ]
+            },
+            {
+                "text": " nhắn",
+                "timestamp": [
+                    54.48,
+                    54.88
+                ]
+            },
+            {
+                "text": " thân",
+                "timestamp": [
+                    54.88,
+                    55.44
+                ]
+            },
+            {
+                "text": " lấy",
+                "timestamp": [
+                    55.44,
+                    55.82
+                ]
+            },
+            {
+                "text": " nước",
+                "timestamp": [
+                    55.82,
+                    56.14
+                ]
+            },
+            {
+                "text": " mắt",
+                "timestamp": [
+                    56.14,
+                    56.62
+                ]
+            },
+            {
+                "text": " của",
+                "timestamp": [
+                    56.62,
+                    57.02
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    57.02,
+                    57.76
+                ]
+            },
+            {
+                "text": " tại",
+                "timestamp": [
+                    57.76,
+                    58.66
+                ]
+            },
+            {
+                "text": " sao",
+                "timestamp": [
+                    58.66,
+                    58.98
+                ]
+            },
+            {
+                "text": " hai",
+                "timestamp": [
+                    58.98,
+                    59.36
+                ]
+            },
+            {
+                "text": " người",
+                "timestamp": [
+                    59.36,
+                    59.56
+                ]
+            },
+            {
+                "text": " khóc",
+                "timestamp": [
+                    59.56,
+                    60.0
+                ]
+            },
+            {
+                "text": " đi",
+                "timestamp": [
+                    60.0,
+                    60.36
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    60.36,
+                    60.86
+                ]
+            },
+            {
+                "text": " tháng",
+                "timestamp": [
+                    60.86,
+                    61.28
+                ]
+            },
+            {
+                "text": " ngày",
+                "timestamp": [
+                    61.28,
+                    61.56
+                ]
+            },
+            {
+                "text": " hạnh",
+                "timestamp": [
+                    61.56,
+                    61.9
+                ]
+            },
+            {
+                "text": " phúc",
+                "timestamp": [
+                    61.9,
+                    62.44
+                ]
+            },
+            {
+                "text": " giờ",
+                "timestamp": [
+                    62.44,
+                    63.8
+                ]
+            },
+            {
+                "text": " trong",
+                "timestamp": [
+                    63.8,
+                    64.14
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    64.14,
+                    64.5
+                ]
+            },
+            {
+                "text": " là",
+                "timestamp": [
+                    64.5,
+                    64.76
+                ]
+            },
+            {
+                "text": " bấm",
+                "timestamp": [
+                    64.76,
+                    65.22
+                ]
+            },
+            {
+                "text": " đêm",
+                "timestamp": [
+                    65.22,
+                    65.44
+                ]
+            },
+            {
+                "text": " đang",
+                "timestamp": [
+                    65.44,
+                    65.76
+                ]
+            },
+            {
+                "text": " vây",
+                "timestamp": [
+                    65.76,
+                    66.12
+                ]
+            },
+            {
+                "text": " quanh",
+                "timestamp": [
+                    66.12,
+                    66.88
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    66.88,
+                    67.02
+                ]
+            },
+            {
+                "text": " nỗi",
+                "timestamp": [
+                    67.02,
+                    67.52
+                ]
+            },
+            {
+                "text": " đau",
+                "timestamp": [
+                    67.52,
+                    68.16
+                ]
+            },
+            {
+                "text": " lòng",
+                "timestamp": [
+                    68.16,
+                    69.02
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    69.02,
+                    69.34
+                ]
+            },
+            {
+                "text": " thấy",
+                "timestamp": [
+                    69.34,
+                    69.74
+                ]
+            },
+            {
+                "text": " ân",
+                "timestamp": [
+                    69.74,
+                    70.06
+                ]
+            },
+            {
+                "text": " hận",
+                "timestamp": [
+                    70.06,
+                    70.3
+                ]
+            },
+            {
+                "text": " đôi",
+                "timestamp": [
+                    70.3,
+                    70.62
+                ]
+            },
+            {
+                "text": " mình",
+                "timestamp": [
+                    70.62,
+                    70.9
+                ]
+            },
+            {
+                "text": " sưng",
+                "timestamp": [
+                    70.9,
+                    71.34
+                ]
+            },
+            {
+                "text": " sưng",
+                "timestamp": [
+                    71.34,
+                    71.74
+                ]
+            },
+            {
+                "text": " lúc",
+                "timestamp": [
+                    71.74,
+                    72.3
+                ]
+            },
+            {
+                "text": " không",
+                "timestamp": [
+                    72.3,
+                    72.58
+                ]
+            },
+            {
+                "text": " giờ",
+                "timestamp": [
+                    72.58,
+                    72.94
+                ]
+            },
+            {
+                "text": " hài",
+                "timestamp": [
+                    72.94,
+                    73.42
+                ]
+            },
+            {
+                "text": " phút",
+                "timestamp": [
+                    73.42,
+                    74.54
+                ]
+            },
+            {
+                "text": " đến",
+                "timestamp": [
+                    74.54,
+                    78.12
+                ]
+            },
+            {
+                "text": " bên",
+                "timestamp": [
+                    78.12,
+                    78.42
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    78.42,
+                    78.78
+                ]
+            },
+            {
+                "text": " vui",
+                "timestamp": [
+                    78.78,
+                    79.06
+                ]
+            },
+            {
+                "text": " đùa",
+                "timestamp": [
+                    79.06,
+                    79.44
+                ]
+            },
+            {
+                "text": " rồi",
+                "timestamp": [
+                    79.44,
+                    79.72
+                ]
+            },
+            {
+                "text": " xem",
+                "timestamp": [
+                    79.72,
+                    80.04
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    80.04,
+                    80.36
+                ]
+            },
+            {
+                "text": " chỉ",
+                "timestamp": [
+                    80.36,
+                    80.66
+                ]
+            },
+            {
+                "text": " là",
+                "timestamp": [
+                    80.66,
+                    80.86
+                ]
+            },
+            {
+                "text": " một",
+                "timestamp": [
+                    80.86,
+                    81.02
+                ]
+            },
+            {
+                "text": " kẻ",
+                "timestamp": [
+                    81.02,
+                    81.32
+                ]
+            },
+            {
+                "text": " sư",
+                "timestamp": [
+                    81.32,
+                    81.76
+                ]
+            },
+            {
+                "text": " thường",
+                "timestamp": [
+                    81.76,
+                    82.62
+                ]
+            },
+            {
+                "text": " trái",
+                "timestamp": [
+                    82.62,
+                    83.24
+                ]
+            },
+            {
+                "text": " tim",
+                "timestamp": [
+                    83.24,
+                    83.64
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    83.64,
+                    83.98
+                ]
+            },
+            {
+                "text": " đã",
+                "timestamp": [
+                    83.98,
+                    84.24
+                ]
+            },
+            {
+                "text": " lầm",
+                "timestamp": [
+                    84.24,
+                    84.6
+                ]
+            },
+            {
+                "text": " khi",
+                "timestamp": [
+                    84.6,
+                    84.9
+                ]
+            },
+            {
+                "text": " hiểu",
+                "timestamp": [
+                    84.9,
+                    85.38
+                ]
+            },
+            {
+                "text": " dáng",
+                "timestamp": [
+                    85.38,
+                    85.94
+                ]
+            },
+            {
+                "text": " đẹp",
+                "timestamp": [
+                    85.94,
+                    86.16
+                ]
+            },
+            {
+                "text": " sắc",
+                "timestamp": [
+                    86.16,
+                    86.48
+                ]
+            },
+            {
+                "text": " đẹp",
+                "timestamp": [
+                    86.48,
+                    87.58
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    87.58,
+                    88.0
+                ]
+            },
+            {
+                "text": " người",
+                "timestamp": [
+                    88.0,
+                    88.54
+                ]
+            },
+            {
+                "text": " đau",
+                "timestamp": [
+                    88.54,
+                    89.34
+                ]
+            },
+            {
+                "text": " khổ",
+                "timestamp": [
+                    89.34,
+                    89.74
+                ]
+            },
+            {
+                "text": " điều",
+                "timestamp": [
+                    89.74,
+                    90.64
+                ]
+            },
+            {
+                "text": " thức",
+                "timestamp": [
+                    90.64,
+                    90.98
+                ]
+            },
+            {
+                "text": " cùng",
+                "timestamp": [
+                    90.98,
+                    91.34
+                ]
+            },
+            {
+                "text": " nước",
+                "timestamp": [
+                    91.34,
+                    91.98
+                ]
+            },
+            {
+                "text": " mắt",
+                "timestamp": [
+                    91.98,
+                    92.4
+                ]
+            },
+            {
+                "text": " ngon",
+                "timestamp": [
+                    92.4,
+                    93.24
+                ]
+            },
+            {
+                "text": " sốc",
+                "timestamp": [
+                    93.24,
+                    93.6
+                ]
+            },
+            {
+                "text": " trong",
+                "timestamp": [
+                    93.6,
+                    93.98
+                ]
+            },
+            {
+                "text": " thâm",
+                "timestamp": [
+                    93.98,
+                    94.26
+                ]
+            },
+            {
+                "text": " tâm",
+                "timestamp": [
+                    94.26,
+                    94.54
+                ]
+            },
+            {
+                "text": " này",
+                "timestamp": [
+                    94.54,
+                    94.98
+                ]
+            },
+            {
+                "text": " không",
+                "timestamp": [
+                    94.98,
+                    95.4
+                ]
+            },
+            {
+                "text": " thể",
+                "timestamp": [
+                    95.4,
+                    95.82
+                ]
+            },
+            {
+                "text": " thao",
+                "timestamp": [
+                    95.82,
+                    97.82
+                ]
+            },
+            {
+                "text": " nỗi",
+                "timestamp": [
+                    97.82,
+                    98.78
+                ]
+            },
+            {
+                "text": " yêu",
+                "timestamp": [
+                    98.78,
+                    99.1
+                ]
+            },
+            {
+                "text": " thương",
+                "timestamp": [
+                    99.1,
+                    99.42
+                ]
+            },
+            {
+                "text": " cho",
+                "timestamp": [
+                    99.42,
+                    99.74
+                ]
+            },
+            {
+                "text": " nhiều",
+                "timestamp": [
+                    99.74,
+                    100.0
+                ]
+            },
+            {
+                "text": " giờ",
+                "timestamp": [
+                    100.0,
+                    100.32
+                ]
+            },
+            {
+                "text": " đây",
+                "timestamp": [
+                    100.32,
+                    100.7
+                ]
+            },
+            {
+                "text": " anh",
+                "timestamp": [
+                    100.7,
+                    100.94
+                ]
+            },
+            {
+                "text": " hiểu",
+                "timestamp": [
+                    100.94,
+                    101.32
+                ]
+            },
+            {
+                "text": " ra",
+                "timestamp": [
+                    101.32,
+                    101.62
+                ]
+            },
+            {
+                "text": " bao",
+                "timestamp": [
+                    101.62,
+                    101.88
+                ]
+            },
+            {
+                "text": " nhiêu",
+                "timestamp": [
+                    101.88,
+                    102.52
+                ]
+            },
+            {
+                "text": " điều",
+                "timestamp": [
+                    102.52,
+                    103.42
+                ]
+            },
+            {
+                "text": " suốt",
+                "timestamp": [
+                    103.42,
+                    103.94
+                ]
+            },
+            {
+                "text": " đến",
+                "timestamp": [
+                    103.94,
+                    104.26
+                ]
+            },
+            {
+                "text": " nay",
+                "timestamp": [
+                    104.26,
+                    104.56
+                ]
+            },
+            {
+                "text": " dễ",
+                "timestamp": [
+                    104.56,
+                    104.9
+                ]
+            },
+            {
+                "text": " dàng",
+                "timestamp": [
+                    104.9,
+                    105.22
+                ]
+            },
+            {
+                "text": " đè",
+                "timestamp": [
+                    105.22,
+                    105.52
+                ]
+            },
+            {
+                "text": " đến",
+                "timestamp": [
+                    105.52,
+                    105.96
+                ]
+            },
+            {
+                "text": " đừng",
+                "timestamp": [
+                    105.96,
+                    106.52
+                ]
+            },
+            {
+                "text": " phơi",
+                "timestamp": [
+                    106.52,
+                    106.9
+                ]
+            },
+            {
+                "text": " lại",
+                "timestamp": [
+                    106.9,
+                    107.8
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    107.8,
+                    108.68
+                ]
+            },
+            {
+                "text": " người",
+                "timestamp": [
+                    108.68,
+                    109.28
+                ]
+            },
+            {
+                "text": " hạnh",
+                "timestamp": [
+                    109.28,
+                    110.02
+                ]
+            },
+            {
+                "text": " phúc",
+                "timestamp": [
+                    110.02,
+                    110.5
+                ]
+            },
+            {
+                "text": " đều",
+                "timestamp": [
+                    110.5,
+                    111.3
+                ]
+            },
+            {
+                "text": " thật",
+                "timestamp": [
+                    111.3,
+                    111.82
+                ]
+            },
+            {
+                "text": " yên",
+                "timestamp": [
+                    111.82,
+                    112.46
+                ]
+            },
+            {
+                "text": " giấc",
+                "timestamp": [
+                    112.46,
+                    112.98
+                ]
+            },
+            {
+                "text": " còn",
+                "timestamp": [
+                    112.98,
+                    113.86
+                ]
+            },
+            {
+                "text": " mối",
+                "timestamp": [
+                    113.86,
+                    114.22
+                ]
+            },
+            {
+                "text": " riêng",
+                "timestamp": [
+                    114.22,
+                    114.68
+                ]
+            },
+            {
+                "text": " anh",
+                "timestamp": [
+                    114.68,
+                    114.9
+                ]
+            },
+            {
+                "text": " nơithăm",
+                "timestamp": [
+                    114.9,
+                    143.18
+                ]
+            },
+            {
+                "text": " lấy",
+                "timestamp": [
+                    143.18,
+                    143.6
+                ]
+            },
+            {
+                "text": " nước",
+                "timestamp": [
+                    143.6,
+                    143.84
+                ]
+            },
+            {
+                "text": " mắt",
+                "timestamp": [
+                    143.84,
+                    144.38
+                ]
+            },
+            {
+                "text": " của",
+                "timestamp": [
+                    144.38,
+                    144.8
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    144.8,
+                    145.56
+                ]
+            },
+            {
+                "text": " tại",
+                "timestamp": [
+                    145.56,
+                    146.46
+                ]
+            },
+            {
+                "text": " sao",
+                "timestamp": [
+                    146.46,
+                    146.78
+                ]
+            },
+            {
+                "text": " hai",
+                "timestamp": [
+                    146.78,
+                    147.1
+                ]
+            },
+            {
+                "text": " người",
+                "timestamp": [
+                    147.1,
+                    147.28
+                ]
+            },
+            {
+                "text": " khớp",
+                "timestamp": [
+                    147.28,
+                    147.86
+                ]
+            },
+            {
+                "text": " đi",
+                "timestamp": [
+                    147.86,
+                    148.14
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    148.14,
+                    148.66
+                ]
+            },
+            {
+                "text": " tháng",
+                "timestamp": [
+                    148.66,
+                    149.06
+                ]
+            },
+            {
+                "text": " ngày",
+                "timestamp": [
+                    149.06,
+                    149.32
+                ]
+            },
+            {
+                "text": " hạnh",
+                "timestamp": [
+                    149.32,
+                    149.64
+                ]
+            },
+            {
+                "text": " phúc",
+                "timestamp": [
+                    149.64,
+                    150.28
+                ]
+            },
+            {
+                "text": " giờ",
+                "timestamp": [
+                    150.28,
+                    151.58
+                ]
+            },
+            {
+                "text": " trong",
+                "timestamp": [
+                    151.58,
+                    151.88
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    151.88,
+                    152.26
+                ]
+            },
+            {
+                "text": " là",
+                "timestamp": [
+                    152.26,
+                    152.52
+                ]
+            },
+            {
+                "text": " bóng",
+                "timestamp": [
+                    152.52,
+                    153.06
+                ]
+            },
+            {
+                "text": " đem",
+                "timestamp": [
+                    153.06,
+                    153.22
+                ]
+            },
+            {
+                "text": " đang",
+                "timestamp": [
+                    153.22,
+                    153.62
+                ]
+            },
+            {
+                "text": " vây",
+                "timestamp": [
+                    153.62,
+                    153.86
+                ]
+            },
+            {
+                "text": " quanh",
+                "timestamp": [
+                    153.86,
+                    154.46
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    154.46,
+                    154.82
+                ]
+            },
+            {
+                "text": " nỗi",
+                "timestamp": [
+                    154.82,
+                    155.26
+                ]
+            },
+            {
+                "text": " đau",
+                "timestamp": [
+                    155.26,
+                    155.94
+                ]
+            },
+            {
+                "text": " lòng",
+                "timestamp": [
+                    155.94,
+                    156.78
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    156.78,
+                    157.1
+                ]
+            },
+            {
+                "text": " thấy",
+                "timestamp": [
+                    157.1,
+                    157.5
+                ]
+            },
+            {
+                "text": " ân",
+                "timestamp": [
+                    157.5,
+                    157.8
+                ]
+            },
+            {
+                "text": " hận",
+                "timestamp": [
+                    157.8,
+                    158.06
+                ]
+            },
+            {
+                "text": " đôi",
+                "timestamp": [
+                    158.06,
+                    158.38
+                ]
+            },
+            {
+                "text": " mi",
+                "timestamp": [
+                    158.38,
+                    158.6
+                ]
+            },
+            {
+                "text": " rừng",
+                "timestamp": [
+                    158.6,
+                    159.08
+                ]
+            },
+            {
+                "text": " rưng",
+                "timestamp": [
+                    159.08,
+                    159.4
+                ]
+            },
+            {
+                "text": " lúc",
+                "timestamp": [
+                    159.4,
+                    160.02
+                ]
+            },
+            {
+                "text": " không",
+                "timestamp": [
+                    160.02,
+                    160.34
+                ]
+            },
+            {
+                "text": " giờ",
+                "timestamp": [
+                    160.34,
+                    160.72
+                ]
+            },
+            {
+                "text": " hạnh",
+                "timestamp": [
+                    160.72,
+                    161.22
+                ]
+            },
+            {
+                "text": " phúc",
+                "timestamp": [
+                    161.22,
+                    162.54
+                ]
+            },
+            {
+                "text": " đến",
+                "timestamp": [
+                    162.54,
+                    165.84
+                ]
+            },
+            {
+                "text": " đêm",
+                "timestamp": [
+                    165.84,
+                    166.2
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    166.2,
+                    166.52
+                ]
+            },
+            {
+                "text": " vui",
+                "timestamp": [
+                    166.52,
+                    166.84
+                ]
+            },
+            {
+                "text": " ưa",
+                "timestamp": [
+                    166.84,
+                    167.16
+                ]
+            },
+            {
+                "text": " rồi",
+                "timestamp": [
+                    167.18,
+                    167.44
+                ]
+            },
+            {
+                "text": " xem",
+                "timestamp": [
+                    167.44,
+                    167.78
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    167.78,
+                    168.1
+                ]
+            },
+            {
+                "text": " chỉ",
+                "timestamp": [
+                    168.1,
+                    168.4
+                ]
+            },
+            {
+                "text": " là",
+                "timestamp": [
+                    168.4,
+                    168.62
+                ]
+            },
+            {
+                "text": " một",
+                "timestamp": [
+                    168.62,
+                    168.78
+                ]
+            },
+            {
+                "text": " ghế",
+                "timestamp": [
+                    168.78,
+                    169.08
+                ]
+            },
+            {
+                "text": " sư",
+                "timestamp": [
+                    169.08,
+                    169.52
+                ]
+            },
+            {
+                "text": " thường",
+                "timestamp": [
+                    169.52,
+                    170.42
+                ]
+            },
+            {
+                "text": " trái",
+                "timestamp": [
+                    170.42,
+                    171.02
+                ]
+            },
+            {
+                "text": " tim",
+                "timestamp": [
+                    171.02,
+                    171.34
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    171.34,
+                    171.72
+                ]
+            },
+            {
+                "text": " đã",
+                "timestamp": [
+                    171.72,
+                    171.96
+                ]
+            },
+            {
+                "text": " lòng",
+                "timestamp": [
+                    171.96,
+                    172.4
+                ]
+            },
+            {
+                "text": " ý",
+                "timestamp": [
+                    172.4,
+                    172.66
+                ]
+            },
+            {
+                "text": " nghĩa",
+                "timestamp": [
+                    172.66,
+                    173.2
+                ]
+            },
+            {
+                "text": " rằng",
+                "timestamp": [
+                    173.2,
+                    173.56
+                ]
+            },
+            {
+                "text": " em",
+                "timestamp": [
+                    173.56,
+                    173.88
+                ]
+            },
+            {
+                "text": " sắp",
+                "timestamp": [
+                    173.88,
+                    174.28
+                ]
+            },
+            {
+                "text": " yêu",
+                "timestamp": [
+                    174.28,
+                    174.66
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    174.66,
+                    175.78
+                ]
+            },
+            {
+                "text": " người",
+                "timestamp": [
+                    175.78,
+                    176.26
+                ]
+            },
+            {
+                "text": " đau",
+                "timestamp": [
+                    176.26,
+                    177.08
+                ]
+            },
+            {
+                "text": " khổ",
+                "timestamp": [
+                    177.08,
+                    177.52
+                ]
+            },
+            {
+                "text": " điều",
+                "timestamp": [
+                    177.52,
+                    178.38
+                ]
+            },
+            {
+                "text": " thức",
+                "timestamp": [
+                    178.38,
+                    178.74
+                ]
+            },
+            {
+                "text": " cùng",
+                "timestamp": [
+                    178.74,
+                    179.12
+                ]
+            },
+            {
+                "text": " nước",
+                "timestamp": [
+                    179.12,
+                    179.7
+                ]
+            },
+            {
+                "text": " mắt",
+                "timestamp": [
+                    179.7,
+                    180.18
+                ]
+            },
+            {
+                "text": " ngọn",
+                "timestamp": [
+                    180.18,
+                    180.98
+                ]
+            },
+            {
+                "text": " sốc",
+                "timestamp": [
+                    180.98,
+                    181.34
+                ]
+            },
+            {
+                "text": " trong",
+                "timestamp": [
+                    181.34,
+                    181.7
+                ]
+            },
+            {
+                "text": " thâm",
+                "timestamp": [
+                    181.7,
+                    182.02
+                ]
+            },
+            {
+                "text": " tâm",
+                "timestamp": [
+                    182.02,
+                    182.26
+                ]
+            },
+            {
+                "text": " này",
+                "timestamp": [
+                    182.26,
+                    182.74
+                ]
+            },
+            {
+                "text": " hông",
+                "timestamp": [
+                    182.74,
+                    183.2
+                ]
+            },
+            {
+                "text": " thểtàn",
+                "timestamp": [
+                    183.2,
+                    183.94
+                ]
+            },
+            {
+                "text": " nỗi",
+                "timestamp": [
+                    183.94,
+                    186.56
+                ]
+            },
+            {
+                "text": " yêu",
+                "timestamp": [
+                    186.56,
+                    186.86
+                ]
+            },
+            {
+                "text": " thương",
+                "timestamp": [
+                    186.86,
+                    187.12
+                ]
+            },
+            {
+                "text": " cho",
+                "timestamp": [
+                    187.12,
+                    187.5
+                ]
+            },
+            {
+                "text": " nhiều",
+                "timestamp": [
+                    187.5,
+                    187.76
+                ]
+            },
+            {
+                "text": " giờ",
+                "timestamp": [
+                    187.76,
+                    188.06
+                ]
+            },
+            {
+                "text": " đây",
+                "timestamp": [
+                    188.06,
+                    188.4
+                ]
+            },
+            {
+                "text": " anh",
+                "timestamp": [
+                    188.4,
+                    188.72
+                ]
+            },
+            {
+                "text": " hiếu",
+                "timestamp": [
+                    188.72,
+                    189.06
+                ]
+            },
+            {
+                "text": " xa",
+                "timestamp": [
+                    189.06,
+                    189.36
+                ]
+            },
+            {
+                "text": " bao",
+                "timestamp": [
+                    189.36,
+                    189.72
+                ]
+            },
+            {
+                "text": " nhiêu",
+                "timestamp": [
+                    189.72,
+                    190.22
+                ]
+            },
+            {
+                "text": " điều",
+                "timestamp": [
+                    190.22,
+                    190.98
+                ]
+            },
+            {
+                "text": " suốt",
+                "timestamp": [
+                    190.98,
+                    191.68
+                ]
+            },
+            {
+                "text": " đến",
+                "timestamp": [
+                    191.68,
+                    192.02
+                ]
+            },
+            {
+                "text": " anh",
+                "timestamp": [
+                    192.02,
+                    192.3
+                ]
+            },
+            {
+                "text": " dễ",
+                "timestamp": [
+                    192.3,
+                    192.62
+                ]
+            },
+            {
+                "text": " dàng",
+                "timestamp": [
+                    192.62,
+                    192.96
+                ]
+            },
+            {
+                "text": " đến",
+                "timestamp": [
+                    192.96,
+                    193.26
+                ]
+            },
+            {
+                "text": " anh",
+                "timestamp": [
+                    193.26,
+                    193.64
+                ]
+            },
+            {
+                "text": " không",
+                "timestamp": [
+                    193.64,
+                    194.0
+                ]
+            },
+            {
+                "text": " bung",
+                "timestamp": [
+                    194.0,
+                    194.34
+                ]
+            },
+            {
+                "text": " phẳng",
+                "timestamp": [
+                    194.34,
+                    194.82
+                ]
+            },
+            {
+                "text": " ai",
+                "timestamp": [
+                    194.82,
+                    195.64
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    195.64,
+                    196.42
+                ]
+            },
+            {
+                "text": " người",
+                "timestamp": [
+                    196.42,
+                    196.92
+                ]
+            },
+            {
+                "text": " hạnh",
+                "timestamp": [
+                    196.92,
+                    197.72
+                ]
+            },
+            {
+                "text": " phúc",
+                "timestamp": [
+                    197.72,
+                    198.14
+                ]
+            },
+            {
+                "text": " đều",
+                "timestamp": [
+                    198.14,
+                    199.04
+                ]
+            },
+            {
+                "text": " thật",
+                "timestamp": [
+                    199.04,
+                    199.54
+                ]
+            },
+            {
+                "text": " yên",
+                "timestamp": [
+                    199.54,
+                    200.2
+                ]
+            },
+            {
+                "text": " giấc",
+                "timestamp": [
+                    200.2,
+                    200.76
+                ]
+            },
+            {
+                "text": " còn",
+                "timestamp": [
+                    200.76,
+                    201.6
+                ]
+            },
+            {
+                "text": " mỗi",
+                "timestamp": [
+                    201.6,
+                    201.98
+                ]
+            },
+            {
+                "text": " giấc",
+                "timestamp": [
+                    201.98,
+                    202.28
+                ]
+            },
+            {
+                "text": " anh",
+                "timestamp": [
+                    202.28,
+                    202.6
+                ]
+            },
+            {
+                "text": " nơi",
+                "timestamp": [
+                    202.6,
+                    202.98
+                ]
+            },
+            {
+                "text": " này",
+                "timestamp": [
+                    202.98,
+                    203.28
+                ]
+            },
+            {
+                "text": " không",
+                "timestamp": [
+                    203.42,
+                    203.8
+                ]
+            },
+            {
+                "text": " chợp",
+                "timestamp": [
+                    203.8,
+                    204.4
+                ]
+            },
+            {
+                "text": " mãi",
+                "timestamp": [
+                    204.4,
+                    207.3
+                ]
+            },
+            {
+                "text": " lại",
+                "timestamp": [
+                    207.3,
+                    207.74
+                ]
+            },
+            {
+                "text": " một",
+                "timestamp": [
+                    207.74,
+                    208.0
+                ]
+            },
+            {
+                "text": " đêm",
+                "timestamp": [
+                    208.0,
+                    208.4
+                ]
+            },
+            {
+                "text": " nữa",
+                "timestamp": [
+                    208.4,
+                    208.84
+                ]
+            },
+            {
+                "text": " khi",
+                "timestamp": [
+                    208.84,
+                    209.36
+                ]
+            },
+            {
+                "text": " mà",
+                "timestamp": [
+                    209.36,
+                    209.66
+                ]
+            },
+            {
+                "text": " cả",
+                "timestamp": [
+                    209.66,
+                    210.02
+                ]
+            },
+            {
+                "text": " thế",
+                "timestamp": [
+                    210.02,
+                    210.38
+                ]
+            },
+            {
+                "text": " giới",
+                "timestamp": [
+                    210.38,
+                    210.92
+                ]
+            },
+            {
+                "text": " đã",
+                "timestamp": [
+                    210.92,
+                    211.9
+                ]
+            },
+            {
+                "text": " thắt",
+                "timestamp": [
+                    211.9,
+                    212.38
+                ]
+            },
+            {
+                "text": " ngọn",
+                "timestamp": [
+                    212.38,
+                    212.88
+                ]
+            },
+            {
+                "text": " đèn",
+                "timestamp": [
+                    212.88,
+                    213.54
+                ]
+            },
+            {
+                "text": " còn",
+                "timestamp": [
+                    213.54,
+                    215.48
+                ]
+            },
+            {
+                "text": " xương",
+                "timestamp": [
+                    215.48,
+                    215.84
+                ]
+            },
+            {
+                "text": " anh",
+                "timestamp": [
+                    215.84,
+                    216.16
+                ]
+            },
+            {
+                "text": " ngồi",
+                "timestamp": [
+                    216.16,
+                    216.46
+                ]
+            },
+            {
+                "text": " đẹp",
+                "timestamp": [
+                    216.46,
+                    216.82
+                ]
+            },
+            {
+                "text": " hợp",
+                "timestamp": [
+                    216.82,
+                    217.22
+                ]
+            },
+            {
+                "text": " sáng",
+                "timestamp": [
+                    217.22,
+                    218.08
+                ]
+            },
+            {
+                "text": " giờ",
+                "timestamp": [
+                    218.08,
+                    221.64
+                ]
+            },
+            {
+                "text": " đây",
+                "timestamp": [
+                    221.64,
+                    221.96
+                ]
+            },
+            {
+                "text": " đã",
+                "timestamp": [
+                    221.96,
+                    222.22
+                ]
+            },
+            {
+                "text": " kết",
+                "timestamp": [
+                    222.22,
+                    222.62
+                ]
+            },
+            {
+                "text": " thúc",
+                "timestamp": [
+                    222.62,
+                    222.92
+                ]
+            },
+            {
+                "text": " hết",
+                "timestamp": [
+                    222.92,
+                    223.26
+                ]
+            },
+            {
+                "text": " tất",
+                "timestamp": [
+                    223.26,
+                    223.56
+                ]
+            },
+            {
+                "text": " cả",
+                "timestamp": [
+                    223.56,
+                    224.04
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    224.04,
+                    224.42
+                ]
+            },
+            {
+                "text": " chuyện",
+                "timestamp": [
+                    224.42,
+                    224.9
+                ]
+            },
+            {
+                "text": " đã",
+                "timestamp": [
+                    224.9,
+                    225.48
+                ]
+            },
+            {
+                "text": " qua",
+                "timestamp": [
+                    225.48,
+                    226.2
+                ]
+            },
+            {
+                "text": " em",
+                "timestamp": [
+                    226.2,
+                    227.44
+                ]
+            },
+            {
+                "text": " bước",
+                "timestamp": [
+                    227.44,
+                    227.76
+                ]
+            },
+            {
+                "text": " tiếp",
+                "timestamp": [
+                    227.76,
+                    228.1
+                ]
+            },
+            {
+                "text": " con",
+                "timestamp": [
+                    228.1,
+                    228.4
+                ]
+            },
+            {
+                "text": " đường",
+                "timestamp": [
+                    228.4,
+                    228.9
+                ]
+            },
+            {
+                "text": " hạnh",
+                "timestamp": [
+                    228.9,
+                    229.98
+                ]
+            },
+            {
+                "text": " phúc",
+                "timestamp": [
+                    229.98,
+                    230.4
+                ]
+            },
+            {
+                "text": " đi",
+                "timestamp": [
+                    230.4,
+                    231.44
+                ]
+            },
+            {
+                "text": " đừng",
+                "timestamp": [
+                    231.44,
+                    234.24
+                ]
+            },
+            {
+                "text": " nhìn",
+                "timestamp": [
+                    234.24,
+                    234.8
+                ]
+            },
+            {
+                "text": " lại",
+                "timestamp": [
+                    234.8,
+                    236.1
+                ]
+            },
+            {
+                "text": ".ngoài",
+                "timestamp": [
+                    236.1,
+                    258.56
+                ]
+            },
+            {
+                "text": " ra",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " còn",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " mở",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " cửa",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " để",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " sử",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " dụng",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " kiến",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " nghị",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " của",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " vũ",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " khí",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " trong",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " thời",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " gian",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " tới.",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            }
+        ]
     }
 ]
