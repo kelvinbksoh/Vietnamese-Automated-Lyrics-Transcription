@@ -65,7 +65,7 @@ def preprocess_text(text):
 
     # text = convert_digits_to_words(text)
     text = remove_punc(text)
-    text = convert_numbers_in_string(text)
+    # text = convert_numbers_in_string(text)
     return text
 
 def compare_files(pred_file, gt_file):
@@ -75,17 +75,14 @@ def compare_files(pred_file, gt_file):
 
     # Compute error metrics using jiwer
     errors = jiwer.compute_measures(truth=gt_text, hypothesis=pred_text)
+    cer_score = jiwer.cer(truth=gt_text, hypothesis=pred_text)
+    errors['cer'] = cer_score
     
-    # print(f"Comparing {os.path.basename(pred_file)}:")
-    # print(f"WER: {errors['wer']:.3f}")
-    # print(f"Prediction: {pred_text}")
-    # print(f"Ground Truth: {gt_text}\n")
-
     return errors
 
 def evaluate_predictions(pred_dir, gt_dir):
     """Evaluate all predicted files against ground truth files."""
-    all_metrics = {'mer': 0, 'wer': 0, 'wil': 0, 'wip': 0}
+    all_metrics = {'mer': 0, 'wer': 0, 'wil': 0, 'wip': 0, 'cer': 0}
     count = 0
     all_gt = glob.glob(os.path.join(gt_dir, '*.lrc'))
     all_gt_songname = [remove_diacritics(os.path.basename(x).split('.origin.lrc')[0]) for x in all_gt]
@@ -99,7 +96,6 @@ def evaluate_predictions(pred_dir, gt_dir):
         song_name_normalized = remove_diacritics(song_name)
         
         gt_file = all_gt[all_gt_songname.index(song_name_normalized)]
-
 
         if not os.path.exists(gt_file):
             print('-------------------')
@@ -123,6 +119,7 @@ def evaluate_predictions(pred_dir, gt_dir):
         print(f"Average WER: {all_metrics['wer'] / count:.3f}")
         print(f"Average WIL: {all_metrics['wil'] / count:.3f}")
         print(f"Average WIP: {all_metrics['wip'] / count:.3f}")
+        print(f"Average CER: {all_metrics['cer'] / count:.3f}")
     else:
         print("No valid predictions found.")
 

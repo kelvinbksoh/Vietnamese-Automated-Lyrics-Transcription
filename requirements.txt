@@ -6,3 +6,6 @@ python-dotenv
 git+https://github.com/openai/whisper.git 
 
 #transformers #For PhoWhisper
+jiwer
+transformers
+vietnam_number
