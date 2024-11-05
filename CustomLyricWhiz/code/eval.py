@@ -25,9 +25,17 @@ def normalize_VNmese(text):
 def load_predicted_text(pred_file):
     """Load predicted text from a JSON file."""
     with open(pred_file, 'r') as _file:
-        segments = json.load(_file)
-        text = [seg['text'][:-1] for seg in segments] #Remove the last char, which is usually a dot
-    return ' '.join(text)
+        loaded_results = json.load(_file)
+    
+    if type(loaded_results) == dict:
+        text = loaded_results['text']
+    elif type(loaded_results) == list:
+        text = [seg['text'][:-1] for seg in loaded_results] #Remove the last char, which is usually a dot
+        text = ' '.join(text)
+    else:
+        raise ValueError(f'Unknown type of results: {type(loaded_results)}')
+    
+    return text
 
 def load_ground_truth(gt_file):
     """Load ground truth text from a TXT file and strip timestamps."""
@@ -92,7 +100,8 @@ def evaluate_predictions(pred_dir, gt_dir):
             continue  # Skip non-JSON files
 
         # Match predicted file with corresponding ground truth
-        song_name = os.path.basename(pred_file).split('.mp3.json')[0]
+        song_name = os.path.basename(pred_file).split('.mp3.json')[0].split('.json')[0]
+
         song_name_normalized = remove_diacritics(song_name)
         
         gt_file = all_gt[all_gt_songname.index(song_name_normalized)]
