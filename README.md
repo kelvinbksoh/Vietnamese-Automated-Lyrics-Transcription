@@ -1,5 +1,9 @@
 # Vietnamese Automated Lyrics Transcription (ALT)
-This project aims to perform automatic lyrics transcription on Vietnamese songs, the pre-trained model used for this task is Whisper-large-v2 from [Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356).
+This project aims to perform automatic lyrics transcription on Vietnamese songs, the pre-trained model used for this task is Whisper model from [Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356).
+
+Our fine-tuned Whisper model for Vietnamese lyrics transcription is now available on the Hugging Face 🤗 : 
+- [xyzDivergence/whisper-medium-vietnamese-lyrics-transcription](https://huggingface.co/xyzDivergence/whisper-medium-vietnamese-lyrics-transcription)
+- [xyzDivergence/whisper-large-v2-vietnamese-lyrics-transcription](https://huggingface.co/xyzDivergence/whisper-large-v2-vietnamese-lyrics-transcription).
 
 ## Setup
 To install the dependencies, run the following command:
@@ -66,7 +70,7 @@ deepspeed --num_gpus=2 train/whisper_train.py --experiment_name "whisper-large-v
 | whisper-medium       | 23.15              | 26.42                    | 17.01              | 17.03                    |
 | whisper-large-v2     | 20.52              | 24.61                    | 16.09              | 17.14                    |
 ## Whisper Inference 
-Our fine-tuned Whisper model for Vietnamese lyrics transcription is now available on the Hugging Face repository: [whisper-large-v2-vietnamese-lyrics-transcription](https://huggingface.co/xyzDivergence/whisper-large-v2-vietnamese-lyrics-transcription). If you’re interested in performing Vietnamese automatic lyrics transcription, you can use the Transformers pipeline below.
+To perform Vietnamese automatic lyrics transcription, you can use the Transformers pipeline below.
 
 #### Using Transformers Pipeline
 To generate the transcription for a song, we can use the Transformers [`pipeline`](https://huggingface.co/docs/transformers/main_classes/pipelines#transformers.AutomaticSpeechRecognitionPipeline). Chunking is enabled by setting `chunk_length_s=30` when instantiating the pipeline. With chunking enabled, the pipeline can be run with batched inference. It can also be extended to predict sequence level timestamps by passing `return_timestamps=True`. In the following example we are passing `return_timestamps="word"`  that provides precise timestamps for when each individual word in the audio starts and ends.
