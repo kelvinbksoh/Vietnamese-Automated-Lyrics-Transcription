@@ -1,211 +1,76 @@
 [
     {
-        "text": " Shall we go for a walk?",
-        "segments": [
+        "text": "sẽ lấy gâu pha lúa sẽ lấy gâu pha lúa.",
+        "chunks": [
             {
-                "id": 0,
-                "seek": 0,
-                "start": 0.0,
-                "end": 7.04,
-                "text": " Shall we go for a walk?",
-                "tokens": [
-                    50365,
-                    12128,
-                    321,
-                    352,
-                    337,
-                    257,
-                    1792,
-                    30,
-                    50717
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.22750616073608398,
-                "compression_ratio": 0.7419354838709677,
-                "no_speech_prob": 0.1415635049343109
-            }
-        ],
-        "language": "vi",
-        "tags_with_probs": [
-            {
-                "tag": "Speech",
-                "prob": 0.6546998023986816
+                "text": "sẽ",
+                "timestamp": [
+                    0.0,
+                    0.8
+                ]
             },
             {
-                "tag": "Speech synthesizer",
-                "prob": 0.2002938985824585
+                "text": " lấy",
+                "timestamp": [
+                    0.8,
+                    0.94
+                ]
             },
             {
-                "tag": "Sigh",
-                "prob": 0.08639565110206604
+                "text": " gâu",
+                "timestamp": [
+                    0.94,
+                    1.2
+                ]
             },
             {
-                "tag": "Inside, small room",
-                "prob": 0.0830187201499939
+                "text": " pha",
+                "timestamp": [
+                    1.2,
+                    1.44
+                ]
             },
             {
-                "tag": "Narration, monologue",
-                "prob": 0.05175396054983139
+                "text": " lúa",
+                "timestamp": [
+                    1.44,
+                    1.78
+                ]
             },
             {
-                "tag": "Clicking",
-                "prob": 0.05094735324382782
+                "text": " sẽ",
+                "timestamp": [
+                    1.78,
+                    3.78
+                ]
             },
             {
-                "tag": "Silence",
-                "prob": 0.03486515209078789
+                "text": " lấy",
+                "timestamp": [
+                    3.78,
+                    4.24
+                ]
             },
             {
-                "tag": "Music",
-                "prob": 0.020715773105621338
+                "text": " gâu",
+                "timestamp": [
+                    4.24,
+                    4.46
+                ]
             },
             {
-                "tag": "Conversation",
-                "prob": 0.013896790333092213
+                "text": " pha",
+                "timestamp": [
+                    4.46,
+                    4.7
+                ]
             },
             {
-                "tag": "Male speech, man speaking",
-                "prob": 0.013376723974943161
-            }
-        ]
-    },
-    {
-        "text": " Shall we go for a walk?",
-        "segments": [
-            {
-                "id": 0,
-                "seek": 0,
-                "start": 0.0,
-                "end": 7.04,
-                "text": " Shall we go for a walk?",
-                "tokens": [
-                    50365,
-                    12128,
-                    321,
-                    352,
-                    337,
-                    257,
-                    1792,
-                    30,
-                    50717
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.22809717655181885,
-                "compression_ratio": 0.7419354838709677,
-                "no_speech_prob": 0.14159764349460602
-            }
-        ],
-        "language": "vi",
-        "tags_with_probs": [
-            {
-                "tag": "Speech",
-                "prob": 0.6546998023986816
-            },
-            {
-                "tag": "Speech synthesizer",
-                "prob": 0.2002938985824585
-            },
-            {
-                "tag": "Sigh",
-                "prob": 0.08639565110206604
-            },
-            {
-                "tag": "Inside, small room",
-                "prob": 0.0830187201499939
-            },
-            {
-                "tag": "Narration, monologue",
-                "prob": 0.05175396054983139
-            },
-            {
-                "tag": "Clicking",
-                "prob": 0.05094735324382782
-            },
-            {
-                "tag": "Silence",
-                "prob": 0.03486515209078789
-            },
-            {
-                "tag": "Music",
-                "prob": 0.020715773105621338
-            },
-            {
-                "tag": "Conversation",
-                "prob": 0.013896790333092213
-            },
-            {
-                "tag": "Male speech, man speaking",
-                "prob": 0.013376723974943161
-            }
-        ]
-    },
-    {
-        "text": " Shall we go for a walk?",
-        "segments": [
-            {
-                "id": 0,
-                "seek": 0,
-                "start": 0.0,
-                "end": 7.04,
-                "text": " Shall we go for a walk?",
-                "tokens": [
-                    50365,
-                    12128,
-                    321,
-                    352,
-                    337,
-                    257,
-                    1792,
-                    30,
-                    50717
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.2277071714401245,
-                "compression_ratio": 0.7419354838709677,
-                "no_speech_prob": 0.1415654420852661
-            }
-        ],
-        "language": "vi",
-        "tags_with_probs": [
-            {
-                "tag": "Speech",
-                "prob": 0.6546998023986816
-            },
-            {
-                "tag": "Speech synthesizer",
-                "prob": 0.2002938985824585
-            },
-            {
-                "tag": "Sigh",
-                "prob": 0.08639565110206604
-            },
-            {
-                "tag": "Inside, small room",
-                "prob": 0.0830187201499939
-            },
-            {
-                "tag": "Narration, monologue",
-                "prob": 0.05175396054983139
-            },
-            {
-                "tag": "Clicking",
-                "prob": 0.05094735324382782
-            },
-            {
-                "tag": "Silence",
-                "prob": 0.03486515209078789
-            },
-            {
-                "tag": "Music",
-                "prob": 0.020715773105621338
-            },
-            {
-                "tag": "Conversation",
-                "prob": 0.013896790333092213
-            },
-            {
-                "tag": "Male speech, man speaking",
-                "prob": 0.013376723974943161
+                "text": " lúa.",
+                "timestamp": [
+                    4.7,
+                    5.86
+                ]
             }
         ]
     }

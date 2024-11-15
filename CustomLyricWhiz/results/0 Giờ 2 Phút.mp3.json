@@ -1,3997 +1,2421 @@
 [
     {
-        "text": " Tập 3 Trời đêm nay không ngọt vì sao Gió vẫn nhẹ nhẹ Thôi sao lòng ta luôn nặng trêu Bàn tay ngày ấy đã níu dư lấy sao lại buồn Có phải tình cảm đã nhạt dần Hãy nói đi đừng ngại ngờ Tại sao hai người nhấn tâm lấy nước mắt của tôi Tại sao hai người ước đi những tháng ngày hạnh phúc Giờ trong tôi là bóng đêm đang phai quay những nỗi đau Lòng tôi thấy ăn hận đôi mi dưng dưng Lúc không giờ hạnh phúc Đến bên tôi vui đùa rồi xem tôi chỉ là một kẻ sư thừa Trái tim tôi đã lầm khi hiểu rằng em rất yêu Những người đau khổ đều thức cùng nước mắt Ngọn sóng trong thương tâm này không thể tắt Nỗi yêu thương cho nhiều giờ đây anh hiểu ra bao nhiêu điều Xoác tên anh dễ dàng để đến cùng với ai Những người hạnh phúc đều thật yên sắc Còn mỗi riêng anh nơi này không chấp mắt Không chấp mắt Tại sao hai người nhấn tâm lấy nước mắt của tôi Tại sao hai người ướp đi những tháng ngày hạnh phúc Giờ trong tôi là bóng đêm đang phai quay những nỗi đau Lòng tôi thấy ăn hận đôi mi dưng dưng Lúc không giờ hạnh phúc Đến bên tôi vui đùa rồi xem tôi chỉ là một kẻ sư thừa Trái tim tôi đã lầm khi hiểu rằng em rất yêu Những người đau khổ Đều thức cùng nước mắt Ngọn sóng trong thương tâm này không thể tắt Nỗi yêu thương cho nhiều giờ đây anh hiểu ra bao nhiêu điều Xoác tên anh dễ dàng để đến cùng với ai Những người hạnh phúc đều thật yên sắc Còn mỗi riêng anh nơi này không chấp mắt Lại một đêm nữa khi mà cả thế giới đã tắt ngọn đèn Còn riêng anh ngồi đây thấp sang Giờ đây đã kết thúc hết tất cả những chuyện đã qua Em hãy bước tiếp con đường hạnh phúc đi Đừng nhìn lại",
-        "segments": [
-            {
-                "id": 0,
-                "seek": 0,
-                "start": 0.0,
-                "end": 2.0,
-                "text": " Tập 3",
-                "tokens": [
-                    50365,
-                    314,
-                    35148,
-                    805,
-                    50465
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.6840852260589599,
-                "compression_ratio": 0.8070175438596491,
-                "no_speech_prob": 0.04246561601758003
-            },
-            {
-                "id": 1,
-                "seek": 0,
-                "start": 24.0,
-                "end": 28.0,
-                "text": " Trời đêm nay không ngọt vì sao",
-                "tokens": [
-                    51565,
-                    1765,
-                    21024,
-                    2934,
-                    13213,
-                    34227,
-                    11415,
-                    6415,
-                    12935,
-                    83,
-                    37902,
-                    33108,
-                    51765
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.6840852260589599,
-                "compression_ratio": 0.8070175438596491,
-                "no_speech_prob": 0.04246561601758003
-            },
-            {
-                "id": 2,
-                "seek": 2800,
-                "start": 28.0,
-                "end": 30.0,
-                "text": " Gió vẫn nhẹ nhẹ",
-                "tokens": [
-                    50365,
-                    460,
-                    7138,
-                    49004,
-                    6245,
-                    26965,
-                    6245,
-                    26965,
-                    50465
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.17306174788364145,
-                "compression_ratio": 1.3147208121827412,
-                "no_speech_prob": 0.0009039033320732415
-            },
-            {
-                "id": 3,
-                "seek": 2800,
-                "start": 32.0,
-                "end": 36.0,
-                "text": " Thôi sao lòng ta luôn nặng trêu",
-                "tokens": [
-                    50565,
-                    334,
-                    12213,
-                    33108,
-                    287,
-                    36782,
-                    1846,
-                    35690,
-                    297,
-                    19118,
-                    872,
-                    504,
-                    28310,
-                    50765
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.17306174788364145,
-                "compression_ratio": 1.3147208121827412,
-                "no_speech_prob": 0.0009039033320732415
-            },
-            {
-                "id": 4,
-                "seek": 2800,
-                "start": 38.0,
-                "end": 43.0,
-                "text": " Bàn tay ngày ấy đã níu dư lấy sao lại buồn",
-                "tokens": [
-                    50865,
-                    363,
-                    22476,
-                    39224,
-                    34481,
-                    43966,
-                    17283,
-                    297,
-                    870,
-                    84,
-                    274,
-                    4228,
-                    287,
-                    13417,
-                    33108,
-                    23017,
-                    758,
-                    11057,
-                    77,
-                    51115
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.17306174788364145,
-                "compression_ratio": 1.3147208121827412,
-                "no_speech_prob": 0.0009039033320732415
-            },
-            {
-                "id": 5,
-                "seek": 2800,
-                "start": 43.0,
-                "end": 46.0,
-                "text": " Có phải tình cảm đã nhạt dần",
-                "tokens": [
-                    51115,
-                    41306,
-                    23394,
-                    256,
-                    10116,
-                    47593,
-                    17283,
-                    6245,
-                    44664,
-                    274,
-                    18241,
-                    51265
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.17306174788364145,
-                "compression_ratio": 1.3147208121827412,
-                "no_speech_prob": 0.0009039033320732415
-            },
-            {
-                "id": 6,
-                "seek": 2800,
-                "start": 46.0,
-                "end": 51.0,
-                "text": " Hãy nói đi đừng ngại ngờ",
-                "tokens": [
-                    51265,
-                    389,
-                    49205,
-                    27508,
-                    13264,
-                    2934,
-                    39121,
-                    6415,
-                    12745,
-                    6415,
-                    21270,
-                    51515
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.17306174788364145,
-                "compression_ratio": 1.3147208121827412,
-                "no_speech_prob": 0.0009039033320732415
-            },
-            {
-                "id": 7,
-                "seek": 2800,
-                "start": 53.0,
-                "end": 57.0,
-                "text": " Tại sao hai người nhấn tâm lấy nước mắt của tôi",
-                "tokens": [
-                    51615,
-                    314,
-                    12745,
-                    33108,
-                    21822,
-                    15898,
-                    6245,
-                    43975,
-                    256,
-                    24484,
-                    287,
-                    13417,
-                    30728,
-                    275,
-                    31454,
-                    11990,
-                    22336,
-                    51815
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.17306174788364145,
-                "compression_ratio": 1.3147208121827412,
-                "no_speech_prob": 0.0009039033320732415
-            },
-            {
-                "id": 8,
-                "seek": 5800,
-                "start": 58.0,
-                "end": 63.0,
-                "text": " Tại sao hai người ước đi những tháng ngày hạnh phúc",
-                "tokens": [
-                    50365,
-                    314,
-                    12745,
-                    33108,
-                    21822,
-                    15898,
-                    220,
-                    19578,
-                    13264,
-                    20136,
-                    258,
-                    30344,
-                    34481,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    50615
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.14097651728877314,
-                "compression_ratio": 1.376984126984127,
-                "no_speech_prob": 6.253615720197558e-05
-            },
-            {
-                "id": 9,
-                "seek": 5800,
-                "start": 63.0,
-                "end": 68.0,
-                "text": " Giờ trong tôi là bóng đêm đang phai quay những nỗi đau",
-                "tokens": [
-                    50615,
-                    15334,
-                    21270,
-                    18826,
-                    22336,
-                    3684,
-                    272,
-                    812,
-                    872,
-                    2934,
-                    13213,
-                    30723,
-                    903,
-                    1301,
-                    421,
-                    320,
-                    20136,
-                    297,
-                    49572,
-                    2934,
-                    1459,
-                    50865
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.14097651728877314,
-                "compression_ratio": 1.376984126984127,
-                "no_speech_prob": 6.253615720197558e-05
-            },
-            {
-                "id": 10,
-                "seek": 5800,
-                "start": 68.0,
-                "end": 71.0,
-                "text": " Lòng tôi thấy ăn hận đôi mi dưng dưng",
-                "tokens": [
-                    50865,
-                    441,
-                    36782,
-                    22336,
-                    27793,
-                    28657,
-                    276,
-                    27410,
-                    2934,
-                    12213,
-                    2752,
-                    274,
-                    42509,
-                    274,
-                    42509,
-                    51015
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.14097651728877314,
-                "compression_ratio": 1.376984126984127,
-                "no_speech_prob": 6.253615720197558e-05
-            },
-            {
-                "id": 11,
-                "seek": 5800,
-                "start": 71.0,
-                "end": 75.0,
-                "text": " Lúc không giờ hạnh phúc",
-                "tokens": [
-                    51015,
-                    441,
-                    31585,
-                    11415,
-                    28689,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    51215
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.14097651728877314,
-                "compression_ratio": 1.376984126984127,
-                "no_speech_prob": 6.253615720197558e-05
-            },
-            {
-                "id": 12,
-                "seek": 5800,
-                "start": 77.0,
-                "end": 83.0,
-                "text": " Đến bên tôi vui đùa rồi xem tôi chỉ là một kẻ sư thừa",
-                "tokens": [
-                    51315,
-                    13055,
-                    16240,
-                    43730,
-                    22336,
-                    371,
-                    3077,
-                    2934,
-                    5035,
-                    64,
-                    19908,
-                    47852,
-                    22336,
-                    33566,
-                    3684,
-                    15486,
-                    350,
-                    40956,
-                    262,
-                    4228,
-                    258,
-                    47279,
-                    51615
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.14097651728877314,
-                "compression_ratio": 1.376984126984127,
-                "no_speech_prob": 6.253615720197558e-05
-            },
-            {
-                "id": 13,
-                "seek": 5800,
-                "start": 83.0,
-                "end": 87.0,
-                "text": " Trái tim tôi đã lầm khi hiểu rằng em rất yêu",
-                "tokens": [
-                    51615,
-                    1765,
-                    28249,
-                    524,
-                    22336,
-                    17283,
-                    287,
-                    11161,
-                    76,
-                    23526,
-                    4879,
-                    40328,
-                    45019,
-                    846,
-                    25147,
-                    49107,
-                    51815
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.14097651728877314,
-                "compression_ratio": 1.376984126984127,
-                "no_speech_prob": 6.253615720197558e-05
-            },
-            {
-                "id": 14,
-                "seek": 8700,
-                "start": 87.0,
-                "end": 92.0,
-                "text": " Những người đau khổ đều thức cùng nước mắt",
-                "tokens": [
-                    50365,
-                    26390,
-                    18859,
-                    15898,
-                    2934,
-                    1459,
-                    7168,
-                    20950,
-                    2934,
-                    17310,
-                    258,
-                    27138,
-                    45701,
-                    30728,
-                    275,
-                    31454,
-                    50615
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.15550086183368034,
-                "compression_ratio": 1.4650205761316872,
-                "no_speech_prob": 0.00015720166265964508
-            },
-            {
-                "id": 15,
-                "seek": 8700,
-                "start": 92.0,
-                "end": 97.0,
-                "text": " Ngọn sóng trong thương tâm này không thể tắt",
-                "tokens": [
-                    50615,
-                    21198,
-                    47246,
-                    6238,
-                    872,
-                    18826,
-                    258,
-                    24605,
-                    256,
-                    24484,
-                    12542,
-                    11415,
-                    24491,
-                    256,
-                    31454,
-                    50865
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.15550086183368034,
-                "compression_ratio": 1.4650205761316872,
-                "no_speech_prob": 0.00015720166265964508
-            },
-            {
-                "id": 16,
-                "seek": 8700,
-                "start": 97.0,
-                "end": 103.0,
-                "text": " Nỗi yêu thương cho nhiều giờ đây anh hiểu ra bao nhiêu điều",
-                "tokens": [
-                    50865,
-                    426,
-                    49572,
-                    49107,
-                    258,
-                    24605,
-                    1586,
-                    28272,
-                    28689,
-                    20199,
-                    18931,
-                    4879,
-                    40328,
-                    3342,
-                    45296,
-                    20575,
-                    28310,
-                    42082,
-                    51165
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.15550086183368034,
-                "compression_ratio": 1.4650205761316872,
-                "no_speech_prob": 0.00015720166265964508
-            },
-            {
-                "id": 17,
-                "seek": 8700,
-                "start": 103.0,
-                "end": 108.0,
-                "text": " Xoác tên anh dễ dàng để đến cùng với ai",
-                "tokens": [
-                    51165,
-                    1783,
-                    78,
-                    21563,
-                    256,
-                    5050,
-                    18931,
-                    274,
-                    36664,
-                    274,
-                    26653,
-                    20081,
-                    26353,
-                    45701,
-                    18916,
-                    9783,
-                    51415
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.15550086183368034,
-                "compression_ratio": 1.4650205761316872,
-                "no_speech_prob": 0.00015720166265964508
-            },
-            {
-                "id": 18,
-                "seek": 8700,
-                "start": 108.0,
-                "end": 113.0,
-                "text": " Những người hạnh phúc đều thật yên sắc",
-                "tokens": [
-                    51415,
-                    26390,
-                    18859,
-                    15898,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    2934,
-                    17310,
-                    258,
-                    25296,
-                    288,
-                    5050,
-                    262,
-                    30838,
-                    51665
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.15550086183368034,
-                "compression_ratio": 1.4650205761316872,
-                "no_speech_prob": 0.00015720166265964508
-            },
-            {
-                "id": 19,
-                "seek": 8700,
-                "start": 113.0,
-                "end": 116.0,
-                "text": " Còn mỗi riêng anh nơi này không chấp mắt",
-                "tokens": [
-                    51665,
-                    383,
-                    23329,
-                    275,
-                    49572,
-                    19739,
-                    1307,
-                    872,
-                    18931,
-                    297,
-                    21537,
-                    12542,
-                    11415,
-                    417,
-                    47176,
-                    275,
-                    31454,
-                    51815
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.15550086183368034,
-                "compression_ratio": 1.4650205761316872,
-                "no_speech_prob": 0.00015720166265964508
-            },
-            {
-                "id": 20,
-                "seek": 11600,
-                "start": 116.0,
-                "end": 119.0,
-                "text": " Không chấp mắt",
-                "tokens": [
-                    50365,
-                    49125,
-                    417,
-                    47176,
-                    275,
-                    31454,
-                    50515
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.17384262438173648,
-                "compression_ratio": 1.0240963855421688,
-                "no_speech_prob": 0.0006070295348763466
-            },
-            {
-                "id": 21,
-                "seek": 11600,
-                "start": 141.0,
-                "end": 145.0,
-                "text": " Tại sao hai người nhấn tâm lấy nước mắt của tôi",
-                "tokens": [
-                    51615,
-                    314,
-                    12745,
-                    33108,
-                    21822,
-                    15898,
-                    6245,
-                    43975,
-                    256,
-                    24484,
-                    287,
-                    13417,
-                    30728,
-                    275,
-                    31454,
-                    11990,
-                    22336,
-                    51815
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.17384262438173648,
-                "compression_ratio": 1.0240963855421688,
-                "no_speech_prob": 0.0006070295348763466
-            },
-            {
-                "id": 22,
-                "seek": 14500,
-                "start": 145.0,
-                "end": 151.0,
-                "text": " Tại sao hai người ướp đi những tháng ngày hạnh phúc",
-                "tokens": [
-                    50365,
-                    314,
-                    12745,
-                    33108,
-                    21822,
-                    15898,
-                    220,
-                    17059,
-                    79,
-                    13264,
-                    20136,
-                    258,
-                    30344,
-                    34481,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    50665
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.0391855546093862,
-                "compression_ratio": 1.376984126984127,
-                "no_speech_prob": 0.0013248177710920572
-            },
-            {
-                "id": 23,
-                "seek": 14500,
-                "start": 151.0,
-                "end": 156.0,
-                "text": " Giờ trong tôi là bóng đêm đang phai quay những nỗi đau",
-                "tokens": [
-                    50665,
-                    15334,
-                    21270,
-                    18826,
-                    22336,
-                    3684,
-                    272,
-                    812,
-                    872,
-                    2934,
-                    13213,
-                    30723,
-                    903,
-                    1301,
-                    421,
-                    320,
-                    20136,
-                    297,
-                    49572,
-                    2934,
-                    1459,
-                    50915
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.0391855546093862,
-                "compression_ratio": 1.376984126984127,
-                "no_speech_prob": 0.0013248177710920572
-            },
-            {
-                "id": 24,
-                "seek": 14500,
-                "start": 156.0,
-                "end": 159.0,
-                "text": " Lòng tôi thấy ăn hận đôi mi dưng dưng",
-                "tokens": [
-                    50915,
-                    441,
-                    36782,
-                    22336,
-                    27793,
-                    28657,
-                    276,
-                    27410,
-                    2934,
-                    12213,
-                    2752,
-                    274,
-                    42509,
-                    274,
-                    42509,
-                    51065
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.0391855546093862,
-                "compression_ratio": 1.376984126984127,
-                "no_speech_prob": 0.0013248177710920572
-            },
-            {
-                "id": 25,
-                "seek": 14500,
-                "start": 159.0,
-                "end": 163.0,
-                "text": " Lúc không giờ hạnh phúc",
-                "tokens": [
-                    51065,
-                    441,
-                    31585,
-                    11415,
-                    28689,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    51265
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.0391855546093862,
-                "compression_ratio": 1.376984126984127,
-                "no_speech_prob": 0.0013248177710920572
-            },
-            {
-                "id": 26,
-                "seek": 14500,
-                "start": 165.0,
-                "end": 170.0,
-                "text": " Đến bên tôi vui đùa rồi xem tôi chỉ là một kẻ sư thừa",
-                "tokens": [
-                    51365,
-                    13055,
-                    16240,
-                    43730,
-                    22336,
-                    371,
-                    3077,
-                    2934,
-                    5035,
-                    64,
-                    19908,
-                    47852,
-                    22336,
-                    33566,
-                    3684,
-                    15486,
-                    350,
-                    40956,
-                    262,
-                    4228,
-                    258,
-                    47279,
-                    51615
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.0391855546093862,
-                "compression_ratio": 1.376984126984127,
-                "no_speech_prob": 0.0013248177710920572
-            },
-            {
-                "id": 27,
-                "seek": 14500,
-                "start": 170.0,
-                "end": 174.0,
-                "text": " Trái tim tôi đã lầm khi hiểu rằng em rất yêu",
-                "tokens": [
-                    51615,
-                    1765,
-                    28249,
-                    524,
-                    22336,
-                    17283,
-                    287,
-                    11161,
-                    76,
-                    23526,
-                    4879,
-                    40328,
-                    45019,
-                    846,
-                    25147,
-                    49107,
-                    51815
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.0391855546093862,
-                "compression_ratio": 1.376984126984127,
-                "no_speech_prob": 0.0013248177710920572
-            },
-            {
-                "id": 28,
-                "seek": 17400,
-                "start": 174.0,
-                "end": 176.0,
-                "text": " Những người đau khổ",
-                "tokens": [
-                    50365,
-                    26390,
-                    18859,
-                    15898,
-                    2934,
-                    1459,
-                    7168,
-                    20950,
-                    50465
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.09505957144278067,
-                "compression_ratio": 1.453061224489796,
-                "no_speech_prob": 0.0001956312044057995
-            },
-            {
-                "id": 29,
-                "seek": 17400,
-                "start": 176.0,
-                "end": 179.0,
-                "text": " Đều thức cùng nước mắt",
-                "tokens": [
-                    50465,
-                    13055,
-                    17310,
-                    258,
-                    27138,
-                    45701,
-                    30728,
-                    275,
-                    31454,
-                    50615
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.09505957144278067,
-                "compression_ratio": 1.453061224489796,
-                "no_speech_prob": 0.0001956312044057995
-            },
-            {
-                "id": 30,
-                "seek": 17400,
-                "start": 179.0,
-                "end": 184.0,
-                "text": " Ngọn sóng trong thương tâm này không thể tắt",
-                "tokens": [
-                    50615,
-                    21198,
-                    47246,
-                    6238,
-                    872,
-                    18826,
-                    258,
-                    24605,
-                    256,
-                    24484,
-                    12542,
-                    11415,
-                    24491,
-                    256,
-                    31454,
-                    50865
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.09505957144278067,
-                "compression_ratio": 1.453061224489796,
-                "no_speech_prob": 0.0001956312044057995
-            },
-            {
-                "id": 31,
-                "seek": 17400,
-                "start": 184.0,
-                "end": 190.0,
-                "text": " Nỗi yêu thương cho nhiều giờ đây anh hiểu ra bao nhiêu điều",
-                "tokens": [
-                    50865,
-                    426,
-                    49572,
-                    49107,
-                    258,
-                    24605,
-                    1586,
-                    28272,
-                    28689,
-                    20199,
-                    18931,
-                    4879,
-                    40328,
-                    3342,
-                    45296,
-                    20575,
-                    28310,
-                    42082,
-                    51165
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.09505957144278067,
-                "compression_ratio": 1.453061224489796,
-                "no_speech_prob": 0.0001956312044057995
-            },
-            {
-                "id": 32,
-                "seek": 17400,
-                "start": 190.0,
-                "end": 194.0,
-                "text": " Xoác tên anh dễ dàng để đến cùng với ai",
-                "tokens": [
-                    51165,
-                    1783,
-                    78,
-                    21563,
-                    256,
-                    5050,
-                    18931,
-                    274,
-                    36664,
-                    274,
-                    26653,
-                    20081,
-                    26353,
-                    45701,
-                    18916,
-                    9783,
-                    51365
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.09505957144278067,
-                "compression_ratio": 1.453061224489796,
-                "no_speech_prob": 0.0001956312044057995
-            },
-            {
-                "id": 33,
-                "seek": 17400,
-                "start": 194.0,
-                "end": 200.0,
-                "text": " Những người hạnh phúc đều thật yên sắc",
-                "tokens": [
-                    51365,
-                    26390,
-                    18859,
-                    15898,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    2934,
-                    17310,
-                    258,
-                    25296,
-                    288,
-                    5050,
-                    262,
-                    30838,
-                    51665
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.09505957144278067,
-                "compression_ratio": 1.453061224489796,
-                "no_speech_prob": 0.0001956312044057995
-            },
-            {
-                "id": 34,
-                "seek": 17400,
-                "start": 200.0,
-                "end": 203.0,
-                "text": " Còn mỗi riêng anh nơi này không chấp mắt",
-                "tokens": [
-                    51665,
-                    383,
-                    23329,
-                    275,
-                    49572,
-                    19739,
-                    1307,
-                    872,
-                    18931,
-                    297,
-                    21537,
-                    12542,
-                    11415,
-                    417,
-                    47176,
-                    275,
-                    31454,
-                    51815
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.09505957144278067,
-                "compression_ratio": 1.453061224489796,
-                "no_speech_prob": 0.0001956312044057995
-            },
-            {
-                "id": 35,
-                "seek": 20300,
-                "start": 203.0,
-                "end": 215.0,
-                "text": " Lại một đêm nữa khi mà cả thế giới đã tắt ngọn đèn",
-                "tokens": [
-                    50365,
-                    441,
-                    12745,
-                    15486,
-                    2934,
-                    13213,
-                    35047,
-                    23526,
-                    13901,
-                    22227,
-                    27100,
-                    1735,
-                    12242,
-                    17283,
-                    256,
-                    31454,
-                    6415,
-                    47246,
-                    2934,
-                    20917,
-                    50965
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.1669670427349252,
-                "compression_ratio": 1.3043478260869565,
-                "no_speech_prob": 0.001454805606044829
-            },
-            {
-                "id": 36,
-                "seek": 20300,
-                "start": 215.0,
-                "end": 219.0,
-                "text": " Còn riêng anh ngồi đây thấp sang",
-                "tokens": [
-                    50965,
-                    383,
-                    23329,
-                    19739,
-                    1307,
-                    872,
-                    18931,
-                    6415,
-                    15695,
-                    20199,
-                    258,
-                    47176,
-                    9980,
-                    51165
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.1669670427349252,
-                "compression_ratio": 1.3043478260869565,
-                "no_speech_prob": 0.001454805606044829
-            },
-            {
-                "id": 37,
-                "seek": 20300,
-                "start": 219.0,
-                "end": 227.0,
-                "text": " Giờ đây đã kết thúc hết tất cả những chuyện đã qua",
-                "tokens": [
-                    51165,
-                    15334,
-                    21270,
-                    20199,
-                    17283,
-                    350,
-                    13888,
-                    258,
-                    31585,
-                    44414,
-                    256,
-                    12436,
-                    22227,
-                    20136,
-                    35522,
-                    19679,
-                    17283,
-                    24159,
-                    51565
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.1669670427349252,
-                "compression_ratio": 1.3043478260869565,
-                "no_speech_prob": 0.001454805606044829
-            },
-            {
-                "id": 38,
-                "seek": 20300,
-                "start": 227.0,
-                "end": 230.0,
-                "text": " Em hãy bước tiếp con đường hạnh phúc đi",
-                "tokens": [
-                    51565,
-                    3968,
-                    276,
-                    49205,
-                    272,
-                    19578,
-                    48667,
-                    416,
-                    2934,
-                    24280,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    13264,
-                    51715
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.1669670427349252,
-                "compression_ratio": 1.3043478260869565,
-                "no_speech_prob": 0.001454805606044829
-            },
-            {
-                "id": 39,
-                "seek": 23300,
-                "start": 233.0,
-                "end": 237.0,
-                "text": " Đừng nhìn lại",
-                "tokens": [
-                    50365,
-                    13055,
-                    39121,
-                    6245,
-                    41320,
-                    23017,
-                    50565
-                ],
-                "temperature": 0.5,
-                "avg_logprob": -0.2730398178100586,
-                "compression_ratio": 0.6785714285714286,
-                "no_speech_prob": 0.008907146751880646
-            }
-        ],
-        "language": "vi",
-        "tags_with_probs": [
-            {
-                "tag": "Music",
-                "prob": 0.7364804148674011
-            },
-            {
-                "tag": "Electric piano",
-                "prob": 0.42822161316871643
-            },
-            {
-                "tag": "Piano",
-                "prob": 0.25008684396743774
-            },
-            {
-                "tag": "Keyboard (musical)",
-                "prob": 0.20323485136032104
-            },
-            {
-                "tag": "Singing",
-                "prob": 0.12312767654657364
-            },
-            {
-                "tag": "Musical instrument",
-                "prob": 0.10204797238111496
-            },
-            {
-                "tag": "Gospel music",
-                "prob": 0.062313444912433624
-            },
-            {
-                "tag": "Christian music",
-                "prob": 0.05741695687174797
-            },
-            {
-                "tag": "Tender music",
-                "prob": 0.05665172263979912
-            },
-            {
-                "tag": "Soul music",
-                "prob": 0.05488204210996628
-            }
-        ]
-    },
-    {
-        "text": " TÙN THÙN LÙN LÙN TÙN THÙN TÙN THÙN TÙN THÙN TÙN THÙN TÙN THÙN TÙN THÙN TÙN THÙN TÙN THÙN TÙN THÙN TÙN THÙN TÙN THÙN TÙN THÙN TÙN THÙN TÙN THÙN TÙN THÙN TÙN THÙN TÙN THÙN TÙN THÙN TÙN THÙN TÙN THÙN Trời đêm nay không ngọt vì sao Gió vẫn nhẹ nhàng Thôi sao lòng ta luôn nặng chiều Bàn tay ngày ấy đã níu dư lấy sao lại buồn Có phải tình cảm đã nhát dần Hãy nói đi đừng ngại ngờ Tại sao hai người nhắn tâm lấy nước mắt của tôi Tại sao hai người ước đi những tháng ngày hạnh phúc Giờ trong tôi là bóng đêm đang phai quay những nỗi đau Lòng tôi thấy ân hận đôi mi rưng rưng lúc không giờ hạnh phúc Đến bên tôi vui đùa rồi xem tôi chỉ là một kẻ sư thường Trái tim tôi đã lòng khi hiểu rằng em rất yêu Những người đau khổ, điều thức cùng nước mắt Ngọn sông trong thâm tâm này không thể ta Nói yêu thương cho nhiều giờ đây anh hiểu ra bao nhiêu điều Xoác tên anh dễ dàng để đến cùng với ai Những người hạnh phúc đều thật yên sắc Còn mỗi riêng anh ơi này không chớp mai Tại sao hai người nhấn tâm lấy ngược mắt của tôi Tại sao hai người ướp đi những tháng ngày hạnh phúc Giờ trong tôi là bóng đêm đang phai quay những nỗi đau Lòng tôi thấy anh hận đôi mi rưng rưng lúc không giờ hạnh phúc Đêm đến tôi vui đùa rồi xem tôi chỉ là một kẻ sư thừa Trái tim tôi đã lầm khi yêu rằng em rất yêu Những người đau khổ, điều thức cùng nước mắt Ngọn sông trong thông tâm này không thể tắt Nói yêu thương cho nhiều giờ đây anh hiểu ra bao nhiêu điều Xuống đêm nay dễ dàng để đêm đông vời ai Những người hạnh phúc đều thật yên giấc Còn mỗi riêng anh nơi này không chợp mắt Lại một đêm nữa khi mà cả thế giới đã tắt ngọn đèn Còn riêng anh ngồi đây thấp sang Giờ đây đã kết thúc hết tất cả những chuyện đã qua Em hãy bước tiếp con đường hạnh phúc đi Đừng nhìn lại Hãy subscribe cho kênh La La School Để không bỏ lỡ những video hấp dẫn",
-        "segments": [
-            {
-                "id": 0,
-                "seek": 0,
-                "start": 0.0,
-                "end": 1.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    50365,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    50415
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 1,
-                "seek": 0,
-                "start": 1.0,
-                "end": 2.0,
-                "text": " LÙN LÙN",
-                "tokens": [
-                    50415,
-                    441,
-                    127,
-                    247,
-                    45,
-                    441,
-                    127,
-                    247,
-                    45,
-                    50465
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 2,
-                "seek": 0,
-                "start": 2.0,
-                "end": 3.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    50465,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    50515
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 3,
-                "seek": 0,
-                "start": 3.0,
-                "end": 4.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    50515,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    50565
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 4,
-                "seek": 0,
-                "start": 4.0,
-                "end": 5.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    50565,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    50615
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 5,
-                "seek": 0,
-                "start": 5.0,
-                "end": 6.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    50615,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    50665
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 6,
-                "seek": 0,
-                "start": 6.0,
-                "end": 7.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    50665,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    50715
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 7,
-                "seek": 0,
-                "start": 7.0,
-                "end": 8.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    50715,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    50765
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 8,
-                "seek": 0,
-                "start": 8.0,
-                "end": 9.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    50765,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    50815
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 9,
-                "seek": 0,
-                "start": 9.0,
-                "end": 10.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    50815,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    50865
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 10,
-                "seek": 0,
-                "start": 10.0,
-                "end": 11.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    50865,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    50915
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 11,
-                "seek": 0,
-                "start": 11.0,
-                "end": 12.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    50915,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    50965
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 12,
-                "seek": 0,
-                "start": 12.0,
-                "end": 13.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    50965,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    51015
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 13,
-                "seek": 0,
-                "start": 13.0,
-                "end": 14.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    51015,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    51065
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 14,
-                "seek": 0,
-                "start": 14.0,
-                "end": 15.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    51065,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    51115
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 15,
-                "seek": 0,
-                "start": 15.0,
-                "end": 16.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    51115,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    51165
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 16,
-                "seek": 0,
-                "start": 16.0,
-                "end": 17.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    51165,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    51215
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 17,
-                "seek": 0,
-                "start": 17.0,
-                "end": 18.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    51215,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    51265
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 18,
-                "seek": 0,
-                "start": 18.0,
-                "end": 19.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    51265,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    51315
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 19,
-                "seek": 0,
-                "start": 19.0,
-                "end": 20.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    51315,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    51365
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 20,
-                "seek": 0,
-                "start": 20.0,
-                "end": 21.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    51365,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    51415
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 21,
-                "seek": 0,
-                "start": 21.0,
-                "end": 22.0,
-                "text": " TÙN THÙN",
-                "tokens": [
-                    51415,
-                    314,
-                    127,
-                    247,
-                    45,
-                    3578,
-                    127,
-                    247,
-                    45,
-                    51465
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1861770968967014,
-                "compression_ratio": 9.76,
-                "no_speech_prob": 0.03912326321005821
-            },
-            {
-                "id": 22,
-                "seek": 2200,
-                "start": 22.0,
-                "end": 27.84,
-                "text": " Trời đêm nay không ngọt vì sao",
-                "tokens": [
-                    50365,
-                    1765,
-                    21024,
-                    2934,
-                    13213,
-                    34227,
-                    11415,
-                    6415,
-                    12935,
-                    83,
-                    37902,
-                    33108,
-                    50657
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.3016745637102825,
-                "compression_ratio": 1.231578947368421,
-                "no_speech_prob": 0.07252170890569687
-            },
-            {
-                "id": 23,
-                "seek": 2200,
-                "start": 27.84,
-                "end": 30.560000000000002,
-                "text": " Gió vẫn nhẹ nhàng",
-                "tokens": [
-                    50657,
-                    460,
-                    7138,
-                    49004,
-                    6245,
-                    26965,
-                    6245,
-                    26653,
-                    50793
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.3016745637102825,
-                "compression_ratio": 1.231578947368421,
-                "no_speech_prob": 0.07252170890569687
-            },
-            {
-                "id": 24,
-                "seek": 2200,
-                "start": 31.42,
-                "end": 35.019999999999996,
-                "text": " Thôi sao lòng ta luôn nặng chiều",
-                "tokens": [
-                    50836,
-                    334,
-                    12213,
-                    33108,
-                    287,
-                    36782,
-                    1846,
-                    35690,
-                    297,
-                    19118,
-                    872,
-                    13228,
-                    17310,
-                    51016
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.3016745637102825,
-                "compression_ratio": 1.231578947368421,
-                "no_speech_prob": 0.07252170890569687
-            },
-            {
-                "id": 25,
-                "seek": 2200,
-                "start": 35.019999999999996,
-                "end": 42.900000000000006,
-                "text": " Bàn tay ngày ấy đã níu dư lấy sao lại buồn",
-                "tokens": [
-                    51016,
-                    363,
-                    22476,
-                    39224,
-                    34481,
-                    43966,
-                    17283,
-                    297,
-                    870,
-                    84,
-                    274,
-                    4228,
-                    287,
-                    13417,
-                    33108,
-                    23017,
-                    758,
-                    11057,
-                    77,
-                    51410
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.3016745637102825,
-                "compression_ratio": 1.231578947368421,
-                "no_speech_prob": 0.07252170890569687
-            },
-            {
-                "id": 26,
-                "seek": 2200,
-                "start": 42.900000000000006,
-                "end": 45.66,
-                "text": " Có phải tình cảm đã nhát dần",
-                "tokens": [
-                    51410,
-                    41306,
-                    23394,
-                    256,
-                    10116,
-                    47593,
-                    17283,
-                    6245,
-                    7656,
-                    274,
-                    18241,
-                    51548
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.3016745637102825,
-                "compression_ratio": 1.231578947368421,
-                "no_speech_prob": 0.07252170890569687
-            },
-            {
-                "id": 27,
-                "seek": 2200,
-                "start": 45.66,
-                "end": 51.28,
-                "text": " Hãy nói đi đừng ngại ngờ",
-                "tokens": [
-                    51548,
-                    389,
-                    49205,
-                    27508,
-                    13264,
-                    2934,
-                    39121,
-                    6415,
-                    12745,
-                    6415,
-                    21270,
-                    51829
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.3016745637102825,
-                "compression_ratio": 1.231578947368421,
-                "no_speech_prob": 0.07252170890569687
-            },
-            {
-                "id": 28,
-                "seek": 5128,
-                "start": 51.28,
-                "end": 57.84,
-                "text": " Tại sao hai người nhắn tâm lấy nước mắt của tôi",
-                "tokens": [
-                    50365,
-                    314,
-                    12745,
-                    33108,
-                    21822,
-                    15898,
-                    6245,
-                    42348,
-                    256,
-                    24484,
-                    287,
-                    13417,
-                    30728,
-                    275,
-                    31454,
-                    11990,
-                    22336,
-                    50693
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1982606102438534,
-                "compression_ratio": 1.4712041884816753,
-                "no_speech_prob": 0.21963228285312653
-            },
-            {
-                "id": 29,
-                "seek": 5128,
-                "start": 57.84,
-                "end": 62.42,
-                "text": " Tại sao hai người ước đi những tháng ngày hạnh phúc",
-                "tokens": [
-                    50693,
-                    314,
-                    12745,
-                    33108,
-                    21822,
-                    15898,
-                    220,
-                    19578,
-                    13264,
-                    20136,
-                    258,
-                    30344,
-                    34481,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    50922
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1982606102438534,
-                "compression_ratio": 1.4712041884816753,
-                "no_speech_prob": 0.21963228285312653
-            },
-            {
-                "id": 30,
-                "seek": 5128,
-                "start": 62.42,
-                "end": 68.22,
-                "text": " Giờ trong tôi là bóng đêm đang phai quay những nỗi đau",
-                "tokens": [
-                    50922,
-                    15334,
-                    21270,
-                    18826,
-                    22336,
-                    3684,
-                    272,
-                    812,
-                    872,
-                    2934,
-                    13213,
-                    30723,
-                    903,
-                    1301,
-                    421,
-                    320,
-                    20136,
-                    297,
-                    49572,
-                    2934,
-                    1459,
-                    51212
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1982606102438534,
-                "compression_ratio": 1.4712041884816753,
-                "no_speech_prob": 0.21963228285312653
-            },
-            {
-                "id": 31,
-                "seek": 5128,
-                "start": 68.22,
-                "end": 74.08,
-                "text": " Lòng tôi thấy ân hận đôi mi rưng rưng lúc không giờ hạnh phúc",
-                "tokens": [
-                    51212,
-                    441,
-                    36782,
-                    22336,
-                    27793,
-                    20621,
-                    77,
-                    276,
-                    27410,
-                    2934,
-                    12213,
-                    2752,
-                    367,
-                    42509,
-                    367,
-                    42509,
-                    287,
-                    31585,
-                    11415,
-                    28689,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    51505
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.1982606102438534,
-                "compression_ratio": 1.4712041884816753,
-                "no_speech_prob": 0.21963228285312653
-            },
-            {
-                "id": 32,
-                "seek": 7408,
-                "start": 74.08,
-                "end": 82.58,
-                "text": " Đến bên tôi vui đùa rồi xem tôi chỉ là một kẻ sư thường",
-                "tokens": [
-                    50365,
-                    13055,
-                    16240,
-                    43730,
-                    22336,
-                    371,
-                    3077,
-                    2934,
-                    5035,
-                    64,
-                    19908,
-                    47852,
-                    22336,
-                    33566,
-                    3684,
-                    15486,
-                    350,
-                    40956,
-                    262,
-                    4228,
-                    258,
-                    24280,
-                    50790
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.2344698752126386,
-                "compression_ratio": 1.3485477178423237,
-                "no_speech_prob": 0.2118411809206009
-            },
-            {
-                "id": 33,
-                "seek": 7408,
-                "start": 82.58,
-                "end": 86.98,
-                "text": " Trái tim tôi đã lòng khi hiểu rằng em rất yêu",
-                "tokens": [
-                    50790,
-                    1765,
-                    28249,
-                    524,
-                    22336,
-                    17283,
-                    287,
-                    36782,
-                    23526,
-                    4879,
-                    40328,
-                    45019,
-                    846,
-                    25147,
-                    49107,
-                    51010
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.2344698752126386,
-                "compression_ratio": 1.3485477178423237,
-                "no_speech_prob": 0.2118411809206009
-            },
-            {
-                "id": 34,
-                "seek": 7408,
-                "start": 86.98,
-                "end": 92.48,
-                "text": " Những người đau khổ, điều thức cùng nước mắt",
-                "tokens": [
-                    51010,
-                    26390,
-                    18859,
-                    15898,
-                    2934,
-                    1459,
-                    7168,
-                    20950,
-                    11,
-                    42082,
-                    258,
-                    27138,
-                    45701,
-                    30728,
-                    275,
-                    31454,
-                    51285
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.2344698752126386,
-                "compression_ratio": 1.3485477178423237,
-                "no_speech_prob": 0.2118411809206009
-            },
-            {
-                "id": 35,
-                "seek": 7408,
-                "start": 92.48,
-                "end": 96.38,
-                "text": " Ngọn sông trong thâm tâm này không thể ta",
-                "tokens": [
-                    51285,
-                    21198,
-                    47246,
-                    262,
-                    8217,
-                    18826,
-                    258,
-                    24484,
-                    256,
-                    24484,
-                    12542,
-                    11415,
-                    24491,
-                    1846,
-                    51480
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.2344698752126386,
-                "compression_ratio": 1.3485477178423237,
-                "no_speech_prob": 0.2118411809206009
-            },
-            {
-                "id": 36,
-                "seek": 7408,
-                "start": 98.18,
-                "end": 103.1,
-                "text": " Nói yêu thương cho nhiều giờ đây anh hiểu ra bao nhiêu điều",
-                "tokens": [
-                    51570,
-                    426,
-                    812,
-                    72,
-                    49107,
-                    258,
-                    24605,
-                    1586,
-                    28272,
-                    28689,
-                    20199,
-                    18931,
-                    4879,
-                    40328,
-                    3342,
-                    45296,
-                    20575,
-                    28310,
-                    42082,
-                    51816
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.2344698752126386,
-                "compression_ratio": 1.3485477178423237,
-                "no_speech_prob": 0.2118411809206009
-            },
-            {
-                "id": 37,
-                "seek": 10310,
-                "start": 103.1,
-                "end": 107.91999999999999,
-                "text": " Xoác tên anh dễ dàng để đến cùng với ai",
-                "tokens": [
-                    50365,
-                    1783,
-                    78,
-                    21563,
-                    256,
-                    5050,
-                    18931,
-                    274,
-                    36664,
-                    274,
-                    26653,
-                    20081,
-                    26353,
-                    45701,
-                    18916,
-                    9783,
-                    50606
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.34957207166231596,
-                "compression_ratio": 1.0753424657534247,
-                "no_speech_prob": 0.013424267992377281
-            },
-            {
-                "id": 38,
-                "seek": 10310,
-                "start": 107.91999999999999,
-                "end": 113.08,
-                "text": " Những người hạnh phúc đều thật yên sắc",
-                "tokens": [
-                    50606,
-                    26390,
-                    18859,
-                    15898,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    2934,
-                    17310,
-                    258,
-                    25296,
-                    288,
-                    5050,
-                    262,
-                    30838,
-                    50864
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.34957207166231596,
-                "compression_ratio": 1.0753424657534247,
-                "no_speech_prob": 0.013424267992377281
-            },
-            {
-                "id": 39,
-                "seek": 10310,
-                "start": 113.08,
-                "end": 117.83999999999999,
-                "text": " Còn mỗi riêng anh ơi này không chớp mai",
-                "tokens": [
-                    50864,
-                    383,
-                    23329,
-                    275,
-                    49572,
-                    19739,
-                    1307,
-                    872,
-                    18931,
-                    43144,
-                    12542,
-                    11415,
-                    23579,
-                    249,
-                    79,
-                    12698,
-                    51102
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.34957207166231596,
-                "compression_ratio": 1.0753424657534247,
-                "no_speech_prob": 0.013424267992377281
-            },
-            {
-                "id": 40,
-                "seek": 13310,
-                "start": 133.1,
-                "end": 145.57999999999998,
-                "text": " Tại sao hai người nhấn tâm lấy ngược mắt của tôi",
-                "tokens": [
-                    50365,
-                    314,
-                    12745,
-                    33108,
-                    21822,
-                    15898,
-                    6245,
-                    43975,
-                    256,
-                    24484,
-                    287,
-                    13417,
-                    6415,
-                    14737,
-                    275,
-                    31454,
-                    11990,
-                    22336,
-                    50989
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.2396443389182867,
-                "compression_ratio": 1.461139896373057,
-                "no_speech_prob": 0.18416959047317505
-            },
-            {
-                "id": 41,
-                "seek": 13310,
-                "start": 145.57999999999998,
-                "end": 150.2,
-                "text": " Tại sao hai người ướp đi những tháng ngày hạnh phúc",
-                "tokens": [
-                    50989,
-                    314,
-                    12745,
-                    33108,
-                    21822,
-                    15898,
-                    220,
-                    17059,
-                    79,
-                    13264,
-                    20136,
-                    258,
-                    30344,
-                    34481,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    51220
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.2396443389182867,
-                "compression_ratio": 1.461139896373057,
-                "no_speech_prob": 0.18416959047317505
-            },
-            {
-                "id": 42,
-                "seek": 13310,
-                "start": 150.2,
-                "end": 156.0,
-                "text": " Giờ trong tôi là bóng đêm đang phai quay những nỗi đau",
-                "tokens": [
-                    51220,
-                    15334,
-                    21270,
-                    18826,
-                    22336,
-                    3684,
-                    272,
-                    812,
-                    872,
-                    2934,
-                    13213,
-                    30723,
-                    903,
-                    1301,
-                    421,
-                    320,
-                    20136,
-                    297,
-                    49572,
-                    2934,
-                    1459,
-                    51510
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.2396443389182867,
-                "compression_ratio": 1.461139896373057,
-                "no_speech_prob": 0.18416959047317505
-            },
-            {
-                "id": 43,
-                "seek": 13310,
-                "start": 156.2,
-                "end": 162.62,
-                "text": " Lòng tôi thấy anh hận đôi mi rưng rưng lúc không giờ hạnh phúc",
-                "tokens": [
-                    51520,
-                    441,
-                    36782,
-                    22336,
-                    27793,
-                    18931,
-                    276,
-                    27410,
-                    2934,
-                    12213,
-                    2752,
-                    367,
-                    42509,
-                    367,
-                    42509,
-                    287,
-                    31585,
-                    11415,
-                    28689,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    51841
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.2396443389182867,
-                "compression_ratio": 1.461139896373057,
-                "no_speech_prob": 0.18416959047317505
-            },
-            {
-                "id": 44,
-                "seek": 16262,
-                "start": 162.62,
-                "end": 170.32,
-                "text": " Đêm đến tôi vui đùa rồi xem tôi chỉ là một kẻ sư thừa",
-                "tokens": [
-                    50365,
-                    13055,
-                    13213,
-                    26353,
-                    22336,
-                    371,
-                    3077,
-                    2934,
-                    5035,
-                    64,
-                    19908,
-                    47852,
-                    22336,
-                    33566,
-                    3684,
-                    15486,
-                    350,
-                    40956,
-                    262,
-                    4228,
-                    258,
-                    47279,
-                    50750
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.2929714081135202,
-                "compression_ratio": 1.3598326359832635,
-                "no_speech_prob": 0.18454521894454956
-            },
-            {
-                "id": 45,
-                "seek": 16262,
-                "start": 170.32,
-                "end": 174.76,
-                "text": " Trái tim tôi đã lầm khi yêu rằng em rất yêu",
-                "tokens": [
-                    50750,
-                    1765,
-                    28249,
-                    524,
-                    22336,
-                    17283,
-                    287,
-                    11161,
-                    76,
-                    23526,
-                    49107,
-                    45019,
-                    846,
-                    25147,
-                    49107,
-                    50972
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.2929714081135202,
-                "compression_ratio": 1.3598326359832635,
-                "no_speech_prob": 0.18454521894454956
-            },
-            {
-                "id": 46,
-                "seek": 16262,
-                "start": 174.76,
-                "end": 180.22,
-                "text": " Những người đau khổ, điều thức cùng nước mắt",
-                "tokens": [
-                    50972,
-                    26390,
-                    18859,
-                    15898,
-                    2934,
-                    1459,
-                    7168,
-                    20950,
-                    11,
-                    42082,
-                    258,
-                    27138,
-                    45701,
-                    30728,
-                    275,
-                    31454,
-                    51245
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.2929714081135202,
-                "compression_ratio": 1.3598326359832635,
-                "no_speech_prob": 0.18454521894454956
-            },
-            {
-                "id": 47,
-                "seek": 16262,
-                "start": 180.22,
-                "end": 184.58,
-                "text": " Ngọn sông trong thông tâm này không thể tắt",
-                "tokens": [
-                    51245,
-                    21198,
-                    47246,
-                    262,
-                    8217,
-                    18826,
-                    258,
-                    8217,
-                    256,
-                    24484,
-                    12542,
-                    11415,
-                    24491,
-                    256,
-                    31454,
-                    51463
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.2929714081135202,
-                "compression_ratio": 1.3598326359832635,
-                "no_speech_prob": 0.18454521894454956
-            },
-            {
-                "id": 48,
-                "seek": 16262,
-                "start": 185.92000000000002,
-                "end": 190.9,
-                "text": " Nói yêu thương cho nhiều giờ đây anh hiểu ra bao nhiêu điều",
-                "tokens": [
-                    51530,
-                    426,
-                    812,
-                    72,
-                    49107,
-                    258,
-                    24605,
-                    1586,
-                    28272,
-                    28689,
-                    20199,
-                    18931,
-                    4879,
-                    40328,
-                    3342,
-                    45296,
-                    20575,
-                    28310,
-                    42082,
-                    51779
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.2929714081135202,
-                "compression_ratio": 1.3598326359832635,
-                "no_speech_prob": 0.18454521894454956
-            },
-            {
-                "id": 49,
-                "seek": 19090,
-                "start": 190.9,
-                "end": 195.56,
-                "text": " Xuống đêm nay dễ dàng để đêm đông vời ai",
-                "tokens": [
-                    50365,
-                    23082,
-                    21092,
-                    2934,
-                    13213,
-                    34227,
-                    274,
-                    36664,
-                    274,
-                    26653,
-                    20081,
-                    2934,
-                    13213,
-                    2934,
-                    8217,
-                    371,
-                    21024,
-                    9783,
-                    50598
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.4124099068019701,
-                "compression_ratio": 1.381188118811881,
-                "no_speech_prob": 0.02261093445122242
-            },
-            {
-                "id": 50,
-                "seek": 19090,
-                "start": 195.56,
-                "end": 200.82,
-                "text": " Những người hạnh phúc đều thật yên giấc",
-                "tokens": [
-                    50598,
-                    26390,
-                    18859,
-                    15898,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    2934,
-                    17310,
-                    258,
-                    25296,
-                    288,
-                    5050,
-                    1735,
-                    6785,
-                    66,
-                    50861
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.4124099068019701,
-                "compression_ratio": 1.381188118811881,
-                "no_speech_prob": 0.02261093445122242
-            },
-            {
-                "id": 51,
-                "seek": 19090,
-                "start": 200.82,
-                "end": 205.54000000000002,
-                "text": " Còn mỗi riêng anh nơi này không chợp mắt",
-                "tokens": [
-                    50861,
-                    383,
-                    23329,
-                    275,
-                    49572,
-                    19739,
-                    1307,
-                    872,
-                    18931,
-                    297,
-                    21537,
-                    12542,
-                    11415,
-                    23579,
-                    96,
-                    79,
-                    275,
-                    31454,
-                    51097
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.4124099068019701,
-                "compression_ratio": 1.381188118811881,
-                "no_speech_prob": 0.02261093445122242
-            },
-            {
-                "id": 52,
-                "seek": 19090,
-                "start": 205.54000000000002,
-                "end": 213.78,
-                "text": " Lại một đêm nữa khi mà cả thế giới đã tắt ngọn đèn",
-                "tokens": [
-                    51097,
-                    441,
-                    12745,
-                    15486,
-                    2934,
-                    13213,
-                    35047,
-                    23526,
-                    13901,
-                    22227,
-                    27100,
-                    1735,
-                    12242,
-                    17283,
-                    256,
-                    31454,
-                    6415,
-                    47246,
-                    2934,
-                    20917,
-                    51509
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.4124099068019701,
-                "compression_ratio": 1.381188118811881,
-                "no_speech_prob": 0.02261093445122242
-            },
-            {
-                "id": 53,
-                "seek": 19090,
-                "start": 213.78,
-                "end": 218.42000000000002,
-                "text": " Còn riêng anh ngồi đây thấp sang",
-                "tokens": [
-                    51509,
-                    383,
-                    23329,
-                    19739,
-                    1307,
-                    872,
-                    18931,
-                    6415,
-                    15695,
-                    20199,
-                    258,
-                    47176,
-                    9980,
-                    51741
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.4124099068019701,
-                "compression_ratio": 1.381188118811881,
-                "no_speech_prob": 0.02261093445122242
-            },
-            {
-                "id": 54,
-                "seek": 22090,
-                "start": 220.9,
-                "end": 226.38,
-                "text": " Giờ đây đã kết thúc hết tất cả những chuyện đã qua",
-                "tokens": [
-                    50365,
-                    15334,
-                    21270,
-                    20199,
-                    17283,
-                    350,
-                    13888,
-                    258,
-                    31585,
-                    44414,
-                    256,
-                    12436,
-                    22227,
-                    20136,
-                    35522,
-                    19679,
-                    17283,
-                    24159,
-                    50639
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.21383323225864145,
-                "compression_ratio": 1.1068702290076335,
-                "no_speech_prob": 0.004196715075522661
-            },
-            {
-                "id": 55,
-                "seek": 22090,
-                "start": 226.38,
-                "end": 232.1,
-                "text": " Em hãy bước tiếp con đường hạnh phúc đi",
-                "tokens": [
-                    50639,
-                    3968,
-                    276,
-                    49205,
-                    272,
-                    19578,
-                    48667,
-                    416,
-                    2934,
-                    24280,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    13264,
-                    50925
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.21383323225864145,
-                "compression_ratio": 1.1068702290076335,
-                "no_speech_prob": 0.004196715075522661
-            },
-            {
-                "id": 56,
-                "seek": 22090,
-                "start": 232.1,
-                "end": 236.48000000000002,
-                "text": " Đừng nhìn lại",
-                "tokens": [
-                    50925,
-                    13055,
-                    39121,
-                    6245,
-                    41320,
-                    23017,
-                    51144
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.21383323225864145,
-                "compression_ratio": 1.1068702290076335,
-                "no_speech_prob": 0.004196715075522661
-            },
-            {
-                "id": 57,
-                "seek": 25090,
-                "start": 250.9,
-                "end": 280.88,
-                "text": " Hãy subscribe cho kênh La La School Để không bỏ lỡ những video hấp dẫn",
-                "tokens": [
-                    50365,
-                    389,
-                    49205,
-                    3022,
-                    1586,
-                    350,
-                    5050,
-                    71,
-                    2369,
-                    2369,
-                    5070,
-                    13055,
-                    9571,
-                    11415,
-                    272,
-                    21920,
-                    287,
-                    1297,
-                    94,
-                    20136,
-                    960,
-                    276,
-                    47176,
-                    274,
-                    35400,
-                    51864
-                ],
-                "temperature": 0.6,
-                "avg_logprob": -0.058081335491604276,
-                "compression_ratio": 0.9347826086956522,
-                "no_speech_prob": 0.7678410410881042
-            }
-        ],
-        "language": "vi",
-        "tags_with_probs": [
-            {
-                "tag": "Music",
-                "prob": 0.7364804148674011
-            },
-            {
-                "tag": "Electric piano",
-                "prob": 0.42822161316871643
-            },
-            {
-                "tag": "Piano",
-                "prob": 0.25008684396743774
-            },
-            {
-                "tag": "Keyboard (musical)",
-                "prob": 0.20323485136032104
-            },
-            {
-                "tag": "Singing",
-                "prob": 0.12312767654657364
-            },
-            {
-                "tag": "Musical instrument",
-                "prob": 0.10204797238111496
-            },
-            {
-                "tag": "Gospel music",
-                "prob": 0.062313444912433624
-            },
-            {
-                "tag": "Christian music",
-                "prob": 0.05741695687174797
-            },
-            {
-                "tag": "Tender music",
-                "prob": 0.05665172263979912
-            },
-            {
-                "tag": "Soul music",
-                "prob": 0.05488204210996628
-            }
-        ]
-    },
-    {
-        "text": " Trời đêm nay không ngọt vì sao Gió vẫn nhẹ nhẹ, thôi sao lòng ta luôn nặng chiều Bàn tay ngày ấy đã níu giữ lấy sao lại buồn Có phải tình cảm đã nhạt dần, hãy nói đi đừng ngại ngờ Tại sao hai người nhấn tâm lấy nước mắt của tôi Tại sao hai người ước đi những tháng ngày hạnh phúc Giờ trong tôi là bóng đêm đang vây quay những nỗi đau Lòng tôi thấy ăn hận đôi mi rưng rưng lúc không giờ hạnh phúc Đến bên tôi vui đùa rồi xem tôi chỉ là một kẻ sứ thường Trái tim tôi đã lầm khi hiểu rằng em rất yêu Những người đau khổ đều thức cùng nước mắt Ngon sống trong thương tâm này không thể tắt Nói yêu thương cho nhiều giờ đây anh hiểu ra bao nhiêu điều Xoác tên anh dễ dàng để đến cùng với ai Những người hạnh phúc đều thật yên sắc Còn mỗi riêng anh nơi này không chấp mãi Tại sao hai người nhấn tâm lấy ngược mắt của tôi Tại sao hai người ướp đi những tháng ngày hạnh phúc Giờ trong tôi là bóng đêm đang phai quay những nỗi đau Lòng tôi thấy an hận đôi mi rưng rưng lúc không giờ hạnh phúc Đêm đêm tôi vui lửa rồi xem tôi chỉ là một cái dư thừa Trái tim tôi đã lầm đi hiểu rằng em rất yêu Những người đau khổ đều thức cùng nước mắt Ngọn sông trong thâm tâm này không thể tan Nói yêu thương cho nhiều giờ đây anh hiểu ra bao nhiêu điều Xuất đến anh dễ dàng để đếm cùng với ai Những người hạnh phúc đều thật yên sáng Còn mỗi riêng anh nơi này không chấp mắt Lại một đêm nữa khi mà cả thế giới Đã tắt ngọn đèn Còn riêng anh ngồi đây thấp xa Giờ đây đã kết thúc hết tất cả những chuyện đã qua Em hãy bước tiếp con đường hạnh phúc đi Đừng nhìn lại Cảm ơn các bạn đã theo dõi và hẹn gặp lại",
-        "segments": [
-            {
-                "id": 0,
-                "seek": 0,
-                "start": 0.0,
-                "end": 28.0,
-                "text": " Trời đêm nay không ngọt vì sao",
-                "tokens": [
-                    50365,
-                    1765,
-                    21024,
-                    2934,
-                    13213,
-                    34227,
-                    11415,
-                    6415,
-                    12935,
-                    83,
-                    37902,
-                    33108,
-                    51765
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.4237847328186035,
-                "compression_ratio": 0.8085106382978723,
-                "no_speech_prob": 0.04061130806803703
-            },
-            {
-                "id": 1,
-                "seek": 2800,
-                "start": 28.0,
-                "end": 35.24,
-                "text": " Gió vẫn nhẹ nhẹ, thôi sao lòng ta luôn nặng chiều",
-                "tokens": [
-                    50365,
-                    460,
-                    7138,
-                    49004,
-                    6245,
-                    26965,
-                    6245,
-                    26965,
-                    11,
-                    34772,
-                    33108,
-                    287,
-                    36782,
-                    1846,
-                    35690,
-                    297,
-                    19118,
-                    872,
-                    13228,
-                    17310,
-                    50727
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.22557987485613143,
-                "compression_ratio": 1.311881188118812,
-                "no_speech_prob": 0.08382881432771683
-            },
-            {
-                "id": 2,
-                "seek": 2800,
-                "start": 35.24,
-                "end": 42.86,
-                "text": " Bàn tay ngày ấy đã níu giữ lấy sao lại buồn",
-                "tokens": [
-                    50727,
-                    363,
-                    22476,
-                    39224,
-                    34481,
-                    43966,
-                    17283,
-                    297,
-                    870,
-                    84,
-                    1735,
-                    12225,
-                    287,
-                    13417,
-                    33108,
-                    23017,
-                    758,
-                    11057,
-                    77,
-                    51108
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.22557987485613143,
-                "compression_ratio": 1.311881188118812,
-                "no_speech_prob": 0.08382881432771683
-            },
-            {
-                "id": 3,
-                "seek": 2800,
-                "start": 42.86,
-                "end": 51.019999999999996,
-                "text": " Có phải tình cảm đã nhạt dần, hãy nói đi đừng ngại ngờ",
-                "tokens": [
-                    51108,
-                    41306,
-                    23394,
-                    256,
-                    10116,
-                    47593,
-                    17283,
-                    6245,
-                    44664,
-                    274,
-                    18241,
-                    11,
-                    276,
-                    49205,
-                    27508,
-                    13264,
-                    2934,
-                    39121,
-                    6415,
-                    12745,
-                    6415,
-                    21270,
-                    51516
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.22557987485613143,
-                "compression_ratio": 1.311881188118812,
-                "no_speech_prob": 0.08382881432771683
-            },
-            {
-                "id": 4,
-                "seek": 2800,
-                "start": 52.760000000000005,
-                "end": 57.86,
-                "text": " Tại sao hai người nhấn tâm lấy nước mắt của tôi",
-                "tokens": [
-                    51603,
-                    314,
-                    12745,
-                    33108,
-                    21822,
-                    15898,
-                    6245,
-                    43975,
-                    256,
-                    24484,
-                    287,
-                    13417,
-                    30728,
-                    275,
-                    31454,
-                    11990,
-                    22336,
-                    51858
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.22557987485613143,
-                "compression_ratio": 1.311881188118812,
-                "no_speech_prob": 0.08382881432771683
-            },
-            {
-                "id": 5,
-                "seek": 5786,
-                "start": 57.86,
-                "end": 62.38,
-                "text": " Tại sao hai người ước đi những tháng ngày hạnh phúc",
-                "tokens": [
-                    50365,
-                    314,
-                    12745,
-                    33108,
-                    21822,
-                    15898,
-                    220,
-                    19578,
-                    13264,
-                    20136,
-                    258,
-                    30344,
-                    34481,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    50591
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.24132874326885873,
-                "compression_ratio": 1.404,
-                "no_speech_prob": 0.10215248912572861
-            },
-            {
-                "id": 6,
-                "seek": 5786,
-                "start": 62.38,
-                "end": 68.22,
-                "text": " Giờ trong tôi là bóng đêm đang vây quay những nỗi đau",
-                "tokens": [
-                    50591,
-                    15334,
-                    21270,
-                    18826,
-                    22336,
-                    3684,
-                    272,
-                    812,
-                    872,
-                    2934,
-                    13213,
-                    30723,
-                    371,
-                    12108,
-                    421,
-                    320,
-                    20136,
-                    297,
-                    49572,
-                    2934,
-                    1459,
-                    50883
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.24132874326885873,
-                "compression_ratio": 1.404,
-                "no_speech_prob": 0.10215248912572861
-            },
-            {
-                "id": 7,
-                "seek": 5786,
-                "start": 68.22,
-                "end": 74.12,
-                "text": " Lòng tôi thấy ăn hận đôi mi rưng rưng lúc không giờ hạnh phúc",
-                "tokens": [
-                    50883,
-                    441,
-                    36782,
-                    22336,
-                    27793,
-                    28657,
-                    276,
-                    27410,
-                    2934,
-                    12213,
-                    2752,
-                    367,
-                    42509,
-                    367,
-                    42509,
-                    287,
-                    31585,
-                    11415,
-                    28689,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    51178
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.24132874326885873,
-                "compression_ratio": 1.404,
-                "no_speech_prob": 0.10215248912572861
-            },
-            {
-                "id": 8,
-                "seek": 5786,
-                "start": 77.42,
-                "end": 82.58,
-                "text": " Đến bên tôi vui đùa rồi xem tôi chỉ là một kẻ sứ thường",
-                "tokens": [
-                    51343,
-                    13055,
-                    16240,
-                    43730,
-                    22336,
-                    371,
-                    3077,
-                    2934,
-                    5035,
-                    64,
-                    19908,
-                    47852,
-                    22336,
-                    33566,
-                    3684,
-                    15486,
-                    350,
-                    40956,
-                    262,
-                    13905,
-                    258,
-                    24280,
-                    51601
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.24132874326885873,
-                "compression_ratio": 1.404,
-                "no_speech_prob": 0.10215248912572861
-            },
-            {
-                "id": 9,
-                "seek": 5786,
-                "start": 82.58,
-                "end": 87.08,
-                "text": " Trái tim tôi đã lầm khi hiểu rằng em rất yêu",
-                "tokens": [
-                    51601,
-                    1765,
-                    28249,
-                    524,
-                    22336,
-                    17283,
-                    287,
-                    11161,
-                    76,
-                    23526,
-                    4879,
-                    40328,
-                    45019,
-                    846,
-                    25147,
-                    49107,
-                    51826
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.24132874326885873,
-                "compression_ratio": 1.404,
-                "no_speech_prob": 0.10215248912572861
-            },
-            {
-                "id": 10,
-                "seek": 8708,
-                "start": 87.08,
-                "end": 92.46,
-                "text": " Những người đau khổ đều thức cùng nước mắt",
-                "tokens": [
-                    50365,
-                    26390,
-                    18859,
-                    15898,
-                    2934,
-                    1459,
-                    7168,
-                    20950,
-                    2934,
-                    17310,
-                    258,
-                    27138,
-                    45701,
-                    30728,
-                    275,
-                    31454,
-                    50634
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.21683866522285375,
-                "compression_ratio": 1.4178403755868545,
-                "no_speech_prob": 0.01911892555654049
-            },
-            {
-                "id": 11,
-                "seek": 8708,
-                "start": 92.46,
-                "end": 97.48,
-                "text": " Ngon sống trong thương tâm này không thể tắt",
-                "tokens": [
-                    50634,
-                    426,
-                    10660,
-                    262,
-                    21092,
-                    18826,
-                    258,
-                    24605,
-                    256,
-                    24484,
-                    12542,
-                    11415,
-                    24491,
-                    256,
-                    31454,
-                    50885
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.21683866522285375,
-                "compression_ratio": 1.4178403755868545,
-                "no_speech_prob": 0.01911892555654049
-            },
-            {
-                "id": 12,
-                "seek": 8708,
-                "start": 97.48,
-                "end": 103.14,
-                "text": " Nói yêu thương cho nhiều giờ đây anh hiểu ra bao nhiêu điều",
-                "tokens": [
-                    50885,
-                    426,
-                    812,
-                    72,
-                    49107,
-                    258,
-                    24605,
-                    1586,
-                    28272,
-                    28689,
-                    20199,
-                    18931,
-                    4879,
-                    40328,
-                    3342,
-                    45296,
-                    20575,
-                    28310,
-                    42082,
-                    51168
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.21683866522285375,
-                "compression_ratio": 1.4178403755868545,
-                "no_speech_prob": 0.01911892555654049
-            },
-            {
-                "id": 13,
-                "seek": 8708,
-                "start": 103.14,
-                "end": 107.9,
-                "text": " Xoác tên anh dễ dàng để đến cùng với ai",
-                "tokens": [
-                    51168,
-                    1783,
-                    78,
-                    21563,
-                    256,
-                    5050,
-                    18931,
-                    274,
-                    36664,
-                    274,
-                    26653,
-                    20081,
-                    26353,
-                    45701,
-                    18916,
-                    9783,
-                    51406
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.21683866522285375,
-                "compression_ratio": 1.4178403755868545,
-                "no_speech_prob": 0.01911892555654049
-            },
-            {
-                "id": 14,
-                "seek": 8708,
-                "start": 107.9,
-                "end": 113.06,
-                "text": " Những người hạnh phúc đều thật yên sắc",
-                "tokens": [
-                    51406,
-                    26390,
-                    18859,
-                    15898,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    2934,
-                    17310,
-                    258,
-                    25296,
-                    288,
-                    5050,
-                    262,
-                    30838,
-                    51664
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.21683866522285375,
-                "compression_ratio": 1.4178403755868545,
-                "no_speech_prob": 0.01911892555654049
-            },
-            {
-                "id": 15,
-                "seek": 11306,
-                "start": 113.06,
-                "end": 118.06,
-                "text": " Còn mỗi riêng anh nơi này không chấp mãi",
-                "tokens": [
-                    50365,
-                    383,
-                    23329,
-                    275,
-                    49572,
-                    19739,
-                    1307,
-                    872,
-                    18931,
-                    297,
-                    21537,
-                    12542,
-                    11415,
-                    417,
-                    47176,
-                    22410,
-                    72,
-                    50615
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.5285046577453614,
-                "compression_ratio": 0.847457627118644,
-                "no_speech_prob": 0.008186856284737587
-            },
-            {
-                "id": 16,
-                "seek": 11806,
-                "start": 118.06,
-                "end": 145.54,
-                "text": " Tại sao hai người nhấn tâm lấy ngược mắt của tôi",
-                "tokens": [
-                    50365,
-                    314,
-                    12745,
-                    33108,
-                    21822,
-                    15898,
-                    6245,
-                    43975,
-                    256,
-                    24484,
-                    287,
-                    13417,
-                    6415,
-                    14737,
-                    275,
-                    31454,
-                    11990,
-                    22336,
-                    51739
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.44263362884521484,
-                "compression_ratio": 0.9705882352941176,
-                "no_speech_prob": 0.28390559554100037
-            },
-            {
-                "id": 17,
-                "seek": 14554,
-                "start": 145.54,
-                "end": 150.2,
-                "text": " Tại sao hai người ướp đi những tháng ngày hạnh phúc",
-                "tokens": [
-                    50365,
-                    314,
-                    12745,
-                    33108,
-                    21822,
-                    15898,
-                    220,
-                    17059,
-                    79,
-                    13264,
-                    20136,
-                    258,
-                    30344,
-                    34481,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    50598
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.3612634177519896,
-                "compression_ratio": 1.4180327868852458,
-                "no_speech_prob": 0.19890782237052917
-            },
-            {
-                "id": 18,
-                "seek": 14554,
-                "start": 150.2,
-                "end": 156.01999999999998,
-                "text": " Giờ trong tôi là bóng đêm đang phai quay những nỗi đau",
-                "tokens": [
-                    50598,
-                    15334,
-                    21270,
-                    18826,
-                    22336,
-                    3684,
-                    272,
-                    812,
-                    872,
-                    2934,
-                    13213,
-                    30723,
-                    903,
-                    1301,
-                    421,
-                    320,
-                    20136,
-                    297,
-                    49572,
-                    2934,
-                    1459,
-                    50889
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.3612634177519896,
-                "compression_ratio": 1.4180327868852458,
-                "no_speech_prob": 0.19890782237052917
-            },
-            {
-                "id": 19,
-                "seek": 14554,
-                "start": 156.01999999999998,
-                "end": 161.98,
-                "text": " Lòng tôi thấy an hận đôi mi rưng rưng lúc không giờ hạnh phúc",
-                "tokens": [
-                    50889,
-                    441,
-                    36782,
-                    22336,
-                    27793,
-                    364,
-                    276,
-                    27410,
-                    2934,
-                    12213,
-                    2752,
-                    367,
-                    42509,
-                    367,
-                    42509,
-                    287,
-                    31585,
-                    11415,
-                    28689,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    51187
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.3612634177519896,
-                "compression_ratio": 1.4180327868852458,
-                "no_speech_prob": 0.19890782237052917
-            },
-            {
-                "id": 20,
-                "seek": 14554,
-                "start": 165.23999999999998,
-                "end": 170.32,
-                "text": " Đêm đêm tôi vui lửa rồi xem tôi chỉ là một cái dư thừa",
-                "tokens": [
-                    51350,
-                    13055,
-                    13213,
-                    2934,
-                    13213,
-                    22336,
-                    371,
-                    3077,
-                    287,
-                    27801,
-                    64,
-                    19908,
-                    47852,
-                    22336,
-                    33566,
-                    3684,
-                    15486,
-                    14830,
-                    274,
-                    4228,
-                    258,
-                    47279,
-                    51604
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.3612634177519896,
-                "compression_ratio": 1.4180327868852458,
-                "no_speech_prob": 0.19890782237052917
-            },
-            {
-                "id": 21,
-                "seek": 14554,
-                "start": 170.32,
-                "end": 174.85999999999999,
-                "text": " Trái tim tôi đã lầm đi hiểu rằng em rất yêu",
-                "tokens": [
-                    51604,
-                    1765,
-                    28249,
-                    524,
-                    22336,
-                    17283,
-                    287,
-                    11161,
-                    76,
-                    13264,
-                    4879,
-                    40328,
-                    45019,
-                    846,
-                    25147,
-                    49107,
-                    51831
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.3612634177519896,
-                "compression_ratio": 1.4180327868852458,
-                "no_speech_prob": 0.19890782237052917
-            },
-            {
-                "id": 22,
-                "seek": 17486,
-                "start": 174.86,
-                "end": 180.22000000000003,
-                "text": " Những người đau khổ đều thức cùng nước mắt",
-                "tokens": [
-                    50365,
-                    26390,
-                    18859,
-                    15898,
-                    2934,
-                    1459,
-                    7168,
-                    20950,
-                    2934,
-                    17310,
-                    258,
-                    27138,
-                    45701,
-                    30728,
-                    275,
-                    31454,
-                    50633
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.38487729159268463,
-                "compression_ratio": 1.4265402843601895,
-                "no_speech_prob": 0.010984816588461399
-            },
-            {
-                "id": 23,
-                "seek": 17486,
-                "start": 180.22000000000003,
-                "end": 184.48000000000002,
-                "text": " Ngọn sông trong thâm tâm này không thể tan",
-                "tokens": [
-                    50633,
-                    21198,
-                    47246,
-                    262,
-                    8217,
-                    18826,
-                    258,
-                    24484,
-                    256,
-                    24484,
-                    12542,
-                    11415,
-                    24491,
-                    7603,
-                    50846
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.38487729159268463,
-                "compression_ratio": 1.4265402843601895,
-                "no_speech_prob": 0.010984816588461399
-            },
-            {
-                "id": 24,
-                "seek": 17486,
-                "start": 184.48000000000002,
-                "end": 190.9,
-                "text": " Nói yêu thương cho nhiều giờ đây anh hiểu ra bao nhiêu điều",
-                "tokens": [
-                    50846,
-                    426,
-                    812,
-                    72,
-                    49107,
-                    258,
-                    24605,
-                    1586,
-                    28272,
-                    28689,
-                    20199,
-                    18931,
-                    4879,
-                    40328,
-                    3342,
-                    45296,
-                    20575,
-                    28310,
-                    42082,
-                    51167
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.38487729159268463,
-                "compression_ratio": 1.4265402843601895,
-                "no_speech_prob": 0.010984816588461399
-            },
-            {
-                "id": 25,
-                "seek": 17486,
-                "start": 190.96,
-                "end": 195.66000000000003,
-                "text": " Xuất đến anh dễ dàng để đếm cùng với ai",
-                "tokens": [
-                    51170,
-                    23082,
-                    12436,
-                    26353,
-                    18931,
-                    274,
-                    36664,
-                    274,
-                    26653,
-                    20081,
-                    2934,
-                    6115,
-                    76,
-                    45701,
-                    18916,
-                    9783,
-                    51405
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.38487729159268463,
-                "compression_ratio": 1.4265402843601895,
-                "no_speech_prob": 0.010984816588461399
-            },
-            {
-                "id": 26,
-                "seek": 17486,
-                "start": 195.66000000000003,
-                "end": 200.86,
-                "text": " Những người hạnh phúc đều thật yên sáng",
-                "tokens": [
-                    51405,
-                    26390,
-                    18859,
-                    15898,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    2934,
-                    17310,
-                    258,
-                    25296,
-                    288,
-                    5050,
-                    262,
-                    30344,
-                    51665
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.38487729159268463,
-                "compression_ratio": 1.4265402843601895,
-                "no_speech_prob": 0.010984816588461399
-            },
-            {
-                "id": 27,
-                "seek": 20086,
-                "start": 200.86,
-                "end": 206.56,
-                "text": " Còn mỗi riêng anh nơi này không chấp mắt",
-                "tokens": [
-                    50365,
-                    383,
-                    23329,
-                    275,
-                    49572,
-                    19739,
-                    1307,
-                    872,
-                    18931,
-                    297,
-                    21537,
-                    12542,
-                    11415,
-                    417,
-                    47176,
-                    275,
-                    31454,
-                    50650
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.3032957957341121,
-                "compression_ratio": 1.3111111111111111,
-                "no_speech_prob": 0.01566072180867195
-            },
-            {
-                "id": 28,
-                "seek": 20086,
-                "start": 206.56,
-                "end": 211.0,
-                "text": " Lại một đêm nữa khi mà cả thế giới",
-                "tokens": [
-                    50650,
-                    441,
-                    12745,
-                    15486,
-                    2934,
-                    13213,
-                    35047,
-                    23526,
-                    13901,
-                    22227,
-                    27100,
-                    1735,
-                    12242,
-                    50872
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.3032957957341121,
-                "compression_ratio": 1.3111111111111111,
-                "no_speech_prob": 0.01566072180867195
-            },
-            {
-                "id": 29,
-                "seek": 20086,
-                "start": 211.0,
-                "end": 213.76000000000002,
-                "text": " Đã tắt ngọn đèn",
-                "tokens": [
-                    50872,
-                    13055,
-                    1046,
-                    256,
-                    31454,
-                    6415,
-                    47246,
-                    2934,
-                    20917,
-                    51010
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.3032957957341121,
-                "compression_ratio": 1.3111111111111111,
-                "no_speech_prob": 0.01566072180867195
-            },
-            {
-                "id": 30,
-                "seek": 20086,
-                "start": 213.76000000000002,
-                "end": 218.34,
-                "text": " Còn riêng anh ngồi đây thấp xa",
-                "tokens": [
-                    51010,
-                    383,
-                    23329,
-                    19739,
-                    1307,
-                    872,
-                    18931,
-                    6415,
-                    15695,
-                    20199,
-                    258,
-                    47176,
-                    2031,
-                    64,
-                    51239
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.3032957957341121,
-                "compression_ratio": 1.3111111111111111,
-                "no_speech_prob": 0.01566072180867195
-            },
-            {
-                "id": 31,
-                "seek": 20086,
-                "start": 218.34,
-                "end": 226.36,
-                "text": " Giờ đây đã kết thúc hết tất cả những chuyện đã qua",
-                "tokens": [
-                    51239,
-                    15334,
-                    21270,
-                    20199,
-                    17283,
-                    350,
-                    13888,
-                    258,
-                    31585,
-                    44414,
-                    256,
-                    12436,
-                    22227,
-                    20136,
-                    35522,
-                    19679,
-                    17283,
-                    24159,
-                    51640
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.3032957957341121,
-                "compression_ratio": 1.3111111111111111,
-                "no_speech_prob": 0.01566072180867195
-            },
-            {
-                "id": 32,
-                "seek": 22636,
-                "start": 226.36,
-                "end": 231.46,
-                "text": " Em hãy bước tiếp con đường hạnh phúc đi",
-                "tokens": [
-                    50365,
-                    3968,
-                    276,
-                    49205,
-                    272,
-                    19578,
-                    48667,
-                    416,
-                    2934,
-                    24280,
-                    276,
-                    45782,
-                    903,
-                    31585,
-                    13264,
-                    50620
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.33625368277231854,
-                "compression_ratio": 0.9358974358974359,
-                "no_speech_prob": 0.0010483163641765714
-            },
-            {
-                "id": 33,
-                "seek": 22636,
-                "start": 231.46,
-                "end": 236.46,
-                "text": " Đừng nhìn lại",
-                "tokens": [
-                    50620,
-                    13055,
-                    39121,
-                    6245,
-                    41320,
-                    23017,
-                    50870
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.33625368277231854,
-                "compression_ratio": 0.9358974358974359,
-                "no_speech_prob": 0.0010483163641765714
-            },
-            {
-                "id": 34,
-                "seek": 25636,
-                "start": 256.36,
-                "end": 286.34000000000003,
-                "text": " Cảm ơn các bạn đã theo dõi và hẹn gặp lại",
-                "tokens": [
-                    50365,
-                    383,
-                    7398,
-                    76,
-                    220,
-                    23513,
-                    13250,
-                    14647,
-                    17283,
-                    40594,
-                    274,
-                    5536,
-                    72,
-                    10274,
-                    276,
-                    26965,
-                    77,
-                    290,
-                    19118,
-                    79,
-                    23017,
-                    51864
-                ],
-                "temperature": 0.7,
-                "avg_logprob": -0.22677641329558,
-                "compression_ratio": 0.8769230769230769,
-                "no_speech_prob": 0.7960714101791382
-            }
-        ],
-        "language": "vi",
-        "tags_with_probs": [
-            {
-                "tag": "Music",
-                "prob": 0.7364804148674011
-            },
-            {
-                "tag": "Electric piano",
-                "prob": 0.42822161316871643
-            },
-            {
-                "tag": "Piano",
-                "prob": 0.25008684396743774
-            },
-            {
-                "tag": "Keyboard (musical)",
-                "prob": 0.20323485136032104
-            },
-            {
-                "tag": "Singing",
-                "prob": 0.12312767654657364
-            },
-            {
-                "tag": "Musical instrument",
-                "prob": 0.10204797238111496
-            },
-            {
-                "tag": "Gospel music",
-                "prob": 0.062313444912433624
-            },
-            {
-                "tag": "Christian music",
-                "prob": 0.05741695687174797
-            },
-            {
-                "tag": "Tender music",
-                "prob": 0.05665172263979912
-            },
-            {
-                "tag": "Soul music",
-                "prob": 0.05488204210996628
+        "text": "nhẹ nhàng caoôi sao lòng ta luôn nặng chiều bàn tay ngày ấy đã níu giữ lấy sao lại buông có phải tìnhình cảm đã nhát rằng hãy nói đi đừng ngại ngần tại sao hai người nhắn thân lấy nước mắt của tôi tại sao hai người khóc đi những tháng ngày hạnh phúc giờ trong tôi là bấm đêm đang vây quanh những nỗi đau lòng tôi thấy ân hận đôi mình sưng sưng lúc không giờ hài phút đến bên tôi vui đùa rồi xem tôi chỉ là một kẻ sư thường trái tim tôi đã lầm khi hiểu dáng đẹp sắc đẹp những người đau khổ điều thức cùng nước mắt ngon sốc trong thâm tâm này không thể thao nỗi yêu thương cho nhiều giờ đây anh hiểu ra bao nhiêu điều suốt đến nay dễ dàng đè đến đừng phơi lại những người hạnh phúc đều thật yên giấc còn mối riêng anh nơithăm lấy nước mắt của tôi tại sao hai người khớp đi những tháng ngày hạnh phúc giờ trong tôi là bóng đem đang vây quanh những nỗi đau lòng tôi thấy ân hận đôi mi rừng rưng lúc không giờ hạnh phúc đến đêm tôi vui ưa rồi xem tôi chỉ là một ghế sư thường trái tim tôi đã lòng ý nghĩa rằng em sắp yêu những người đau khổ điều thức cùng nước mắt ngọn sốc trong thâm tâm này hông thểtàn nỗi yêu thương cho nhiều giờ đây anh hiếu xa bao nhiêu điều suốt đến anh dễ dàng đến anh không bung phẳng ai những người hạnh phúc đều thật yên giấc còn mỗi giấc anh nơi này không chợp mãi lại một đêm nữa khi mà cả thế giới đã thắt ngọn đèn còn xương anh ngồi đẹp hợp sáng giờ đây đã kết thúc hết tất cả những chuyện đã qua em bước tiếp con đường hạnh phúc đi đừng nhìn lại.ngoài ra còn mở cửa để sử dụng kiến nghị của vũ khí trong thời gian tới.",
+        "chunks": [
+            {
+                "text": "nhẹ",
+                "timestamp": [
+                    0.0,
+                    1.14
+                ]
+            },
+            {
+                "text": " nhàng",
+                "timestamp": [
+                    1.14,
+                    2.64
+                ]
+            },
+            {
+                "text": " caoôi",
+                "timestamp": [
+                    2.64,
+                    32.18
+                ]
+            },
+            {
+                "text": " sao",
+                "timestamp": [
+                    32.18,
+                    32.58
+                ]
+            },
+            {
+                "text": " lòng",
+                "timestamp": [
+                    32.58,
+                    32.86
+                ]
+            },
+            {
+                "text": " ta",
+                "timestamp": [
+                    32.86,
+                    33.22
+                ]
+            },
+            {
+                "text": " luôn",
+                "timestamp": [
+                    33.22,
+                    33.44
+                ]
+            },
+            {
+                "text": " nặng",
+                "timestamp": [
+                    33.44,
+                    34.04
+                ]
+            },
+            {
+                "text": " chiều",
+                "timestamp": [
+                    34.04,
+                    35.0
+                ]
+            },
+            {
+                "text": " bàn",
+                "timestamp": [
+                    35.0,
+                    38.36
+                ]
+            },
+            {
+                "text": " tay",
+                "timestamp": [
+                    38.36,
+                    38.7
+                ]
+            },
+            {
+                "text": " ngày",
+                "timestamp": [
+                    38.7,
+                    39.0
+                ]
+            },
+            {
+                "text": " ấy",
+                "timestamp": [
+                    39.0,
+                    39.4
+                ]
+            },
+            {
+                "text": " đã",
+                "timestamp": [
+                    39.4,
+                    39.68
+                ]
+            },
+            {
+                "text": " níu",
+                "timestamp": [
+                    39.68,
+                    40.02
+                ]
+            },
+            {
+                "text": " giữ",
+                "timestamp": [
+                    40.02,
+                    40.36
+                ]
+            },
+            {
+                "text": " lấy",
+                "timestamp": [
+                    40.36,
+                    40.68
+                ]
+            },
+            {
+                "text": " sao",
+                "timestamp": [
+                    40.68,
+                    41.18
+                ]
+            },
+            {
+                "text": " lại",
+                "timestamp": [
+                    41.18,
+                    41.74
+                ]
+            },
+            {
+                "text": " buông",
+                "timestamp": [
+                    41.74,
+                    43.12
+                ]
+            },
+            {
+                "text": " có",
+                "timestamp": [
+                    43.12,
+                    43.54
+                ]
+            },
+            {
+                "text": " phải",
+                "timestamp": [
+                    43.54,
+                    43.88
+                ]
+            },
+            {
+                "text": " tìnhình",
+                "timestamp": [
+                    43.88,
+                    44.18
+                ]
+            },
+            {
+                "text": " cảm",
+                "timestamp": [
+                    44.18,
+                    44.52
+                ]
+            },
+            {
+                "text": " đã",
+                "timestamp": [
+                    44.52,
+                    44.82
+                ]
+            },
+            {
+                "text": " nhát",
+                "timestamp": [
+                    44.82,
+                    45.12
+                ]
+            },
+            {
+                "text": " rằng",
+                "timestamp": [
+                    45.12,
+                    45.68
+                ]
+            },
+            {
+                "text": " hãy",
+                "timestamp": [
+                    45.68,
+                    46.78
+                ]
+            },
+            {
+                "text": " nói",
+                "timestamp": [
+                    46.78,
+                    47.16
+                ]
+            },
+            {
+                "text": " đi",
+                "timestamp": [
+                    47.16,
+                    48.12
+                ]
+            },
+            {
+                "text": " đừng",
+                "timestamp": [
+                    48.12,
+                    49.38
+                ]
+            },
+            {
+                "text": " ngại",
+                "timestamp": [
+                    49.38,
+                    49.88
+                ]
+            },
+            {
+                "text": " ngần",
+                "timestamp": [
+                    49.88,
+                    51.2
+                ]
+            },
+            {
+                "text": " tại",
+                "timestamp": [
+                    51.2,
+                    53.54
+                ]
+            },
+            {
+                "text": " sao",
+                "timestamp": [
+                    53.54,
+                    53.84
+                ]
+            },
+            {
+                "text": " hai",
+                "timestamp": [
+                    53.84,
+                    54.24
+                ]
+            },
+            {
+                "text": " người",
+                "timestamp": [
+                    54.24,
+                    54.48
+                ]
+            },
+            {
+                "text": " nhắn",
+                "timestamp": [
+                    54.48,
+                    54.88
+                ]
+            },
+            {
+                "text": " thân",
+                "timestamp": [
+                    54.88,
+                    55.44
+                ]
+            },
+            {
+                "text": " lấy",
+                "timestamp": [
+                    55.44,
+                    55.82
+                ]
+            },
+            {
+                "text": " nước",
+                "timestamp": [
+                    55.82,
+                    56.14
+                ]
+            },
+            {
+                "text": " mắt",
+                "timestamp": [
+                    56.14,
+                    56.62
+                ]
+            },
+            {
+                "text": " của",
+                "timestamp": [
+                    56.62,
+                    57.02
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    57.02,
+                    57.76
+                ]
+            },
+            {
+                "text": " tại",
+                "timestamp": [
+                    57.76,
+                    58.66
+                ]
+            },
+            {
+                "text": " sao",
+                "timestamp": [
+                    58.66,
+                    58.98
+                ]
+            },
+            {
+                "text": " hai",
+                "timestamp": [
+                    58.98,
+                    59.36
+                ]
+            },
+            {
+                "text": " người",
+                "timestamp": [
+                    59.36,
+                    59.56
+                ]
+            },
+            {
+                "text": " khóc",
+                "timestamp": [
+                    59.56,
+                    60.0
+                ]
+            },
+            {
+                "text": " đi",
+                "timestamp": [
+                    60.0,
+                    60.36
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    60.36,
+                    60.86
+                ]
+            },
+            {
+                "text": " tháng",
+                "timestamp": [
+                    60.86,
+                    61.28
+                ]
+            },
+            {
+                "text": " ngày",
+                "timestamp": [
+                    61.28,
+                    61.56
+                ]
+            },
+            {
+                "text": " hạnh",
+                "timestamp": [
+                    61.56,
+                    61.9
+                ]
+            },
+            {
+                "text": " phúc",
+                "timestamp": [
+                    61.9,
+                    62.44
+                ]
+            },
+            {
+                "text": " giờ",
+                "timestamp": [
+                    62.44,
+                    63.8
+                ]
+            },
+            {
+                "text": " trong",
+                "timestamp": [
+                    63.8,
+                    64.14
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    64.14,
+                    64.5
+                ]
+            },
+            {
+                "text": " là",
+                "timestamp": [
+                    64.5,
+                    64.76
+                ]
+            },
+            {
+                "text": " bấm",
+                "timestamp": [
+                    64.76,
+                    65.22
+                ]
+            },
+            {
+                "text": " đêm",
+                "timestamp": [
+                    65.22,
+                    65.44
+                ]
+            },
+            {
+                "text": " đang",
+                "timestamp": [
+                    65.44,
+                    65.76
+                ]
+            },
+            {
+                "text": " vây",
+                "timestamp": [
+                    65.76,
+                    66.12
+                ]
+            },
+            {
+                "text": " quanh",
+                "timestamp": [
+                    66.12,
+                    66.88
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    66.88,
+                    67.02
+                ]
+            },
+            {
+                "text": " nỗi",
+                "timestamp": [
+                    67.02,
+                    67.52
+                ]
+            },
+            {
+                "text": " đau",
+                "timestamp": [
+                    67.52,
+                    68.16
+                ]
+            },
+            {
+                "text": " lòng",
+                "timestamp": [
+                    68.16,
+                    69.02
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    69.02,
+                    69.34
+                ]
+            },
+            {
+                "text": " thấy",
+                "timestamp": [
+                    69.34,
+                    69.74
+                ]
+            },
+            {
+                "text": " ân",
+                "timestamp": [
+                    69.74,
+                    70.06
+                ]
+            },
+            {
+                "text": " hận",
+                "timestamp": [
+                    70.06,
+                    70.3
+                ]
+            },
+            {
+                "text": " đôi",
+                "timestamp": [
+                    70.3,
+                    70.62
+                ]
+            },
+            {
+                "text": " mình",
+                "timestamp": [
+                    70.62,
+                    70.9
+                ]
+            },
+            {
+                "text": " sưng",
+                "timestamp": [
+                    70.9,
+                    71.34
+                ]
+            },
+            {
+                "text": " sưng",
+                "timestamp": [
+                    71.34,
+                    71.74
+                ]
+            },
+            {
+                "text": " lúc",
+                "timestamp": [
+                    71.74,
+                    72.3
+                ]
+            },
+            {
+                "text": " không",
+                "timestamp": [
+                    72.3,
+                    72.58
+                ]
+            },
+            {
+                "text": " giờ",
+                "timestamp": [
+                    72.58,
+                    72.94
+                ]
+            },
+            {
+                "text": " hài",
+                "timestamp": [
+                    72.94,
+                    73.42
+                ]
+            },
+            {
+                "text": " phút",
+                "timestamp": [
+                    73.42,
+                    74.54
+                ]
+            },
+            {
+                "text": " đến",
+                "timestamp": [
+                    74.54,
+                    78.12
+                ]
+            },
+            {
+                "text": " bên",
+                "timestamp": [
+                    78.12,
+                    78.42
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    78.42,
+                    78.78
+                ]
+            },
+            {
+                "text": " vui",
+                "timestamp": [
+                    78.78,
+                    79.06
+                ]
+            },
+            {
+                "text": " đùa",
+                "timestamp": [
+                    79.06,
+                    79.44
+                ]
+            },
+            {
+                "text": " rồi",
+                "timestamp": [
+                    79.44,
+                    79.72
+                ]
+            },
+            {
+                "text": " xem",
+                "timestamp": [
+                    79.72,
+                    80.04
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    80.04,
+                    80.36
+                ]
+            },
+            {
+                "text": " chỉ",
+                "timestamp": [
+                    80.36,
+                    80.66
+                ]
+            },
+            {
+                "text": " là",
+                "timestamp": [
+                    80.66,
+                    80.86
+                ]
+            },
+            {
+                "text": " một",
+                "timestamp": [
+                    80.86,
+                    81.02
+                ]
+            },
+            {
+                "text": " kẻ",
+                "timestamp": [
+                    81.02,
+                    81.32
+                ]
+            },
+            {
+                "text": " sư",
+                "timestamp": [
+                    81.32,
+                    81.76
+                ]
+            },
+            {
+                "text": " thường",
+                "timestamp": [
+                    81.76,
+                    82.62
+                ]
+            },
+            {
+                "text": " trái",
+                "timestamp": [
+                    82.62,
+                    83.24
+                ]
+            },
+            {
+                "text": " tim",
+                "timestamp": [
+                    83.24,
+                    83.64
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    83.64,
+                    83.98
+                ]
+            },
+            {
+                "text": " đã",
+                "timestamp": [
+                    83.98,
+                    84.24
+                ]
+            },
+            {
+                "text": " lầm",
+                "timestamp": [
+                    84.24,
+                    84.6
+                ]
+            },
+            {
+                "text": " khi",
+                "timestamp": [
+                    84.6,
+                    84.9
+                ]
+            },
+            {
+                "text": " hiểu",
+                "timestamp": [
+                    84.9,
+                    85.38
+                ]
+            },
+            {
+                "text": " dáng",
+                "timestamp": [
+                    85.38,
+                    85.94
+                ]
+            },
+            {
+                "text": " đẹp",
+                "timestamp": [
+                    85.94,
+                    86.16
+                ]
+            },
+            {
+                "text": " sắc",
+                "timestamp": [
+                    86.16,
+                    86.48
+                ]
+            },
+            {
+                "text": " đẹp",
+                "timestamp": [
+                    86.48,
+                    87.58
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    87.58,
+                    88.0
+                ]
+            },
+            {
+                "text": " người",
+                "timestamp": [
+                    88.0,
+                    88.54
+                ]
+            },
+            {
+                "text": " đau",
+                "timestamp": [
+                    88.54,
+                    89.34
+                ]
+            },
+            {
+                "text": " khổ",
+                "timestamp": [
+                    89.34,
+                    89.74
+                ]
+            },
+            {
+                "text": " điều",
+                "timestamp": [
+                    89.74,
+                    90.64
+                ]
+            },
+            {
+                "text": " thức",
+                "timestamp": [
+                    90.64,
+                    90.98
+                ]
+            },
+            {
+                "text": " cùng",
+                "timestamp": [
+                    90.98,
+                    91.34
+                ]
+            },
+            {
+                "text": " nước",
+                "timestamp": [
+                    91.34,
+                    91.98
+                ]
+            },
+            {
+                "text": " mắt",
+                "timestamp": [
+                    91.98,
+                    92.4
+                ]
+            },
+            {
+                "text": " ngon",
+                "timestamp": [
+                    92.4,
+                    93.24
+                ]
+            },
+            {
+                "text": " sốc",
+                "timestamp": [
+                    93.24,
+                    93.6
+                ]
+            },
+            {
+                "text": " trong",
+                "timestamp": [
+                    93.6,
+                    93.98
+                ]
+            },
+            {
+                "text": " thâm",
+                "timestamp": [
+                    93.98,
+                    94.26
+                ]
+            },
+            {
+                "text": " tâm",
+                "timestamp": [
+                    94.26,
+                    94.54
+                ]
+            },
+            {
+                "text": " này",
+                "timestamp": [
+                    94.54,
+                    94.98
+                ]
+            },
+            {
+                "text": " không",
+                "timestamp": [
+                    94.98,
+                    95.4
+                ]
+            },
+            {
+                "text": " thể",
+                "timestamp": [
+                    95.4,
+                    95.82
+                ]
+            },
+            {
+                "text": " thao",
+                "timestamp": [
+                    95.82,
+                    97.82
+                ]
+            },
+            {
+                "text": " nỗi",
+                "timestamp": [
+                    97.82,
+                    98.78
+                ]
+            },
+            {
+                "text": " yêu",
+                "timestamp": [
+                    98.78,
+                    99.1
+                ]
+            },
+            {
+                "text": " thương",
+                "timestamp": [
+                    99.1,
+                    99.42
+                ]
+            },
+            {
+                "text": " cho",
+                "timestamp": [
+                    99.42,
+                    99.74
+                ]
+            },
+            {
+                "text": " nhiều",
+                "timestamp": [
+                    99.74,
+                    100.0
+                ]
+            },
+            {
+                "text": " giờ",
+                "timestamp": [
+                    100.0,
+                    100.32
+                ]
+            },
+            {
+                "text": " đây",
+                "timestamp": [
+                    100.32,
+                    100.7
+                ]
+            },
+            {
+                "text": " anh",
+                "timestamp": [
+                    100.7,
+                    100.94
+                ]
+            },
+            {
+                "text": " hiểu",
+                "timestamp": [
+                    100.94,
+                    101.32
+                ]
+            },
+            {
+                "text": " ra",
+                "timestamp": [
+                    101.32,
+                    101.62
+                ]
+            },
+            {
+                "text": " bao",
+                "timestamp": [
+                    101.62,
+                    101.88
+                ]
+            },
+            {
+                "text": " nhiêu",
+                "timestamp": [
+                    101.88,
+                    102.52
+                ]
+            },
+            {
+                "text": " điều",
+                "timestamp": [
+                    102.52,
+                    103.42
+                ]
+            },
+            {
+                "text": " suốt",
+                "timestamp": [
+                    103.42,
+                    103.94
+                ]
+            },
+            {
+                "text": " đến",
+                "timestamp": [
+                    103.94,
+                    104.26
+                ]
+            },
+            {
+                "text": " nay",
+                "timestamp": [
+                    104.26,
+                    104.56
+                ]
+            },
+            {
+                "text": " dễ",
+                "timestamp": [
+                    104.56,
+                    104.9
+                ]
+            },
+            {
+                "text": " dàng",
+                "timestamp": [
+                    104.9,
+                    105.22
+                ]
+            },
+            {
+                "text": " đè",
+                "timestamp": [
+                    105.22,
+                    105.52
+                ]
+            },
+            {
+                "text": " đến",
+                "timestamp": [
+                    105.52,
+                    105.96
+                ]
+            },
+            {
+                "text": " đừng",
+                "timestamp": [
+                    105.96,
+                    106.52
+                ]
+            },
+            {
+                "text": " phơi",
+                "timestamp": [
+                    106.52,
+                    106.9
+                ]
+            },
+            {
+                "text": " lại",
+                "timestamp": [
+                    106.9,
+                    107.8
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    107.8,
+                    108.68
+                ]
+            },
+            {
+                "text": " người",
+                "timestamp": [
+                    108.68,
+                    109.28
+                ]
+            },
+            {
+                "text": " hạnh",
+                "timestamp": [
+                    109.28,
+                    110.02
+                ]
+            },
+            {
+                "text": " phúc",
+                "timestamp": [
+                    110.02,
+                    110.5
+                ]
+            },
+            {
+                "text": " đều",
+                "timestamp": [
+                    110.5,
+                    111.3
+                ]
+            },
+            {
+                "text": " thật",
+                "timestamp": [
+                    111.3,
+                    111.82
+                ]
+            },
+            {
+                "text": " yên",
+                "timestamp": [
+                    111.82,
+                    112.46
+                ]
+            },
+            {
+                "text": " giấc",
+                "timestamp": [
+                    112.46,
+                    112.98
+                ]
+            },
+            {
+                "text": " còn",
+                "timestamp": [
+                    112.98,
+                    113.86
+                ]
+            },
+            {
+                "text": " mối",
+                "timestamp": [
+                    113.86,
+                    114.22
+                ]
+            },
+            {
+                "text": " riêng",
+                "timestamp": [
+                    114.22,
+                    114.68
+                ]
+            },
+            {
+                "text": " anh",
+                "timestamp": [
+                    114.68,
+                    114.9
+                ]
+            },
+            {
+                "text": " nơithăm",
+                "timestamp": [
+                    114.9,
+                    143.18
+                ]
+            },
+            {
+                "text": " lấy",
+                "timestamp": [
+                    143.18,
+                    143.6
+                ]
+            },
+            {
+                "text": " nước",
+                "timestamp": [
+                    143.6,
+                    143.84
+                ]
+            },
+            {
+                "text": " mắt",
+                "timestamp": [
+                    143.84,
+                    144.38
+                ]
+            },
+            {
+                "text": " của",
+                "timestamp": [
+                    144.38,
+                    144.8
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    144.8,
+                    145.56
+                ]
+            },
+            {
+                "text": " tại",
+                "timestamp": [
+                    145.56,
+                    146.46
+                ]
+            },
+            {
+                "text": " sao",
+                "timestamp": [
+                    146.46,
+                    146.78
+                ]
+            },
+            {
+                "text": " hai",
+                "timestamp": [
+                    146.78,
+                    147.1
+                ]
+            },
+            {
+                "text": " người",
+                "timestamp": [
+                    147.1,
+                    147.28
+                ]
+            },
+            {
+                "text": " khớp",
+                "timestamp": [
+                    147.28,
+                    147.86
+                ]
+            },
+            {
+                "text": " đi",
+                "timestamp": [
+                    147.86,
+                    148.14
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    148.14,
+                    148.66
+                ]
+            },
+            {
+                "text": " tháng",
+                "timestamp": [
+                    148.66,
+                    149.06
+                ]
+            },
+            {
+                "text": " ngày",
+                "timestamp": [
+                    149.06,
+                    149.32
+                ]
+            },
+            {
+                "text": " hạnh",
+                "timestamp": [
+                    149.32,
+                    149.64
+                ]
+            },
+            {
+                "text": " phúc",
+                "timestamp": [
+                    149.64,
+                    150.28
+                ]
+            },
+            {
+                "text": " giờ",
+                "timestamp": [
+                    150.28,
+                    151.58
+                ]
+            },
+            {
+                "text": " trong",
+                "timestamp": [
+                    151.58,
+                    151.88
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    151.88,
+                    152.26
+                ]
+            },
+            {
+                "text": " là",
+                "timestamp": [
+                    152.26,
+                    152.52
+                ]
+            },
+            {
+                "text": " bóng",
+                "timestamp": [
+                    152.52,
+                    153.06
+                ]
+            },
+            {
+                "text": " đem",
+                "timestamp": [
+                    153.06,
+                    153.22
+                ]
+            },
+            {
+                "text": " đang",
+                "timestamp": [
+                    153.22,
+                    153.62
+                ]
+            },
+            {
+                "text": " vây",
+                "timestamp": [
+                    153.62,
+                    153.86
+                ]
+            },
+            {
+                "text": " quanh",
+                "timestamp": [
+                    153.86,
+                    154.46
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    154.46,
+                    154.82
+                ]
+            },
+            {
+                "text": " nỗi",
+                "timestamp": [
+                    154.82,
+                    155.26
+                ]
+            },
+            {
+                "text": " đau",
+                "timestamp": [
+                    155.26,
+                    155.94
+                ]
+            },
+            {
+                "text": " lòng",
+                "timestamp": [
+                    155.94,
+                    156.78
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    156.78,
+                    157.1
+                ]
+            },
+            {
+                "text": " thấy",
+                "timestamp": [
+                    157.1,
+                    157.5
+                ]
+            },
+            {
+                "text": " ân",
+                "timestamp": [
+                    157.5,
+                    157.8
+                ]
+            },
+            {
+                "text": " hận",
+                "timestamp": [
+                    157.8,
+                    158.06
+                ]
+            },
+            {
+                "text": " đôi",
+                "timestamp": [
+                    158.06,
+                    158.38
+                ]
+            },
+            {
+                "text": " mi",
+                "timestamp": [
+                    158.38,
+                    158.6
+                ]
+            },
+            {
+                "text": " rừng",
+                "timestamp": [
+                    158.6,
+                    159.08
+                ]
+            },
+            {
+                "text": " rưng",
+                "timestamp": [
+                    159.08,
+                    159.4
+                ]
+            },
+            {
+                "text": " lúc",
+                "timestamp": [
+                    159.4,
+                    160.02
+                ]
+            },
+            {
+                "text": " không",
+                "timestamp": [
+                    160.02,
+                    160.34
+                ]
+            },
+            {
+                "text": " giờ",
+                "timestamp": [
+                    160.34,
+                    160.72
+                ]
+            },
+            {
+                "text": " hạnh",
+                "timestamp": [
+                    160.72,
+                    161.22
+                ]
+            },
+            {
+                "text": " phúc",
+                "timestamp": [
+                    161.22,
+                    162.54
+                ]
+            },
+            {
+                "text": " đến",
+                "timestamp": [
+                    162.54,
+                    165.84
+                ]
+            },
+            {
+                "text": " đêm",
+                "timestamp": [
+                    165.84,
+                    166.2
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    166.2,
+                    166.52
+                ]
+            },
+            {
+                "text": " vui",
+                "timestamp": [
+                    166.52,
+                    166.84
+                ]
+            },
+            {
+                "text": " ưa",
+                "timestamp": [
+                    166.84,
+                    167.16
+                ]
+            },
+            {
+                "text": " rồi",
+                "timestamp": [
+                    167.18,
+                    167.44
+                ]
+            },
+            {
+                "text": " xem",
+                "timestamp": [
+                    167.44,
+                    167.78
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    167.78,
+                    168.1
+                ]
+            },
+            {
+                "text": " chỉ",
+                "timestamp": [
+                    168.1,
+                    168.4
+                ]
+            },
+            {
+                "text": " là",
+                "timestamp": [
+                    168.4,
+                    168.62
+                ]
+            },
+            {
+                "text": " một",
+                "timestamp": [
+                    168.62,
+                    168.78
+                ]
+            },
+            {
+                "text": " ghế",
+                "timestamp": [
+                    168.78,
+                    169.08
+                ]
+            },
+            {
+                "text": " sư",
+                "timestamp": [
+                    169.08,
+                    169.52
+                ]
+            },
+            {
+                "text": " thường",
+                "timestamp": [
+                    169.52,
+                    170.42
+                ]
+            },
+            {
+                "text": " trái",
+                "timestamp": [
+                    170.42,
+                    171.02
+                ]
+            },
+            {
+                "text": " tim",
+                "timestamp": [
+                    171.02,
+                    171.34
+                ]
+            },
+            {
+                "text": " tôi",
+                "timestamp": [
+                    171.34,
+                    171.72
+                ]
+            },
+            {
+                "text": " đã",
+                "timestamp": [
+                    171.72,
+                    171.96
+                ]
+            },
+            {
+                "text": " lòng",
+                "timestamp": [
+                    171.96,
+                    172.4
+                ]
+            },
+            {
+                "text": " ý",
+                "timestamp": [
+                    172.4,
+                    172.66
+                ]
+            },
+            {
+                "text": " nghĩa",
+                "timestamp": [
+                    172.66,
+                    173.2
+                ]
+            },
+            {
+                "text": " rằng",
+                "timestamp": [
+                    173.2,
+                    173.56
+                ]
+            },
+            {
+                "text": " em",
+                "timestamp": [
+                    173.56,
+                    173.88
+                ]
+            },
+            {
+                "text": " sắp",
+                "timestamp": [
+                    173.88,
+                    174.28
+                ]
+            },
+            {
+                "text": " yêu",
+                "timestamp": [
+                    174.28,
+                    174.66
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    174.66,
+                    175.78
+                ]
+            },
+            {
+                "text": " người",
+                "timestamp": [
+                    175.78,
+                    176.26
+                ]
+            },
+            {
+                "text": " đau",
+                "timestamp": [
+                    176.26,
+                    177.08
+                ]
+            },
+            {
+                "text": " khổ",
+                "timestamp": [
+                    177.08,
+                    177.52
+                ]
+            },
+            {
+                "text": " điều",
+                "timestamp": [
+                    177.52,
+                    178.38
+                ]
+            },
+            {
+                "text": " thức",
+                "timestamp": [
+                    178.38,
+                    178.74
+                ]
+            },
+            {
+                "text": " cùng",
+                "timestamp": [
+                    178.74,
+                    179.12
+                ]
+            },
+            {
+                "text": " nước",
+                "timestamp": [
+                    179.12,
+                    179.7
+                ]
+            },
+            {
+                "text": " mắt",
+                "timestamp": [
+                    179.7,
+                    180.18
+                ]
+            },
+            {
+                "text": " ngọn",
+                "timestamp": [
+                    180.18,
+                    180.98
+                ]
+            },
+            {
+                "text": " sốc",
+                "timestamp": [
+                    180.98,
+                    181.34
+                ]
+            },
+            {
+                "text": " trong",
+                "timestamp": [
+                    181.34,
+                    181.7
+                ]
+            },
+            {
+                "text": " thâm",
+                "timestamp": [
+                    181.7,
+                    182.02
+                ]
+            },
+            {
+                "text": " tâm",
+                "timestamp": [
+                    182.02,
+                    182.26
+                ]
+            },
+            {
+                "text": " này",
+                "timestamp": [
+                    182.26,
+                    182.74
+                ]
+            },
+            {
+                "text": " hông",
+                "timestamp": [
+                    182.74,
+                    183.2
+                ]
+            },
+            {
+                "text": " thểtàn",
+                "timestamp": [
+                    183.2,
+                    183.94
+                ]
+            },
+            {
+                "text": " nỗi",
+                "timestamp": [
+                    183.94,
+                    186.56
+                ]
+            },
+            {
+                "text": " yêu",
+                "timestamp": [
+                    186.56,
+                    186.86
+                ]
+            },
+            {
+                "text": " thương",
+                "timestamp": [
+                    186.86,
+                    187.12
+                ]
+            },
+            {
+                "text": " cho",
+                "timestamp": [
+                    187.12,
+                    187.5
+                ]
+            },
+            {
+                "text": " nhiều",
+                "timestamp": [
+                    187.5,
+                    187.76
+                ]
+            },
+            {
+                "text": " giờ",
+                "timestamp": [
+                    187.76,
+                    188.06
+                ]
+            },
+            {
+                "text": " đây",
+                "timestamp": [
+                    188.06,
+                    188.4
+                ]
+            },
+            {
+                "text": " anh",
+                "timestamp": [
+                    188.4,
+                    188.72
+                ]
+            },
+            {
+                "text": " hiếu",
+                "timestamp": [
+                    188.72,
+                    189.06
+                ]
+            },
+            {
+                "text": " xa",
+                "timestamp": [
+                    189.06,
+                    189.36
+                ]
+            },
+            {
+                "text": " bao",
+                "timestamp": [
+                    189.36,
+                    189.72
+                ]
+            },
+            {
+                "text": " nhiêu",
+                "timestamp": [
+                    189.72,
+                    190.22
+                ]
+            },
+            {
+                "text": " điều",
+                "timestamp": [
+                    190.22,
+                    190.98
+                ]
+            },
+            {
+                "text": " suốt",
+                "timestamp": [
+                    190.98,
+                    191.68
+                ]
+            },
+            {
+                "text": " đến",
+                "timestamp": [
+                    191.68,
+                    192.02
+                ]
+            },
+            {
+                "text": " anh",
+                "timestamp": [
+                    192.02,
+                    192.3
+                ]
+            },
+            {
+                "text": " dễ",
+                "timestamp": [
+                    192.3,
+                    192.62
+                ]
+            },
+            {
+                "text": " dàng",
+                "timestamp": [
+                    192.62,
+                    192.96
+                ]
+            },
+            {
+                "text": " đến",
+                "timestamp": [
+                    192.96,
+                    193.26
+                ]
+            },
+            {
+                "text": " anh",
+                "timestamp": [
+                    193.26,
+                    193.64
+                ]
+            },
+            {
+                "text": " không",
+                "timestamp": [
+                    193.64,
+                    194.0
+                ]
+            },
+            {
+                "text": " bung",
+                "timestamp": [
+                    194.0,
+                    194.34
+                ]
+            },
+            {
+                "text": " phẳng",
+                "timestamp": [
+                    194.34,
+                    194.82
+                ]
+            },
+            {
+                "text": " ai",
+                "timestamp": [
+                    194.82,
+                    195.64
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    195.64,
+                    196.42
+                ]
+            },
+            {
+                "text": " người",
+                "timestamp": [
+                    196.42,
+                    196.92
+                ]
+            },
+            {
+                "text": " hạnh",
+                "timestamp": [
+                    196.92,
+                    197.72
+                ]
+            },
+            {
+                "text": " phúc",
+                "timestamp": [
+                    197.72,
+                    198.14
+                ]
+            },
+            {
+                "text": " đều",
+                "timestamp": [
+                    198.14,
+                    199.04
+                ]
+            },
+            {
+                "text": " thật",
+                "timestamp": [
+                    199.04,
+                    199.54
+                ]
+            },
+            {
+                "text": " yên",
+                "timestamp": [
+                    199.54,
+                    200.2
+                ]
+            },
+            {
+                "text": " giấc",
+                "timestamp": [
+                    200.2,
+                    200.76
+                ]
+            },
+            {
+                "text": " còn",
+                "timestamp": [
+                    200.76,
+                    201.6
+                ]
+            },
+            {
+                "text": " mỗi",
+                "timestamp": [
+                    201.6,
+                    201.98
+                ]
+            },
+            {
+                "text": " giấc",
+                "timestamp": [
+                    201.98,
+                    202.28
+                ]
+            },
+            {
+                "text": " anh",
+                "timestamp": [
+                    202.28,
+                    202.6
+                ]
+            },
+            {
+                "text": " nơi",
+                "timestamp": [
+                    202.6,
+                    202.98
+                ]
+            },
+            {
+                "text": " này",
+                "timestamp": [
+                    202.98,
+                    203.28
+                ]
+            },
+            {
+                "text": " không",
+                "timestamp": [
+                    203.42,
+                    203.8
+                ]
+            },
+            {
+                "text": " chợp",
+                "timestamp": [
+                    203.8,
+                    204.4
+                ]
+            },
+            {
+                "text": " mãi",
+                "timestamp": [
+                    204.4,
+                    207.3
+                ]
+            },
+            {
+                "text": " lại",
+                "timestamp": [
+                    207.3,
+                    207.74
+                ]
+            },
+            {
+                "text": " một",
+                "timestamp": [
+                    207.74,
+                    208.0
+                ]
+            },
+            {
+                "text": " đêm",
+                "timestamp": [
+                    208.0,
+                    208.4
+                ]
+            },
+            {
+                "text": " nữa",
+                "timestamp": [
+                    208.4,
+                    208.84
+                ]
+            },
+            {
+                "text": " khi",
+                "timestamp": [
+                    208.84,
+                    209.36
+                ]
+            },
+            {
+                "text": " mà",
+                "timestamp": [
+                    209.36,
+                    209.66
+                ]
+            },
+            {
+                "text": " cả",
+                "timestamp": [
+                    209.66,
+                    210.02
+                ]
+            },
+            {
+                "text": " thế",
+                "timestamp": [
+                    210.02,
+                    210.38
+                ]
+            },
+            {
+                "text": " giới",
+                "timestamp": [
+                    210.38,
+                    210.92
+                ]
+            },
+            {
+                "text": " đã",
+                "timestamp": [
+                    210.92,
+                    211.9
+                ]
+            },
+            {
+                "text": " thắt",
+                "timestamp": [
+                    211.9,
+                    212.38
+                ]
+            },
+            {
+                "text": " ngọn",
+                "timestamp": [
+                    212.38,
+                    212.88
+                ]
+            },
+            {
+                "text": " đèn",
+                "timestamp": [
+                    212.88,
+                    213.54
+                ]
+            },
+            {
+                "text": " còn",
+                "timestamp": [
+                    213.54,
+                    215.48
+                ]
+            },
+            {
+                "text": " xương",
+                "timestamp": [
+                    215.48,
+                    215.84
+                ]
+            },
+            {
+                "text": " anh",
+                "timestamp": [
+                    215.84,
+                    216.16
+                ]
+            },
+            {
+                "text": " ngồi",
+                "timestamp": [
+                    216.16,
+                    216.46
+                ]
+            },
+            {
+                "text": " đẹp",
+                "timestamp": [
+                    216.46,
+                    216.82
+                ]
+            },
+            {
+                "text": " hợp",
+                "timestamp": [
+                    216.82,
+                    217.22
+                ]
+            },
+            {
+                "text": " sáng",
+                "timestamp": [
+                    217.22,
+                    218.08
+                ]
+            },
+            {
+                "text": " giờ",
+                "timestamp": [
+                    218.08,
+                    221.64
+                ]
+            },
+            {
+                "text": " đây",
+                "timestamp": [
+                    221.64,
+                    221.96
+                ]
+            },
+            {
+                "text": " đã",
+                "timestamp": [
+                    221.96,
+                    222.22
+                ]
+            },
+            {
+                "text": " kết",
+                "timestamp": [
+                    222.22,
+                    222.62
+                ]
+            },
+            {
+                "text": " thúc",
+                "timestamp": [
+                    222.62,
+                    222.92
+                ]
+            },
+            {
+                "text": " hết",
+                "timestamp": [
+                    222.92,
+                    223.26
+                ]
+            },
+            {
+                "text": " tất",
+                "timestamp": [
+                    223.26,
+                    223.56
+                ]
+            },
+            {
+                "text": " cả",
+                "timestamp": [
+                    223.56,
+                    224.04
+                ]
+            },
+            {
+                "text": " những",
+                "timestamp": [
+                    224.04,
+                    224.42
+                ]
+            },
+            {
+                "text": " chuyện",
+                "timestamp": [
+                    224.42,
+                    224.9
+                ]
+            },
+            {
+                "text": " đã",
+                "timestamp": [
+                    224.9,
+                    225.48
+                ]
+            },
+            {
+                "text": " qua",
+                "timestamp": [
+                    225.48,
+                    226.2
+                ]
+            },
+            {
+                "text": " em",
+                "timestamp": [
+                    226.2,
+                    227.44
+                ]
+            },
+            {
+                "text": " bước",
+                "timestamp": [
+                    227.44,
+                    227.76
+                ]
+            },
+            {
+                "text": " tiếp",
+                "timestamp": [
+                    227.76,
+                    228.1
+                ]
+            },
+            {
+                "text": " con",
+                "timestamp": [
+                    228.1,
+                    228.4
+                ]
+            },
+            {
+                "text": " đường",
+                "timestamp": [
+                    228.4,
+                    228.9
+                ]
+            },
+            {
+                "text": " hạnh",
+                "timestamp": [
+                    228.9,
+                    229.98
+                ]
+            },
+            {
+                "text": " phúc",
+                "timestamp": [
+                    229.98,
+                    230.4
+                ]
+            },
+            {
+                "text": " đi",
+                "timestamp": [
+                    230.4,
+                    231.44
+                ]
+            },
+            {
+                "text": " đừng",
+                "timestamp": [
+                    231.44,
+                    234.24
+                ]
+            },
+            {
+                "text": " nhìn",
+                "timestamp": [
+                    234.24,
+                    234.8
+                ]
+            },
+            {
+                "text": " lại",
+                "timestamp": [
+                    234.8,
+                    236.1
+                ]
+            },
+            {
+                "text": ".ngoài",
+                "timestamp": [
+                    236.1,
+                    258.56
+                ]
+            },
+            {
+                "text": " ra",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " còn",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " mở",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " cửa",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " để",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " sử",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " dụng",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " kiến",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " nghị",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " của",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " vũ",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " khí",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " trong",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " thời",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " gian",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
+            },
+            {
+                "text": " tới.",
+                "timestamp": [
+                    258.56,
+                    258.56
+                ]
             }
         ]
     }
