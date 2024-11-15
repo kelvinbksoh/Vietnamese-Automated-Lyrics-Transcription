@@ -3,4 +3,5 @@ librosa
 numpy
 panns_inference
 python-dotenv
+num2words
 git+https://github.com/openai/whisper.git 
