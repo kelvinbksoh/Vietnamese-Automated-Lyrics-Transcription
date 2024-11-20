@@ -1,0 +1,6 @@
+pandas
+fuzzywuzzy
+playwright
+tqdm
+yt-dlp
+# playwright-stealth
