@@ -75,7 +75,7 @@ def main():
     fill in "None" in this field. For the "output" field, you need
     to output the final lyrics of closest_prediction. If the "closest_
     prediction" field is "None", you should also output "None"
-    in this field. The language of the input lyrics is English.
+    in this field. The language of the input lyrics is Vietnamese.
     """
 
     for audio_json in os.listdir(results_dir):
@@ -101,12 +101,14 @@ def main():
             
             response = json.loads(response.replace("```json", "").replace("```", "").strip())
             print(response)
-            best_transcription_idx = int(response['closest_prediction'].split('_')[-1])
-            with open(output_dir + '/' + audio_json, 'w') as f:
-                data_dict = data[best_transcription_idx]
-                chatgpt_dict = {"chatgpt_response": response}
-                data_dict.update(chatgpt_dict)
-                json.dump(data_dict, f, indent=4, ensure_ascii=False)        
+            closest_prediction = response['closest_prediction']
+            if closest_prediction != "None":
+                best_transcription_idx = int(response['closest_prediction'].split('_')[-1])
+                with open(output_dir + '/' + audio_json, 'w') as f:
+                    data_dict = data[best_transcription_idx]
+                    chatgpt_dict = {"chatgpt_response": response}
+                    data_dict.update(chatgpt_dict)
+                    json.dump(data_dict, f, indent=4, ensure_ascii=False)        
         
 if __name__ == '__main__':
     main()

@@ -114,19 +114,20 @@ def transcribe_and_save(whisper_model, panns_model, args):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model', type=str, default='large-v3', help='model name')
+    parser.add_argument('--model', type=str, default='large-v2', help='model name')
     parser.add_argument('--prompt', type=str, default='lyrics: ', help='prompt for transcription')
     parser.add_argument('--language', type=str, default='vi', help='language of target audio')
     parser.add_argument('--input_dir', type=str, default='./sample', help='input directory')
     parser.add_argument('--output_dir', type=str, default='./results', help='output directory')
     parser.add_argument('--n_shard', type=int, default=1, help='number of shards')
-    parser.add_argument('--top_n_sample', type=int, default=3, help='number of sample to generate')    
+    parser.add_argument('--top_n_sample', type=int, default=1, help='number of sample to generate')    
     parser.add_argument('--shard_rank', type=int, default=0, help='rank of this shard')
     parser.add_argument('--threshold', type=float, default=0.00, help='threshold for vocal detection')
     parser.add_argument('--debug', action='store_true', help='debug mode')
     args = parser.parse_args()
 
     whisper_model = load_whisper(args.model)
+    
     panns_model = load_panns()
     transcribe_and_save(whisper_model, panns_model, args)
 

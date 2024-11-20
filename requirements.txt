@@ -4,7 +4,7 @@ numpy
 panns_inference
 python-dotenv
 git+https://github.com/openai/whisper.git 
-
+num2words
 #transformers #For PhoWhisper
 jiwer
 transformers
