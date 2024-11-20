@@ -23,6 +23,10 @@ def normalize_VNmese(text):
     return unicodedata.normalize('NFKC', text)
 
 def load_predicted_text(pred_file):
+
+    if pred_file.endswith('.txt'):
+        return load_ground_truth(pred_file)
+    
     """Load predicted text from a JSON file."""
     with open(pred_file, 'r') as _file:
         loaded_results = json.load(_file)
@@ -32,6 +36,7 @@ def load_predicted_text(pred_file):
     elif type(loaded_results) == list:
         text = [seg['text'][:-1] for seg in loaded_results] #Remove the last char, which is usually a dot
         text = ' '.join(text)
+
     else:
         raise ValueError(f'Unknown type of results: {type(loaded_results)}')
     
@@ -96,11 +101,11 @@ def evaluate_predictions(pred_dir, gt_dir):
     all_gt_songname = [remove_diacritics(os.path.basename(x).split('.origin.lrc')[0]) for x in all_gt]
 
     for pred_file in os.listdir(pred_dir):
-        if not pred_file.endswith('.json'):
+        if pred_file.split('.')[-1] not in ['json', 'txt']:
             continue  # Skip non-JSON files
 
         # Match predicted file with corresponding ground truth
-        song_name = os.path.basename(pred_file).split('.mp3.json')[0].split('.json')[0]
+        song_name = os.path.basename(pred_file).split('.mp3.json')[0].split('.json')[0].split('.txt')[0] #Various formats, don't ask :((
 
         song_name_normalized = remove_diacritics(song_name)
         
