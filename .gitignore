@@ -5,3 +5,9 @@ master_*
 *.mp3
 *.mp3.json
 misc
+train_cache
+test_cache
+train/phoWhisper.ipynb
+training_audio_pp
+validation_audio_pp
+whisper-*

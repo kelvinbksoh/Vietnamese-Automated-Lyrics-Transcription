@@ -199,6 +199,7 @@ if __name__ == '__main__':
     # os.environ["CUDA_VISIBLE_DEVICES"] = "0,1"#args.gpu_no
     parser = argparse.ArgumentParser(description="Whisper Trainer")
     parser.add_argument('--experiment_name', type=str, required=True, default='whisper-medium-vi-demucs')
+    parser.add_argument('--model_name', type=str, required=True, default='openai/whisper-small')    
     parser.add_argument('--train_audio_list', type=str, required=True, default='train_preprocessed_pp_audio_list.npy')
     parser.add_argument('--test_audio_list', type=str, required=True, default='test_preprocessed_pp_audio_list.npy')    
     # parser.add_argument('--gpu_no', type=str, required=True, default='0')    
@@ -208,18 +209,6 @@ if __name__ == '__main__':
     exp_name = args.experiment_name
     train_audio_list = args.train_audio_list
     test_audio_list = args.test_audio_list
-
-    # gt_dir = 'CustomLyricWhiz/master_1st_1000/out/master_downloads_1st/'
-    # gt_dir = 'quoc_master_1st_100_preprocessed/'
-    # pp_dir = 'CustomLyricWhiz/post_processed_transcripts/' # # len(glob.glob(f"{pp_dir}/*.json"))
-    # list_of_pp_audios = [x.split('.mp3.json')[0] for x in os.listdir(pp_dir)]
-    # test_dir = "master_1st_100_results_test_only"
-
-    # train_file_names, test_file_names = get_train_test_audio_names()
-    # len(train_file_names), len(test_file_names)
-
-    # train_preprocessed_audio_list = generate_preprocessed_audio_list(train_file_names)
-    # test_preprocessed_audio_list = generate_preprocessed_audio_list(test_file_names)
 
     train_preprocessed_audio_list = np.load(train_audio_list, allow_pickle=True).tolist()[:]
     test_preprocessed_audio_list = np.load(test_audio_list, allow_pickle=True).tolist()[:]
@@ -240,14 +229,10 @@ if __name__ == '__main__':
     # Check the DatasetDict
     print(dataset_dict)
 
-    model_name = "openai/whisper-large-v2"
+    model_name = args.model_name
     feature_extractor = WhisperFeatureExtractor.from_pretrained(model_name)
     tokenizer = WhisperTokenizer.from_pretrained(model_name, language="vietnamese", task="transcribe")
     processor = WhisperProcessor.from_pretrained(model_name, language="vietnamese", task="transcribe")
-
-    # viet_dataset_dict = dataset_dict.map(prepare_dataset,
-    #                                  # remove_columns=dataset_dict.column_names["train"]
-    #                                  num_proc=1)    
 
     vectorized_datasets_train = dataset_dict["train"].map(prepare_dataset, num_proc=1, remove_columns=dataset_dict.column_names["train"],
                                                           batch_size=8, cache_file_name='train_cache/tmp', load_from_cache_file=True)
@@ -255,6 +240,10 @@ if __name__ == '__main__':
                                                         prepare_dataset, num_proc=1, remove_columns=dataset_dict.column_names["train"],
                                                         batch_size=8, cache_file_name='test_cache/tmp', load_from_cache_file=True)
 
+    cache_folders = ['train_cache', 'test_cache']
+    for cache_folder in cache_folders:
+        if not os.path.exists(cache_folder):
+            os.makedirs(cache_folder)
     
     model = WhisperForConditionalGeneration.from_pretrained(model_name)
     model.generation_config.language = "vietnamese"
@@ -304,7 +293,5 @@ if __name__ == '__main__':
         compute_metrics=compute_metrics,
         tokenizer=processor.feature_extractor,
     )
-    # # python code/run_whisper.py --input_dir "master_1st_1000/out/master_downloads_1st/" --output_dir "master_1st_1000_results"
-    # deepspeed --num_gpus=2  whisper_train.py --experiment_name "whisper-small-v2-7k-1k-pp" --train_audio_list "train_preprocessed_audio_8k_pp_audio_list.npy" --test_audio_list "test_preprocessed_audio_8k_pp_audio_list.npy"
     trainer.train()
     
