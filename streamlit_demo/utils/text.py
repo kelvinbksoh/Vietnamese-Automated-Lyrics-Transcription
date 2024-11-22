@@ -17,11 +17,11 @@ def split_by_capitalization(transcription):
         # Check if the current text has capitalization at the start or in the middle of the word
         cap_search = re.search(r'[A-ZÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚÝỲĂĐĨŨƠƯẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂẾỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪỬỮỰỴỶỸ]', text)
         if cap_search or not current_line:
-            
-            if cap_search.span() != (0,1):
-                split_texts = re.split(r'(?=[A-ZÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚÝỲĂĐĨŨƠƯẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂẾỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪỬỮỰỴỶỸ])', text)
-                current_line = current_line + ' ' + ' '.join(split_texts[:-1])
-                text = split_texts[-1]
+            if cap_search:
+                if cap_search.span() != (0,1):
+                    split_texts = re.split(r'(?=[A-ZÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚÝỲĂĐĨŨƠƯẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂẾỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪỬỮỰỴỶỸ])', text)
+                    current_line = current_line + ' ' + ' '.join(split_texts[:-1])
+                    text = split_texts[-1]
 
             result.append(current_line.strip())
             

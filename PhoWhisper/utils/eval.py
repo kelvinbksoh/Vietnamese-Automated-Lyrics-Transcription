@@ -109,7 +109,7 @@ def evaluate_predictions(pred_dir, gt_dir):
 
         song_name_normalized = remove_diacritics(song_name)
         
-        gt_file = all_gt[all_gt_songname.index(song_name_normalized)]
+        gt_file = all_gt[[x.lower() for x in all_gt_songname].index(song_name_normalized.lower())]
 
         if not os.path.exists(gt_file):
             print('-------------------')
@@ -129,11 +129,11 @@ def evaluate_predictions(pred_dir, gt_dir):
     # Print summary
     if count > 0:
         print(f"Total songs evaluated: {count}")
-        print(f"Average MER: {all_metrics['mer'] / count:.3f}")
-        print(f"Average WER: {all_metrics['wer'] / count:.3f}")
-        print(f"Average WIL: {all_metrics['wil'] / count:.3f}")
-        print(f"Average WIP: {all_metrics['wip'] / count:.3f}")
-        print(f"Average CER: {all_metrics['cer'] / count:.3f}")
+        print(f"Average MER: {all_metrics['mer'] / count:.4f}")
+        print(f"Average WER: {all_metrics['wer'] / count:.4f}")
+        print(f"Average WIL: {all_metrics['wil'] / count:.4f}")
+        print(f"Average WIP: {all_metrics['wip'] / count:.4f}")
+        print(f"Average CER: {all_metrics['cer'] / count:.4f}")
     else:
         print("No valid predictions found.")
 
