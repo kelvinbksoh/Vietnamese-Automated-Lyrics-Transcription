@@ -96,6 +96,10 @@ To generate the transcription for a song, we can use the Transformers [`pipeline
 >>> )
 >>> transcription = asr_pipeline("sample_audio.mp3", return_timestamps="word")
 ```
+
+## Streamlit Demo
+For the streamlit demo app, go into `streamlit_demo` folder and follow its `README.md`.
+
 ## Contribution
 This project was made through equal contributions from:
 - [Kevin Soh](https://github.com/kelvinbksoh)
