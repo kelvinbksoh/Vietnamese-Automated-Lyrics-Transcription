@@ -1,9 +1,10 @@
 # Vietnamese Automated Lyrics Transcription (ALT)
 This project aims to perform automatic lyrics transcription on Vietnamese songs, the pre-trained model used for this task is Whisper model from [Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356).
 
-Our fine-tuned Whisper model for Vietnamese lyrics transcription is now available on Hugging Face 🤗 : 
+Our fine-tuned Whisper model for Vietnamese lyrics transcription is now available on Hugging Face 🤗
+- [xyzDivergence/whisper-small-vietnamese-lyrics-transcription](https://huggingface.co/xyzDivergence/whisper-small-vietnamese-lyrics-transcription)
 - [xyzDivergence/whisper-medium-vietnamese-lyrics-transcription](https://huggingface.co/xyzDivergence/whisper-medium-vietnamese-lyrics-transcription)
-- [xyzDivergence/whisper-large-v2-vietnamese-lyrics-transcription](https://huggingface.co/xyzDivergence/whisper-large-v2-vietnamese-lyrics-transcription).
+- [xyzDivergence/whisper-large-v2-vietnamese-lyrics-transcription](https://huggingface.co/xyzDivergence/whisper-large-v2-vietnamese-lyrics-transcription)
 
 ## Setup
 To install the dependencies, run the following command:
@@ -17,6 +18,12 @@ pip install -r requirements.txt
  
 ## Training Data
 The training dataset consists of 7,000 Vietnamese songs, in total of roughly 550 hours of audio, across various Vietnamese music genres, dialects and accents. Due to IP concerns, the data is not publicly available. Each song includes lyrics along with corresponding line-level timestamps, enabling precise mapping of audio segments to their respective lyrics based on the provided timestamp information.
+
+## Preparation for Model training
+To train the Whisper model, change your directory to the train/ folder:
+```
+cd train/
+```
 
 ## Data folder structure
 ```bash        
@@ -70,11 +77,11 @@ deepspeed --num_gpus=2 whisper_train.py --experiment_name "whisper-large-v2-7k-1
 ```
 
 ##  Whisper Evaluation
-| **Model**            | **WER (Lowercase)** | **WER (Case-Sensitive)** | **CER (Lowercase)** | **CER (Case-Sensitive)** |
+| **Model**            | **WER (%) Case-Sensitive** | **WER (%) Lowercase** | **CER (%) Case-Sensitive** | **CER (%) Lowercase** |
 |----------------------|--------------------|--------------------------|--------------------|--------------------------|
-| whisper-small        |                    | 32.64                    |                    | 20.8                     |
-| whisper-medium       | 23.15              | 26.42                    | 17.01              | 17.03                    |
-| whisper-large-v2     | 20.52              | 24.61                    | 16.09              | 17.14                    |
+| whisper-small        | 34.91              | 30.73                    | 24.82              | 23.65                    |
+| whisper-medium       | 26.42              | 23.15                    | 17.03              | 17.01                    |
+| whisper-large-v2     | 24.61              | 20.52                    | 17.14              | 16.09                    |
 ## Whisper Inference 
 To perform Vietnamese automatic lyrics transcription, you can use the Transformers pipeline below.
 
@@ -89,10 +96,6 @@ To generate the transcription for a song, we can use the Transformers [`pipeline
 >>> )
 >>> transcription = asr_pipeline("sample_audio.mp3", return_timestamps="word")
 ```
-
-## Streamlit Demo
-For the streamlit demo app, go into `streamlit_demo` folder and follow its `README.md`.
-
 ## Contribution
 This project was made through equal contributions from:
 - [Kevin Soh](https://github.com/kelvinbksoh)
