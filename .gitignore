@@ -2,7 +2,6 @@
 .env
 master_*
 *.npy
-*.mp3
 *.mp3.json
 misc
 train_cache
