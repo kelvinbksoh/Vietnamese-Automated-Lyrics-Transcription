@@ -1,4 +1,4 @@
-# TOBE REFACTOR IN DECEMBER 2024
+# Data Processing
 
 # vietnamese-song-scraping
 Code to scrape songs and lyrics from Zing mp3 and other preprocessing
@@ -20,9 +20,9 @@ SCRAPING FLOW:
 
 
 
-.py Files:
+Code Files:
 - original_zingmp3_crawler.py: original scraping file
-- url_scrape.py: test rendering 1 search page
+- url_scrape.py: Rendering Search result page, then scrape all single song urls
 - audio_scrape: test downloading 1 song
 
 Output files, processed chronologically:

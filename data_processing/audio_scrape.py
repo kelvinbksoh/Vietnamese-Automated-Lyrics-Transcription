@@ -1,8 +1,16 @@
+import requests
+import re
+import subprocess
+import sys
 import os
 import tqdm
 import time
 import pandas as pd
 import random
+import csv
+from csv import DictWriter
+
+# from requests_html import HTMLSession
 import yt_dlp
 
 '''
@@ -32,7 +40,7 @@ ChatGPT suggested that i use playwright or Selenium to open a browser in the bac
 
 '''
 
-def download_song(link, folder_path, max_file_size=10000000):
+def download_song(link, folder_path, max_file_size=10000000, only_metadata=False):
     '''
     # Example usage
     # download_song('https://zingmp3.vn/bai-hat/Danh-Om-Xot-Xa-Luu-Chi-Vy/ZW6CUUDE.html', './out')
@@ -50,22 +58,25 @@ def download_song(link, folder_path, max_file_size=10000000):
         'writesubtitles': True,
         'format': 'bestaudio/best',  # Adjust as needed
         'outtmpl': os.path.join(folder_path, '%(title)s.%(ext)s'),  # Specify output filename template
+        'skip_download':True
     }
 
+    # if use_google_cached:
+    #   link = 'http://webcache.googleusercontent.com/search?q=cache:' + link
     start_time = time.time()
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         song_metadata = ydl.extract_info(url=link, download=False)
+        if only_metadata:
+          print(f'Elapsed Time (in seconds): ', time.time() - start_time)
+          return song_metadata
         if song_metadata['subtitles'] != None or song_metadata['filesize_approx'] <= max_file_size: # skip song download if there is no subtitles available or if the filesize exceeds threshold (e.g. 10MB)
           ydl.download([link])
+          print(f'Elapsed Time (in seconds): ', time.time() - start_time)
 
-    print(f'Elapsed Time (in seconds): ', time.time() - start_time)
-
-def main(file_name:str, limit=10, last_stop_idx=None):
+def download_all_songs(file_name:str, limit=10, last_stop_idx=None):
 
   download_df = pd.read_csv(file_name)
   download_ls = download_df['download_link'].to_list()
-
-  limit = len(download_ls) if limit == None else limit
 
   if last_stop_idx:
     download_ls = download_ls[last_stop_idx:]
@@ -74,15 +85,64 @@ def main(file_name:str, limit=10, last_stop_idx=None):
   for idx, link in enumerate(download_ls):
     if idx < limit:
       try:
-        download_song(link, './out/songs')
+        download_song(link, './out')
       except:
         print('last_stop_idx: ', idx)
-
-    if idx % 10 == 0:
-      time.sleep(random.uniform(0.5, 1.5))
 
   print(f'Total Elapsed Time (in seconds): ', time.time() - start_time)
   return
 
+def download_all_metadata(file_name:str, limit=10, last_stop_idx=None):
+
+  download_df = pd.read_csv(file_name)
+  download_ls = download_df['link'].to_list()
+
+  if last_stop_idx:
+    download_ls = download_ls[last_stop_idx:]
+
+  init_time = time.time()
+  for idx, link in enumerate(download_ls):
+    start_time = time.time()
+    if idx < limit:
+      time.sleep(random.uniform(1, 4))
+      try:
+        metadata = download_song(link, './out', only_metadata=True)
+        new_row = {
+          'title': metadata['title'],
+          'fulltitle': metadata['fulltitle'],
+          'duration': metadata['duration'],
+          'artist': metadata['artist'],
+          'album': metadata['album'],
+          'abr': metadata['abr'],
+          'vbr': metadata['vbr'],
+          'tbr': metadata['tbr'],
+          'release_year': metadata['release_year'],
+          'filesize_approx': metadata['filesize_approx'],
+        }
+        with open('./out/metadata.csv', 'a') as f_object:
+          dictwriter_object = DictWriter(f_object, fieldnames=list(new_row.keys()))
+          dictwriter_object.writerow(new_row)
+          f_object.close()
+          print(f'Total Elapsed Time (in seconds): ', time.time() - start_time)
+      except Exception as e:
+        if last_stop_idx:
+          song_index = last_stop_idx + idx
+        else:
+          song_index = idx
+        with open('out/download_failures.csv','a+', newline ='') as file:
+          dictwriter_object = DictWriter(file, fieldnames=['idx','reason'])
+          dictwriter_object.writerow({'idx':song_index, 'reason':e})
+          file.close()
+        print('last_stop_idx: ', song_index)
+        print(f'Total Elapsed Time (in seconds): ', time.time() - start_time)
+
+  print(f'Total Elapsed Time (in seconds): ', time.time() - init_time)
+  return
+
 if __name__ == "__main__":
-  main('out/unique_songname_links.csv', limit=None)
+
+  # download_song('https://zingmp3.vn/bai-hat/LK-Tru-Tinh-Chon-Loc-2023-Dong-Dao/Z779DIDA.html', './out', only_metadata=True) 
+  # download_all_songs('out/spedup_downloads.csv', limit=10)
+
+  download_all_metadata('in/8k_songs.csv', limit=8000, last_stop_idx=3870)
+  # download_all_metadata('in/8k_songs.csv', limit=8000, last_stop_idx=5000)

@@ -1,22 +1,14 @@
 import re
 import tqdm
 import random
+from vnmese_utils import is_vietnamese
 # Some heuristic to remove duplicates, remixes, cuz searches would get them anyway
 
 RANDOM_SEED = 314
 random.seed(RANDOM_SEED)
-VNCHARS = set("áàảãạăắằẳẵặâấầẩẫậđèéẻẽẹêếềểễệíìỉĩịóòỏõọôốồổỗộơớờởỡợúùủũụưứừửữựýỳỷỹỵ")
-
-def is_vietnamese(text):
-    text = text.lower()
-    # Check if any Vietnamese-specific character is in the text
-    for char in text:
-        if char in VNCHARS:
-            return True
-    return False
 
 if __name__ == '__main__':
-    with open('./in/sample_tracks_candidates.txt', 'r', encoding='utf-8') as file:
+    with open('./in/track_candidates.txt', 'r', encoding='utf-8') as file:
         samples = file.read().strip().split('\n')       
 
     print(len(samples))
@@ -49,7 +41,7 @@ if __name__ == '__main__':
     #Shuffle
     random.shuffle(new_list)
     
-    with open('./in/filtered_sample_tracks.txt', 'w', encoding='utf-8') as file:
+    with open('./in/filtered_tracks_candidates.txt', 'w', encoding='utf-8') as file:
         file.write('\n'.join(new_list))
             
 

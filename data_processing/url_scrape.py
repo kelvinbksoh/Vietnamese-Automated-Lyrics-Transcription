@@ -109,7 +109,7 @@ if __name__ == '__main__':
     # song_name =  '0-gio-2-phut-ly-tuan-kiet' #'0-Gio-2-Phut-Ly-Tuan-Kiet'
     # get_song_link(link, song_name)
 
-    filepath = 'in/filtered_sample_tracks.txt'
+    filepath = 'in/filtered_tracks_candidates.txt'
     with open(filepath, 'r', encoding='utf-8') as file:
         samples = file.read().strip().split('\n')
     
