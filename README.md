@@ -17,7 +17,7 @@ pip install -r requirements.txt
 - RAM 128 GB
  
 ## Training Data
-The training dataset consists of 7,000 Vietnamese songs, in total of roughly 550 hours of audio, across various Vietnamese music genres, dialects and accents. Due to IP concerns, the data is not publicly available. Each song includes lyrics along with corresponding line-level timestamps, enabling precise mapping of audio segments to their respective lyrics based on the provided timestamp information.
+The training dataset consists of 7,000 Vietnamese songs, in total of roughly 550 hours of audio, across various Vietnamese music genres, dialects and accents. Due to IP concerns, the data is not publicly available. However, songs and lyrics scraping guide and preprocessing code can be found in `data_processing`, along with the songs and links used for training and testing, which are in folder `data_processing/in` train and val csv files. Each song includes lyrics along with corresponding line-level timestamps, enabling precise mapping of audio segments to their respective lyrics based on the provided timestamp information.
 
 ## Preparation for Model training
 To train the Whisper model, change your directory to the train/ folder:
